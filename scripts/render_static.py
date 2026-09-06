@@ -38,11 +38,13 @@ def story_card(article: dict, position: int) -> str:
     )
 
 
-def build_page(digests: list[dict]) -> tuple[str, str, int]:
-    digest = sorted(digests, key=lambda item: str(item.get("date", "")), reverse=True)[0]
+def build_page(digests: list[dict], selected: dict | None = None, prefix: str = "") -> tuple[str, str, int]:
+    digest = selected or sorted(digests, key=lambda item: str(item.get("date", "")), reverse=True)[0]
     articles = sorted(digest.get("articles", []), key=lambda item: int(item.get("rank", 999)))
-    if len(articles) != 20:
-        raise RuntimeError(f"Expected 20 articles, found {len(articles)}")
+    if not articles:
+        raise RuntimeError("Digest has no articles")
+    regions = [a.get("region") for a in articles]
+    ratio = f"中国相关新闻 {regions.count('中国')} 条，国际新闻 {regions.count('国际')} 条。" if all(regions) else ""
 
     themes = "".join(
         f'<article class="theme"><span>0{i}</span><p>{esc(theme)}</p></article>'
@@ -51,7 +53,7 @@ def build_page(digests: list[dict]) -> tuple[str, str, int]:
     cards = "".join(story_card(article, i) for i, article in enumerate(articles))
     archive = "".join(
         f'<a class="{"active" if item.get("date") == digest.get("date") else ""}" '
-        f'href="?date={esc(item.get("date"))}"><time>{esc(item.get("date"))}</time><span>查看 →</span></a>'
+        f'href="{prefix}archive/{esc(item.get("date"))}.html"><time>{esc(item.get("date"))}</time><span>查看 →</span></a>'
         for item in sorted(digests, key=lambda item: str(item.get("date", "")), reverse=True)[:365]
     )
     watch = "".join(f"<li>{esc(item)}</li>" for item in digest.get("watchNext", [])[:5])
@@ -76,20 +78,21 @@ def build_page(digests: list[dict]) -> tuple[str, str, int]:
   </style>
 </head>
 <body>
-  <header><a class="brand" href="./"><b>经纬</b><small>GLOBAL BRIEF</small></a><div class="status">按需更新 · 北京时间</div></header>
-  <section class="hero"><div class="eyebrow">全球科技与经济 · 每期 20 条</div><h1 id="title">{esc(digest.get("title"))}</h1><p>从固定国际权威来源收集约 30 条候选，按影响力选出 20 条。以新闻发布时间为准，不使用无关配图。</p><div class="meta"><span id="date">{esc(digest.get("date"))}</span><span id="count">20 则新闻</span><span id="updated">更新于 {esc(digest.get("generatedAt"))}</span></div></section>
+  <header><a class="brand" href="{prefix or './'}"><b>经纬</b><small>GLOBAL BRIEF</small></a><div class="status">按需更新 · 北京时间</div></header>
+  <section class="hero"><div class="eyebrow">全球科技与经济 · 本期 {len(articles)} 条</div><h1 id="title">{esc(digest.get("title"))}</h1><p>{ratio}聚焦科技与经济，采用境外权威来源，按需更新。</p><div class="meta"><span id="date">{esc(digest.get("date"))}</span><span id="count">{len(articles)} 则新闻</span><span id="updated">更新于 {esc(digest.get("generatedAt"))}</span></div></section>
   <section class="themes" id="themes"><div class="kicker">本期三大主线</div><div class="themegrid" id="themegrid">{themes}</div></section>
   <div class="layout"><main><div class="heading"><div><div class="kicker">THE SELECTED TWENTY</div><h2>本期要闻</h2></div><span class="rule"></span></div><div id="news"><div class="grid">{cards}</div></div></main>
     <aside><section><div class="kicker">ARCHIVE</div><h2>往期日志</h2><nav id="archive">{archive}</nav></section><section class="watch"><div class="kicker">WATCH NEXT</div><h2>接下来值得关注</h2><div id="watch"><ol>{watch}</ol></div></section><section class="sources"><div class="kicker">SOURCE STANDARD</div><h2>固定来源</h2><p>每个来源原则上选 1–2 条候选，再从约 30 条候选中筛选最终 20 条。</p><div class="cloud">Reuters · AP · BBC · FT · Bloomberg · CNBC · Nikkei Asia · Nature · MIT Tech Review · The Verge · TechCrunch · IMF · World Bank · Federal Reserve · ECB</div></section></aside>
   </div><footer><span>经纬日报</span><span>固定来源 · 发布时间优先 · 按需更新</span><span>仅供信息参考，不构成投资建议</span></footer>
-  <script src="./app.js" defer></script>
+  <script src="{prefix}app.js" defer></script>
 </body>
 </html>"""
     return page, str(digest.get("date")), len(articles)
 
 
 def main() -> None:
-    digests = json.loads(DATA.read_text(encoding="utf-8"))
+    files = sorted((DATA.parent / "daily").glob("*.json"), reverse=True)
+    digests = [json.loads(p.read_text(encoding="utf-8")) for p in files] if files else json.loads(DATA.read_text(encoding="utf-8"))
     if not digests:
         raise RuntimeError("digests.json is empty")
     page, date, count = build_page(digests)

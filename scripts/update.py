@@ -193,7 +193,11 @@ def main():
     args = parser.parse_args()
     digests = history()
     if args.command == 'status':
-        print(json.dumps({k: digests[0].get(k) for k in ('date', 'windowStart', 'windowEnd', 'generatedAt')} if digests else {'migrationRequired': True}, ensure_ascii=False))
+        status = {k: digests[0].get(k) for k in ('date', 'windowStart', 'windowEnd', 'generatedAt')} if digests else {'migrationRequired': True}
+        if digests and not status.get('windowEnd'):
+            status['suggestedWindowStart'] = digests[0]['date'] + 'T00:00:00+08:00'
+            status['note'] = '旧期无可靠检索截止时间；首次使用日期零点，轻量排除上期已收录URL，之后严格衔接windowEnd。'
+        print(json.dumps(status, ensure_ascii=False))
     elif args.command == 'migrate':
         if digests:
             raise ValueError('已迁移，拒绝重复覆盖')

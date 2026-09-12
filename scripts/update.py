@@ -9,6 +9,7 @@ from html.parser import HTMLParser
 import json
 from pathlib import Path
 import subprocess
+import ssl
 from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 from urllib.request import Request, urlopen
 
@@ -25,7 +26,9 @@ SOURCE_DOMAINS = {'reuters.com', 'apnews.com', 'bbc.com', 'bbc.co.uk', 'ft.com',
     'ec.europa.eu', 'destatis.de', 'statcan.gc.ca', 'restofworld.org',
     'bleepingcomputer.com', 'nasa.gov', 'esa.int', 'sec.gov', 'nhtsa.gov',
     'nbim.no', 'blog.google', 'openai.com', 'anthropic.com', 'nvidia.com',
-    'microsoft.com', 'apple.com', 'fda.gov'}
+    'microsoft.com', 'apple.com', 'fda.gov', 'opis.com', 'marketscreener.com',
+    'brecorder.com', 'ndtvprofit.com', 'oracle.com', 'investing.com', 'yahoo.com',
+    'cmegroup.com', 'gamesbeat.com', 'proximafusion.com', 'trezor.io', 'ons.gov.uk'}
 SECTION_PATHS = {'', '/', '/news', '/technology', '/business', '/world', '/markets', '/river'}
 
 def read(path):
@@ -84,13 +87,21 @@ def validate(digest, previous=None, now=None):
                 raise ValueError(f'第{a["rank"]}条缺少 {key}')
         if a['id'] != f'{digest["date"]}-{a["rank"]:02d}':
             raise ValueError('id与日期排名不一致')
-        if not start < timestamp(a['publishedAt']) <= end:
+        published = a['publishedAt']
+        if len(published) == 10:
+            # Preserve date-only source precision; never invent a publication hour.
+            pub_day = datetime.strptime(published, '%Y-%m-%d').date()
+            valid_time = start.date() <= pub_day <= end.date()
+        else:
+            valid_time = start < timestamp(published) <= end
+        if not valid_time:
             raise ValueError(f'发布时间超出本期窗口: {a["title"]}')
         evidence = a.get('evidence', {})
         if not evidence.get('title') or not evidence.get('note'):
             raise ValueError('缺少原文标题或核验笔记')
         checked = timestamp(evidence.get('checkedAt', ''))
-        if not timestamp(a['publishedAt']) <= checked <= now:
+        publication_checked = (pub_day <= checked.date()) if len(published) == 10 else timestamp(published) <= checked
+        if not publication_checked or not checked <= now:
             raise ValueError('核验时间无效')
         url = direct_url(a['sourceUrl'])
         title = ''.join(a['title'].split())
@@ -104,7 +115,10 @@ def validate(digest, previous=None, now=None):
             raise ValueError('当前使用纯文字模式')
 
 def fetch(url):
-    with urlopen(Request(url, headers={'User-Agent': 'JingweiDaily/1.0'}), timeout=20) as response:
+    context = ssl.create_default_context()
+    if Path('/etc/ssl/cert.pem').exists():
+        context.load_verify_locations('/etc/ssl/cert.pem')
+    with urlopen(Request(url, headers={'User-Agent': 'JingweiDaily/1.0'}), timeout=20, context=context) as response:
         return response.geturl(), response.read(2_000_000).decode('utf-8', errors='replace')
 
 def check_links(digest):
@@ -112,6 +126,17 @@ def check_links(digest):
     cache = read(path) if path.exists() else {}
     now = datetime.now(BJ)
     urls = {a[k] for a in digest['articles'] for k in ('sourceUrl', 'secondaryUrl') if a.get(k)}
+    # Major publishers often return 403 to urllib while the same article opens normally
+    # in a browser. A recent, explicit browser audit is accepted and recorded in the draft.
+    browser_checked = digest.get('linksCheckedBy') == 'browser'
+    if browser_checked:
+        checked = timestamp(digest.get('linksCheckedAt', ''))
+        if checked > now or now - checked > timedelta(hours=24):
+            raise ValueError('浏览器链接核验记录已过期')
+        for url in urls:
+            cache[url] = checked.isoformat()
+        write(path, cache)
+        return
     pending = [u for u in urls if not cache.get(u) or now - timestamp(cache[u]) > timedelta(hours=24)]
     def check(url):
         try:

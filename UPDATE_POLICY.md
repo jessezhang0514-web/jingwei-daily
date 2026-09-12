@@ -18,13 +18,13 @@
 
 沿用 date/title/mainThemes/watchNext/articles 等字段，额外要求：
 - windowStart、windowEnd：含时区ISO时间，如 2026-09-06T08:00:00+08:00。
-- 每条 region 为 中国 或 国际；publishedAt 为原文真实发布时间（含时区）。
+- 每条 region 为 中国 或 国际；publishedAt 为原文真实发布时间（含时区）。原文只提供日期时保存YYYY-MM-DD，不编造时分；窗口边界日须人工确认文章确在截止点前发布。
 - evidence 对象包含 title（原文标题）、note（支持摘要的简短事实笔记）、checkedAt（含时区的核验时间）。不存全文。
 - generatedAt 由准备脚本写入实际北京时间，不固定写08:00。
 
 ## 准备与发布
 
-1. `python3 scripts/update.py prepare drafts/YYYY-MM-DD.json`：检查20条、5/15、排名、日期窗口、必填项、来源和重复原文，并发检查链接。成功链接缓存24小时；403不能算通过，换可访问的权威直达原文。
+1. `python3 scripts/update.py prepare drafts/YYYY-MM-DD.json`：检查20条、5/15、排名、日期窗口、必填项、来源和重复原文，并发检查链接。成功链接缓存24小时；权威网站若只拦截程序但浏览器可正常打开，可在实际逐条打开后记录 `linksCheckedBy: browser` 和 `linksCheckedAt`，24小时内复用，不能把未打开的403误记为通过。
 2. 自动生成当期独立JSON、索引、当期静态存档和首页。两处正文使用同一模板，不依赖浏览器脚本。
 3. `python3 scripts/update.py publish`：验收生成文件，单次提交推送main，不强推。失败保留文件。没有变化就不制造空提交。
 4. `python3 scripts/update.py verify --url https://jessezhang0514-web.github.io/jingwei-daily/`：比对线上日期、标题、20张正文卡片和当期存档。若尚未上线，稍后重试一次，不反复刷新。

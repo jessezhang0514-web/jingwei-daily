@@ -5,7 +5,7 @@ from pathlib import Path
 import unittest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from update import validate, canonical, check_page
+from update import validate, canonical, check_page, check_links
 from render_static import build_page
 
 class WorkflowTests(unittest.TestCase):
@@ -50,6 +50,10 @@ class WorkflowTests(unittest.TestCase):
     def test_canonical(self):
         self.assertEqual(canonical('https://www.apnews.com/article/a/?utm_source=x#top'),
                          canonical('https://apnews.com/article/a'))
+
+    def test_recent_browser_link_audit(self):
+        self.d.update(linksCheckedBy='browser', linksCheckedAt=datetime.now().astimezone().isoformat())
+        check_links(self.d)
 
 if __name__ == '__main__':
     unittest.main()

@@ -25,7 +25,7 @@ SOURCE_DOMAINS = {'reuters.com', 'apnews.com', 'bbc.com', 'bbc.co.uk', 'ft.com',
     'wired.com', 'arstechnica.com', 'theverge.com', 'techcrunch.com', 'bls.gov',
     'ec.europa.eu', 'destatis.de', 'statcan.gc.ca', 'restofworld.org',
     'bleepingcomputer.com', 'nasa.gov', 'esa.int', 'sec.gov', 'nhtsa.gov',
-    'nbim.no', 'blog.google', 'openai.com', 'anthropic.com', 'nvidia.com',
+    'nbim.no', 'blog.google', 'openai.com', 'anthropic.com', 'nvidia.com', 'scmp.com',
     'microsoft.com', 'apple.com', 'fda.gov', 'opis.com', 'marketscreener.com',
     'brecorder.com', 'ndtvprofit.com', 'oracle.com', 'investing.com', 'yahoo.com',
     'cmegroup.com', 'gamesbeat.com', 'proximafusion.com', 'trezor.io', 'ons.gov.uk'}

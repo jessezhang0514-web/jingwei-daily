@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-03",
+  "title": "美国就业降温缓解加息压力，AI基础设施扩张同步触发成本、安全与监管约束",
+  "mainThemes": [
+    "美国就业明显放缓，市场下调近期加息概率",
+    "中国芯片、航空和金融AI治理出现新进展",
+    "AI投资继续扩张，但社区成本、数据权限和出口管制压力上升"
+  ],
+  "watchNext": [
+    "关注美国就业修正数据是否继续走弱",
+    "观察中国假期后的消费、市场与政策信号",
+    "跟踪AI数据中心电力成本和代理权限监管"
+  ],
+  "windowStart": "2026-10-01T22:00:00+08:00",
+  "windowEnd": "2026-10-03T14:40:00+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-10-03T14:40:00+08:00",
+  "articles": [
+    {
+      "id": "2026-10-03-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "公司",
+      "title": "耐克中国销售大跌26%，公司加码裁员重组",
+      "summary": "耐克第一财季销售额为112亿美元，低于市场预期；中国区按固定汇率计算的销售额下降26%。公司预计全年收入将明显下滑，并宣布进一步裁员和调整全球业务部门。",
+      "whyImportant": "中国消费疲弱和本土品牌竞争正在直接影响全球消费巨头的增长与组织结构。",
+      "publishedAt": "2026-10-01T16:17:00-04:00",
+      "eventTime": "2026年10月1日财报",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://www.marketscreener.com/news/nike-quarterly-sales-miss-estimates-as-china-weakness-competition-weigh-ce785ddadb8ef220",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop",
+        "note": "中国区固定汇率销售跌26%；季度销售112亿美元；宣布裁员与业务重组。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "芯片",
+      "title": "中国晶圆厂囤积数百台ASML浸没式DUV设备",
+      "summary": "一份美国研究机构报告估计，截至2026年初，中国晶圆厂已获得约343台浸没式DUV光刻机，其中约270台为ASML NXT:1980i。报告作者呼吁全面限制对华销售、零部件和维修服务。",
+      "whyImportant": "DUV设备仍可用于7纳米级逻辑和先进存储生产，是中国绕开EUV限制的重要路径。",
+      "publishedAt": "2026-10-02T20:00:00+08:00",
+      "eventTime": "2026年10月2日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China stockpiles ASML lithography tools, spurring US calls for complete export ban",
+        "note": "报告估算343台浸没式DUV，其中约270台NXT:1980i；呼吁全面限制。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "公司",
+      "title": "美国零部件出口放缓或进一步拖延C919交付",
+      "summary": "分析人士称，美国近期放慢民用飞机零部件对华出口许可，将加剧中国商飞C919的供应压力。该机型许多关键组件缺少可快速替代的来源，去年仅交付15架。",
+      "whyImportant": "航空供应链限制可能延缓中国国产大飞机商业化，也成为中美贸易谈判的新筹码。",
+      "publishedAt": "2026-10-02T21:00:00+08:00",
+      "eventTime": "2026年10月2日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/china-economy/article/3369588/chinas-c919-jet-faces-further-delivery-delays-amid-us-export-chill-analysts",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s C919 jet faces further delivery delays amid US export chill: analysts",
+        "note": "美国放慢零部件许可；C919关键组件替代困难，去年交付15架。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "市场",
+      "title": "中国新增18家百亿元级量化基金",
+      "summary": "中国今年新增18家管理规模超过100亿元人民币的量化基金，使同规模私募证券机构总数达到159家。低存款利率、房地产疲弱和科技股行情推动资金转向量化产品。",
+      "whyImportant": "量化基金扩张提高市场效率，也会加大监管部门对交易拥挤和波动放大的关注。",
+      "publishedAt": "2026-10-02T10:00:00+08:00",
+      "eventTime": "2026年10月2日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/banking-finance/article/3369376/deepseek-effect-how-chinas-quant-funds-thrive-amid-tight-regulatory-scrutiny",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny",
+        "note": "新增18家百亿元级量化基金；同级私募证券机构共159家。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "政策",
+      "title": "平安银行率先建立正式AI管理制度",
+      "summary": "平安银行董事会通过人工智能管理措施，成为首家公开采用此类规则的中国上市银行。完整制度尚未披露，分析人士预计其他银行会在监管趋严下跟进。",
+      "whyImportant": "金融机构使用AI正从试验阶段进入董事会负责、制度化治理阶段。",
+      "publishedAt": "2026-10-03T11:00:00+08:00",
+      "eventTime": "2026年10月3日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
+        "note": "平安银行成为首家正式采用AI治理规则的中国上市银行。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "宏观",
+      "title": "美国9月新增就业仅2.9万人，失业率升至4.2%",
+      "summary": "美国9月非农就业增加2.9万人，远低于市场预期的9万人，前两个月数据也被明显下修。失业率升至4.2%，专业和商业服务业减少9000个岗位。",
+      "whyImportant": "就业降温降低了美联储10月继续加息的必要性，也暴露经济增长与劳动力市场之间的分化。",
+      "publishedAt": "2026-10-01T17:31:37Z",
+      "eventTime": "2026年10月2日就业报告",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/44b99f9ccbff863888af99402ddf535e",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls",
+        "note": "新增2.9万；失业率4.2%；专业与商业服务减少9000。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "市场",
+      "title": "就业降温推动纳斯达克再创新高",
+      "summary": "美国就业数据低于预期后，纳斯达克指数创收盘新高，交易员把10月加息25个基点的概率下调至约20%。英伟达、特斯拉和SpaceX等科技股领涨。",
+      "whyImportant": "市场把经济走弱解读为利率利好，但这种上涨对持续宽松预期的依赖正在加深。",
+      "publishedAt": "2026-10-02T09:17:00-04:00",
+      "eventTime": "2026年10月2日市场交易",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://www.marketscreener.com/news/wall-st-set-to-open-higher-as-jobs-data-dampens-rate-hike-odds-yields-fall-ce785ddad088ff24",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Nasdaq hits record high after softer jobs data tempers rate-hike bets",
+        "note": "纳指创新高；10月加息概率约20%；新增就业2.9万。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "能源",
+      "title": "亚马逊承诺五年投入10亿美元缓和数据中心反弹",
+      "summary": "亚马逊计划未来五年向数据中心所在社区投入超过10亿美元，用于教育、职业培训、水资源和能源保护等项目。此举回应地方居民对电价、用水和环境影响的反对。",
+      "whyImportant": "AI基础设施的社会许可正在成为与芯片和电力同样重要的扩张约束。",
+      "publishedAt": "2026-10-02T13:37:00Z",
+      "eventTime": "2026年10月2日宣布",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/91b65ba1729540c1c0d92e35deef35d8",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts",
+        "note": "未来五年超10亿美元，覆盖教育、培训、水和能源项目。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "政策",
+      "title": "美国多州州长组建两党AI治理联盟",
+      "summary": "马里兰州州长韦斯·摩尔发起跨党派州长联盟，试图在联邦立法迟缓时协调AI政策。重点包括劳动力、公共服务、教育和高风险应用治理。",
+      "whyImportant": "美国AI监管正在从联邦争论转向州级协作，企业可能面临更多地方合规要求。",
+      "publishedAt": "2026-10-01T19:33:49Z",
+      "eventTime": "2026年10月1日宣布",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/ed0337966ba4f598c7e7bb6ad93ba6f3",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Wes Moore forms bipartisan governors group on AI, citing federal inaction",
+        "note": "跨党派州长联盟聚焦劳动力、公共服务、教育与高风险AI。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "市场",
+      "title": "美国股票基金连续第二周净流入",
+      "summary": "截至9月30日的一周，美国股票基金净流入206亿美元，前一周为374.9亿美元。同期货币市场基金净流出413.6亿美元，AI需求和较温和的通胀数据支撑风险偏好。",
+      "whyImportant": "资金仍在押注AI盈利，即使长期国债收益率处于24年高位。",
+      "publishedAt": "2026-10-02T14:23:00+03:00",
+      "eventTime": "截至2026年9月30日的一周",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://sa.marketscreener.com/news/us-equity-funds-post-second-weekly-inflow-as-ai-optimism-tempers-yield-concerns-ce785ddade8ef123",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "US equity funds post second weekly inflow as AI optimism tempers yield concerns",
+        "note": "股票基金净流入206亿美元；货币基金净流出413.6亿美元。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "市场",
+      "title": "欧元区通胀超预期，欧洲股市在债券暴跌后反弹",
+      "summary": "欧洲STOXX 600指数反弹0.6%，科技股上涨2.1%，但9月欧元区通胀高于预期。市场定价显示，欧洲央行12月加息概率约81.8%。",
+      "whyImportant": "欧洲同时面临高通胀、财政风险和高利率，科技股反弹尚未解除融资压力。",
+      "publishedAt": "2026-10-02T06:24:00-04:00",
+      "eventTime": "2026年10月2日市场交易",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://www.marketscreener.com/news/european-shares-rebound-after-bond-rout-inflation-fuels-rate-worries-ce785ddade8af622",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "European shares rebound after bond rout, inflation fuels rate worries",
+        "note": "STOXX 600涨0.6%；科技股涨2.1%；12月加息概率81.8%。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "AI",
+      "title": "OpenAI与三名安全研究人员解除关系",
+      "summary": "报道称，OpenAI以违反敏感信息处理政策为由与三名安全研究人员解除关系。公司称内部调查发现信息被带出既定程序，但未披露人员、外部组织和具体材料。",
+      "whyImportant": "在代理安全事件频发之际，内部举报渠道与保密制度的冲突会影响外界对公司安全文化的信任。",
+      "publishedAt": "2026-10-01T11:14:00-07:00",
+      "eventTime": "2026年10月1日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+        "note": "三名研究员因涉嫌在既定程序外处理敏感信息被解约。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "科技",
+      "title": "Google将首颗TPU送入轨道测试太空计算",
+      "summary": "Google的Project Suncatcher原型卫星已搭乘SpaceX火箭升空，将以15分钟为一轮测试TPU供电、散热和辐射耐受。研究估算，若要把发射成本降至每公斤约200美元，Starship十年内需执行约1800次发射。",
+      "whyImportant": "轨道数据中心进入硬件验证阶段，但发射频率和成本仍远未达到商业化条件。",
+      "publishedAt": "2026-10-01T12:18:00-07:00",
+      "eventTime": "2026年10月1日发射",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+        "note": "首颗TPU入轨；15分钟运行；成本曲线需要约1800次Starship发射。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "公司",
+      "title": "Shopify推出对话式AI建店工具Canvas",
+      "summary": "Canvas允许商家通过与Sidekick对话直接生成和修改在线商店，并实时渲染真实代码、交互和不同屏幕尺寸效果。首版暂不支持第三方主题、应用扩展和多市场功能。",
+      "whyImportant": "AI正在把网站搭建从模板编辑进一步转向自然语言驱动的实际代码修改。",
+      "publishedAt": "2026-10-01T09:44:00-07:00",
+      "eventTime": "2026年10月1日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+        "note": "对话生成商店并渲染真实代码；首版功能仍有限。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "AI",
+      "title": "ChatGPT上线全球虚拟试衣与商品收藏功能",
+      "summary": "用户可上传自拍、全身照或商品截图，让ChatGPT生成服装和配饰的试穿效果，并把商品与试穿图保存到资料库。功能使用新的ChatGPT Images 2.5模型。",
+      "whyImportant": "生成式AI正深入电商导购链路，并与Google、Pinterest等视觉搜索平台直接竞争。",
+      "publishedAt": "2026-10-01T12:21:00-07:00",
+      "eventTime": "2026年10月1日上线",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "ChatGPT can now virtually try on clothes for you",
+        "note": "全球上线虚拟试衣与Favorites，使用Images 2.5。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "政策",
+      "title": "美国逮捕涉嫌向中国走私3亿美元英伟达芯片服务器的科技公司CEO",
+      "summary": "美国司法部指控Earthmade Computer负责人通过马来西亚、新加坡和香港等地，利用虚假文件转运含A100和H100芯片的服务器，涉案价值超过3亿美元。案件仍待法院审理。",
+      "whyImportant": "出口管制执行正从企业许可扩展到跨境物流、付款记录和个人刑责。",
+      "publishedAt": "2026-10-02T14:39:00-07:00",
+      "eventTime": "2026年10月2日报道",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+        "note": "指控通过亚洲转运A100/H100服务器，涉案超3亿美元；尚未定罪。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "政策",
+      "title": "法院驳回Chegg与Penske针对Google AI搜索的反垄断诉讼",
+      "summary": "美国联邦法官裁定，网站期待Google带来搜索流量不等同于双方存在正式协议，因此Chegg和Penske未能建立反垄断主张。诉讼涉及AI摘要抓取内容并减少原站流量。",
+      "whyImportant": "出版商遭受流量损失并不自动构成反垄断违法，内容授权争议仍需寻找其他法律路径。",
+      "publishedAt": "2026-10-01T20:11:00-07:00",
+      "eventTime": "2026年10月1日裁决",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+        "note": "法官认为流量预期不是协议，反垄断主张不足。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "政策",
+      "title": "苹果收紧macOS完整磁盘访问权限以防AI代理滥用",
+      "summary": "苹果将增加更明确的授权步骤，防止应用在用户不充分知情时访问文件、邮件、消息和浏览历史。调整发生在Meta Muse被质疑读取私人消息之后。",
+      "whyImportant": "桌面AI代理需要广泛权限，操作系统正在成为限制其数据访问的第一道治理层。",
+      "publishedAt": "2026-10-02T11:11:00-07:00",
+      "eventTime": "2026年10月2日宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "note": "将增加显式授权，覆盖文件、邮件、消息与浏览历史。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "公司",
+      "title": "Lyft以2.725亿美元和解司机用工分类诉讼",
+      "summary": "加州总检察长和三座城市与Lyft达成2.725亿美元和解，涉及2016至2020年把司机列为独立承包商而非雇员的争议。针对Uber的案件仍在继续。",
+      "whyImportant": "这是加州规模最大的用工分类和解之一，将影响平台经济企业的劳动成本与法律风险。",
+      "publishedAt": "2026-10-02T15:09:00-07:00",
+      "eventTime": "2026年10月2日宣布",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+        "note": "加州2.725亿美元和解；覆盖2016至2020年；Uber案继续。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-03-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "AI",
+      "title": "Stability AI转向获授权的专业音乐生成工具",
+      "summary": "Sean Parker与管理团队把Stability AI重心转向专业音乐工具，公司在8月获得7600万美元融资，并从索尼、华纳和环球获得训练目录授权。已发布三款音频模型和音乐编辑软件。",
+      "whyImportant": "生成式音乐企业开始用授权训练和专业工作流替代先训练后谈判的高风险模式。",
+      "publishedAt": "2026-10-02T14:09:00-07:00",
+      "eventTime": "2026年10月2日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "note": "获7600万美元融资和三大唱片公司授权；已发三款音频模型。",
+        "checkedAt": "2026-10-03T14:40:00+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-10-03 14:47 北京时间"
+}

@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-05",
+  "title": "AI监管与高利率并行升温，能源、工业软件和中国科技供应链成为焦点",
+  "mainThemes": [
+    "AI治理从自律机制延伸到隐私与终端控制",
+    "高油价和长期利率继续约束全球市场",
+    "中国科技、资源与跨境平台加速调整"
+  ],
+  "watchNext": [
+    "关注美联储会议纪要与长期国债收益率",
+    "观察油价与G7储备释放的实际影响",
+    "跟踪AI数据中心的能源和地方监管压力"
+  ],
+  "windowStart": "2026-10-03T14:40:00+08:00",
+  "windowEnd": "2026-10-05T20:00:00+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-10-07T21:57:00+08:00",
+  "articles": [
+    {
+      "id": "2026-10-05-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "能源",
+      "title": "四川锂矿新增资源量约105万吨碳酸锂当量",
+      "summary": "四川甲基卡锂矿新增登记约105万吨碳酸锂当量，使总资源量增至253万吨。新增部分包含3352万吨矿石和约42.38万吨氧化锂。",
+      "whyImportant": "更大的国内锂资源基础有助于稳定中国电动车和储能产业的长期原料供应。",
+      "publishedAt": "2026-10-03T15:00:00+08:00",
+      "eventTime": "2026年10月3日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/china-economy/article/3369603/chinese-lithium-mine-registers-wider-vein-bolstering-beijings-battery-supply",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply",
+        "note": "新增约105万吨碳酸锂当量，总资源量253万吨。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "芯片",
+      "title": "中美企业在RISC-V标准上继续深化合作",
+      "summary": "美国芯片知识产权公司MIPS称，其正与中国企业密切参与RISC-V标准化。相关架构正从汽车、工业和物联网扩展到物理AI与数据中心。",
+      "whyImportant": "开放指令集成为地缘竞争下仍能维持跨境技术协作的少数关键平台。",
+      "publishedAt": "2026-10-03T21:00:00+08:00",
+      "eventTime": "2026年10月3日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/tech-trends/article/3369590/how-us-china-risc-v-collaboration-deepening-despite-chip-rivalry",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "How US-China RISC-V collaboration is deepening despite chip rivalry",
+        "note": "MIPS称与中国紧密推进RISC-V标准化，应用扩展至AI和数据中心。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "市场",
+      "title": "香港首九个月IPO融资额翻倍至3880亿港元",
+      "summary": "香港财政司司长称，2026年前九个月IPO融资超过3880亿港元，已高于2025年全年。香港投资管理公司另有30多家被投企业计划年内申请上市。",
+      "whyImportant": "融资规模回升显示香港重新吸引大型新股，也为中国科技企业提供重要融资出口。",
+      "publishedAt": "2026-10-04T14:22:00+08:00",
+      "eventTime": "截至2026年9月底",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369688/hong-kongs-ipo-haul-more-doubles-hk388b-first-9-months-paul-chan",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Hong Kong’s IPO haul more than doubles to HK$388b in first 9 months: Paul Chan",
+        "note": "首九个月融资超3880亿港元，30多家HKIC组合公司拟申请上市。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "公司",
+      "title": "Temu在全球监管收紧下进入模式重塑期",
+      "summary": "Temu早期依靠低价和高额营销迅速扩张，但各地产品合规、税收和平台监管正在抬高成本。公司需要在增长速度、商家关系和本地合规之间重新平衡。",
+      "whyImportant": "Temu的调整将检验中国跨境电商低价模式能否在监管成本上升后持续。",
+      "publishedAt": "2026-10-05T10:00:00+08:00",
+      "eventTime": "2026年10月5日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3369595/temu-took-world-storm-has-shopping-app-lost-its-thunder",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Temu took the world by storm – but has the shopping app lost its thunder?",
+        "note": "全球监管浪潮削弱Temu低价扩张模式，平台面临重塑。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "公司",
+      "title": "华为与高通签署覆盖5G和AI的多年专利协议",
+      "summary": "华为与高通达成广泛交叉许可，高通还将购买华为在计算、AI和网络领域的部分美国专利。交易金额未披露，仍需监管批准。",
+      "whyImportant": "协议显示即使供应链竞争激烈，中美通信企业仍需通过专利互授权维持全球业务。",
+      "publishedAt": "2026-10-05T14:00:00+08:00",
+      "eventTime": "2026年10月5日宣布，16:21更新",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/tech-trends/article/3369748/huawei-qualcomm-strike-multi-year-patent-agreement-across-5g-ai",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI",
+        "note": "多年交叉许可覆盖5G、计算和AI，高通购买部分华为美国专利。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "AI",
+      "title": "美国设立新的联邦AI任务组",
+      "summary": "美国总统任命国家情报总监杰伊·克莱顿领导联邦AI任务组。任务组将接触消费者、公共利益团体、关键基础设施运营者和AI公司。",
+      "whyImportant": "美国AI治理正更多依靠行政协调和企业自律，而非先建立强制性监管框架。",
+      "publishedAt": "2026-10-04T13:12:05Z",
+      "eventTime": "2026年10月4日宣布",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/b8689ea07de9102a52bd1cd2049b5901",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
+        "note": "杰伊·克莱顿将领导新联邦AI任务组并接触多方利益相关者。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "政策",
+      "title": "挪威拟临时限制可录制他人的智能眼镜",
+      "summary": "挪威提出在部分场所临时禁止具备摄像和AI功能的智能眼镜，以便制定长期隐私规则。监管重点是旁观者可能在不知情时被持续记录。",
+      "whyImportant": "智能眼镜正在把生成式AI的隐私争议从手机屏幕带入公共空间。",
+      "publishedAt": "2026-10-05T10:47:21Z",
+      "eventTime": "2026年10月5日报道",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/be20dbd949ce058023864b66219f9c2b",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Norway proposes temporary ban on smart glasses in some places",
+        "note": "拟在部分场所临时限制可录制旁观者的智能眼镜。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "能源",
+      "title": "OPEC+七国决定11月维持产量不变",
+      "summary": "七个主要产油国同意11月保持产量稳定，当时伊朗战争已把布伦特油价推升至每桶100美元以上。G7同时计划释放1亿桶原油和成品油储备。",
+      "whyImportant": "供应纪律与紧急储备释放的博弈将直接影响通胀、运输成本和央行政策。",
+      "publishedAt": "2026-10-04T17:47:39Z",
+      "eventTime": "2026年10月4日会议",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/2b1f98d5fc11048ff65fa93952d86844",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Major oil exporters agree to keep production steady in November",
+        "note": "七国维持11月产量；G7计划释放1亿桶储备。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "市场",
+      "title": "纳斯达克创新高，AI并购推动美股逼近纪录",
+      "summary": "标普500上涨0.7%，纳斯达克上涨1.1%并创纪录。工业软件和物流并购、英伟达等AI股票上涨成为主要推动力，但10年期美债收益率仍升至约5.31%。",
+      "whyImportant": "企业盈利和AI投资仍能支撑股市，但高融资成本正在压缩估值空间。",
+      "publishedAt": "2026-10-05T04:14:37Z",
+      "eventTime": "2026年10月5日交易",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/f83cf147deaf5a2361b1ae7eee74a627",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "US stocks rise to the edge of an all-time high",
+        "note": "标普涨0.7%，纳指涨1.1%创新高，10年期收益率约5.31%。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "公司",
+      "title": "施耐德电气拟以226亿美元收购工业软件商PTC",
+      "summary": "施耐德电气同意以每股205美元现金收购PTC，股权价值约226亿美元。交易旨在把能源管理、工业自动化和产品设计软件进一步整合。",
+      "whyImportant": "这是AI推动工业软件与能源基础设施融合的标志性大型并购。",
+      "publishedAt": "2026-10-05",
+      "eventTime": "2026年10月5日宣布",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://uk.marketscreener.com/news/france-s-schneider-electric-nears-20-billion-deal-to-buy-us-software-group-ptc-ft-reports-ce785ddbdc81ff20",
+      "secondaryUrl": "https://www.sec.gov/Archives/edgar/data/857005/000119312526413124/d174191dex991.htm",
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Schneider Electric to buy US software firm PTC in $22.6 billion deal",
+        "note": "每股205美元现金，股权价值226亿美元。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "公司",
+      "title": "C.H. Robinson以58亿美元收购RXO",
+      "summary": "C.H. Robinson将以现金加股票方式收购货运经纪商RXO，交易价值58亿美元。合并后企业价值将超过250亿美元，并计划两年内实现3亿美元年化成本协同。",
+      "whyImportant": "物流行业正通过规模和AI运营工具提升效率，行业集中度将进一步提高。",
+      "publishedAt": "2026-10-05T07:07:00-04:00",
+      "eventTime": "2026年10月5日宣布",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://www.marketscreener.com/news/c-h-robinson-to-buy-rxo-for-5-8-billion-ce785ddbd08ff723",
+      "secondaryUrl": "https://www.sec.gov/Archives/edgar/data/1043277/000119312526413203/d115124dex991.htm",
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "C.H. Robinson to buy freight broker RXO for $5.8 billion",
+        "note": "交易58亿美元；合并企业价值超250亿美元；目标协同3亿美元。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "能源",
+      "title": "中东出口回升与G7释储令油价回落约2美元",
+      "summary": "中东原油出口增加、G7承诺释放储备后，国际油价下跌约2美元。美国战略石油储备降至2.83亿桶，为1982年以来最低。",
+      "whyImportant": "短期供应缓解有助于抑制油价，但储备低位意味着后续政策缓冲空间有限。",
+      "publishedAt": "2026-10-05",
+      "eventTime": "2026年10月5日市场交易",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://uk.marketscreener.com/news/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks-ce785ddbdf8bf724",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Oil slips on rising Mideast crude exports, G7 stocks release",
+        "note": "油价下跌约2美元；美国战略储备降至2.83亿桶。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "宏观",
+      "title": "全球市场同时承受高利率、百美元油价与财政风险",
+      "summary": "全球主要经济体借贷成本升至约二十年高位，布伦特油价站上100美元，法国财政压力也推高波动。市场转而等待美联储会议纪要和新一轮国债发行。",
+      "whyImportant": "资产价格正面对利率、能源和政府债务三重压力，AI行情也难以完全隔离。",
+      "publishedAt": "2026-10-05T02:58:00-04:00",
+      "eventTime": "2026年10月5日市场展望",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/take-five-reality-bites-4931117",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Take Five: Reality bites",
+        "note": "借贷成本处于二十年高位、油价逾100美元，法国财政风险升温。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "市场",
+      "title": "疲弱就业数据令市场下调美联储10月加息预期",
+      "summary": "美国就业数据低于预期后，亚洲股市上涨，美元回落，债券企稳。此前两个月就业数据被明显下修，使市场认为10月继续加息的必要性降低。",
+      "whyImportant": "就业降温正在改变全球资金对美元、利率和成长股的重新定价。",
+      "publishedAt": "2026-10-04T21:18:00-04:00",
+      "eventTime": "2026年10月5日亚洲交易时段",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://www.marketscreener.com/news/stocks-upbeat-dollar-wobbles-as-fed-hike-bets-recede-ce785ddbdf88ff20",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Stocks upbeat, dollar wobbles as Fed hike bets recede",
+        "note": "亚洲股市走高、美元回落，市场降低10月加息预期。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "科技",
+      "title": "美国AI数据中心扩张引发地方电力与用水反弹",
+      "summary": "美国总统在俄亥俄州为AI数据中心投资辩护，当地选民则担忧电价、用水和农地占用。大型计算设施的社区成本正成为政治议题。",
+      "whyImportant": "数据中心能否获得地方支持，正成为AI扩张速度的重要现实约束。",
+      "publishedAt": "2026-10-03T20:00:28Z",
+      "eventTime": "2026年10月3日报道",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/a86aad6b19d4afb2c505b902171ebd8e",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Trump defends AI data centers in Ohio amid voter concerns",
+        "note": "俄亥俄选民担忧数据中心电价、用水和农地占用。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "政策",
+      "title": "德国追加13亿欧元援乌计划并强化无人机与卫星能力",
+      "summary": "德国总理默茨在基辅宣布超过13亿欧元的新援助，其中约10亿欧元为军事支持，包含远程打击武器、无人机和卫星技术。",
+      "whyImportant": "欧洲防务支出继续向无人系统和太空能力倾斜，也会带动相关工业投资。",
+      "publishedAt": "2026-10-04T07:42:34Z",
+      "eventTime": "2026年10月4日宣布",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/89bb8d2a97cc09d01a316723d08d2fb3",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Germany's Merz announces new aid for Ukraine in Kyiv as Russia steps up attacks",
+        "note": "援助超13亿欧元，其中约10亿欧元为军事支持。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "市场",
+      "title": "巴西总统选举进入决选并影响拉美资产定价",
+      "summary": "巴西首轮总统选举后，右翼候选人弗拉维奥·博索纳罗与现任总统卢拉进入决选。结果超过部分民调预期，巴西股票和雷亚尔随即受到关注。",
+      "whyImportant": "巴西是拉美最大经济体，选举方向会影响财政、能源和区域资本流动。",
+      "publishedAt": "2026-10-03T19:58:00Z",
+      "eventTime": "2026年10月4日前后选举进程",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/596f1b3ed18fd8fbb4e1fc4cfb9b93d0",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Brazil election campaign and first-round vote",
+        "note": "首轮结果把卢拉与弗拉维奥·博索纳罗带入决选。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "科技",
+      "title": "开源工具可从macOS 27移除Apple Intelligence",
+      "summary": "RemoveMacAI允许用户可逆地关闭Apple Intelligence并删除本地模型，释放约12GB或更多空间。macOS 27已不再提供统一关闭开关。",
+      "whyImportant": "用户对强制集成AI功能的反弹，可能迫使平台重新提供更清晰的选择权。",
+      "publishedAt": "2026-10-05T19:14:00+08:00",
+      "eventTime": "2026年10月5日报道",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+        "note": "可逆关闭AI功能并释放约12GB以上模型空间。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "能源",
+      "title": "全球电气化目标面临电网与前期资本约束",
+      "summary": "IEA和气候谈判方推动提高终端用能电气化比例，但电网扩建、设备改造和前期资本仍是主要障碍。工业、交通和建筑领域的改造速度差异明显。",
+      "whyImportant": "能源转型不只取决于发电成本，还取决于电网投资和终端设备更新能力。",
+      "publishedAt": "2026-10-04",
+      "eventTime": "2026年10月4日报道",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "All hail electrification. But let’s talk about the hard part.",
+        "note": "电网、终端改造和高前期成本制约电气化目标。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-05-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "市场",
+      "title": "俄罗斯出口商在中国市场遭遇仿冒商品冲击",
+      "summary": "俄罗斯消费品企业称，中国市场一度快速增长，但本地商品冒充俄罗斯进口品后，正规出口商销量受到冲击。企业正在通过展会和本地办公室重建渠道信任。",
+      "whyImportant": "跨境消费品增长不仅取决于需求，也取决于原产地认证和渠道治理。",
+      "publishedAt": "2026-10-04T17:00:00+08:00",
+      "eventTime": "2026年10月4日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/global-economy/article/3368816/russian-exporters-fight-win-back-chinese-buyers-amid-fallout-over-fake-goods",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Russian exporters fight to win back Chinese buyers amid fallout over fake goods",
+        "note": "假冒俄罗斯商品削弱正规出口商在中国的销售和信任。",
+        "checkedAt": "2026-10-07T21:57:00+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-10-08 08:39 北京时间"
+}

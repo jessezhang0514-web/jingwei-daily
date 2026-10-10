@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-10",
+  "title": "中欧贸易暂时降温，AI安全与高利率成为全球科技经济的新约束",
+  "mainThemes": [
+    "中欧贸易磋商取得阶段性进展，中国科技企业继续融资和产业化",
+    "AI代理加速进入企业流程，安全治理与收入质量受到更严格审视",
+    "百美元油价和高债券收益率继续抬升全球融资成本"
+  ],
+  "watchNext": [
+    "关注欧盟成员国是否批准中欧贸易初步安排",
+    "观察美国通胀数据与银行财报对利率预期的影响",
+    "跟踪AI代理安全事件是否推动更强监管和企业内控"
+  ],
+  "windowStart": "2026-10-07T21:55:00+08:00",
+  "windowEnd": "2026-10-10T12:09:00+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-10-10T12:09:00+08:00",
+  "articles": [
+    {
+      "id": "2026-10-10-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "政策",
+      "title": "中欧达成初步贸易安排，稀土与汽车争端出现缓和窗口",
+      "summary": "中欧贸易主管官员在北京会谈后形成初步安排，涉及稳定稀土供应链、降低部分欧洲商品关税及调整中国电动和插混汽车进入欧盟的规模。方案仍需欧盟27国领导人批准，具体执行细节尚未公布。",
+      "whyImportant": "这为中欧避免进一步升级关税冲突提供了路径，也会直接影响汽车、关键矿产和欧洲制造业供应链。",
+      "publishedAt": "2026-10-09T07:48:41Z",
+      "eventTime": "2026年10月9日会谈",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/china-trade-eu-exports-54c9c71e85f92dc0003780fc53f0b250",
+      "secondaryUrl": "https://audiovisual.ec.europa.eu/en/stories/M-010052",
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says",
+        "note": "双方形成初步贸易安排，涉及稀土、欧盟商品关税和中国汽车进口规模，仍待欧盟领导人批准。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "AI",
+      "title": "Manus母公司完成逾5亿美元融资",
+      "summary": "中国AI实验室Manus的母公司Butterfly Effect完成超过5亿美元融资，由博裕资本和IDG资本领投，腾讯、红杉中国和真格基金等继续参与。公司称资金将用于国内外招聘和独立发展。",
+      "whyImportant": "在与Meta的收购交易终止后，Manus获得了继续扩张AI代理业务的资本，也显示头部中国AI项目仍能吸引大额融资。",
+      "publishedAt": "2026-10-08T06:20:00-07:00",
+      "eventTime": "2026年10月8日宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+        "note": "Butterfly Effect融资逾5亿美元，博裕和IDG领投，腾讯等老股东参与。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "政策",
+      "title": "中国拟首次为8400万平台劳动者建立基本保障",
+      "summary": "中国发布首份面向平台劳动者的正式监管草案，覆盖工资、休息、职业安全和工伤保障。草案要求付款周期不超过一个月、节假日工作获得更高报酬，但尚未强制平台提供养老金和医疗保险。",
+      "whyImportant": "平台经济开始从扩张优先转向劳动保障，规则将影响外卖、网约车等行业的成本结构和用工模式。",
+      "publishedAt": "2026-10-09T13:00:00+08:00",
+      "eventTime": "2026年10月9日发布草案",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/policy/article/3370280/china-proposes-basic-safeguards-expanding-gig-worker-economy-gaps-remain",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China proposes ‘basic safeguards’ to cover expanding gig workforce but gaps remain",
+        "note": "首份平台劳动监管草案覆盖8400万人，要求按期付薪、休息和工伤保障。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "芯片",
+      "title": "中国国资加码华虹集团及无锡新晶圆厂",
+      "summary": "华虹集团注册资本由135亿元增至197亿元，新增62亿元主要由上海国盛集团注入。华虹无锡新厂注册资本也大幅提升，项目满产后预计每月增加5.5万片晶圆产能。",
+      "whyImportant": "中国继续以国有资本强化成熟制程供给，重点服务汽车、工业控制和物联网等不依赖最先进光刻的市场。",
+      "publishedAt": "2026-10-09T16:30:00+08:00",
+      "eventTime": "2026年10月9日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3370297/china-state-funds-double-down-hua-hong-legacy-chip-push",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China state funds double down on Hua Hong in legacy chip push",
+        "note": "华虹集团获62亿元增资，无锡新厂满产后预计月增5.5万片产能。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "芯片",
+      "title": "壁仞科技拟配售融资40亿港元，股价下跌近12%",
+      "summary": "中国AI芯片企业壁仞科技计划以每股31.08港元配售1.3亿股，预计融资约40亿港元（约5.1亿美元）。配售价较前一日收盘价折让约10%，公司股价当日收跌11.9%。",
+      "whyImportant": "国产AI芯片仍需持续高投入，二次配售既补充研发资金，也显示资本市场开始更严格评估烧钱速度和商业化进展。",
+      "publishedAt": "2026-10-08T16:31:00+08:00",
+      "eventTime": "2026年10月8日",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/tech-trends/article/3370177/chinas-ai-chipmaker-biren-tumbles-12-it-seeks-us510-million-share-placement",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s AI chipmaker Biren tumbles 12% as it seeks US$510 million in share placement",
+        "note": "壁仞拟配售1.3亿股融资约40亿港元，股价收跌11.9%。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "AI",
+      "title": "OpenAI解雇三名安全研究人员引发治理争议",
+      "summary": "OpenAI称三名安全研究人员违反敏感信息处理政策并将其解雇；研究人员则认为公司把短期商业利益置于安全监督之前。争议与外部评估机构对AI代理安全事件的调查有关。",
+      "whyImportant": "前沿AI公司的内部异议机制和外部安全审查能否独立运行，直接关系到公众对高风险模型治理的信任。",
+      "publishedAt": "2026-10-09T11:06:33Z",
+      "eventTime": "2026年10月9日",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+        "note": "公司称涉及敏感信息处理违规，研究人员称事件削弱安全异议和外部监督。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "AI",
+      "title": "非文本AI模型Jev开发商融资8.7亿美元",
+      "summary": "TypeSafe AI以75亿美元估值融资8.7亿美元，Andreessen Horowitz领投。其Jev模型不生成文本，而是输出用于自动化决策的概率结果；公司称已有约三分之一的财富500强企业使用。",
+      "whyImportant": "资本开始押注不以聊天为核心的AI架构，企业自动化市场可能从通用大模型转向更专门的决策系统。",
+      "publishedAt": "2026-10-09T14:41:00-07:00",
+      "eventTime": "2026年10月9日",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "note": "TypeSafe AI融资8.7亿美元，估值75亿美元，Jev面向自动化概率决策。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "AI",
+      "title": "Google将统一AI代理引入Gemini企业版",
+      "summary": "Google推出可规划任务、调用技能并连接企业内部系统的统一Gemini代理，先面向企业客户。公司称Gemini月活用户已超过10亿，近九成财富100强企业使用Gemini Enterprise。",
+      "whyImportant": "AI竞争正从回答问题转向代替员工执行跨系统任务，权限、审计和数据隔离会成为企业采购的核心标准。",
+      "publishedAt": "2026-10-08T11:18:00-07:00",
+      "eventTime": "2026年10月8日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "note": "统一代理可规划工作、调用技能并连接Workspace、Microsoft 365、Slack等系统。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "政策",
+      "title": "Anthropic收紧Claude使用政策，禁止选举干预和武器软件",
+      "summary": "Anthropic更新使用政策，明确禁止利用Claude进行选举干预、武器软件开发、监控和虚假信息活动。新规还禁止在无正当目的的情况下持续虐待模型。",
+      "whyImportant": "模型提供商正把抽象的AI安全原则转化为可执行条款，这会影响企业合规、执法协作和模型访问边界。",
+      "publishedAt": "2026-10-08T11:16:00-07:00",
+      "eventTime": "2026年10月8日更新",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Anthropic changes usage policy to ban model abuse and election interference",
+        "note": "政策新增对选举干预、武器软件、监控、虚假账号和极端模型虐待的禁令。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "科技",
+      "title": "英伟达把机器人安全系统推向实体AI产业",
+      "summary": "英伟达正将Halos全栈安全架构从自动驾驶扩展到仓储机器人、人形机器人和手术机器人，涵盖安全计算模块、监控软件、传感器桥接和仿真测试。Agility Robotics等企业已开始采用。",
+      "whyImportant": "当实体AI进入工厂和公共空间，安全认证和故障隔离可能成为与算力同样重要的产业门槛。",
+      "publishedAt": "2026-10-08T07:15:00-04:00",
+      "eventTime": "2026年10月8日报道",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots",
+        "note": "Halos覆盖安全硬件、监控、传感器桥接和仿真，已被机器人企业采用。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "公司",
+      "title": "SpaceX收购全国性低频频谱，传统电信股大跌",
+      "summary": "SpaceX同意收购美国全国性低频频谱组合，以推动Starlink Mobile成为移动通信运营商。消息引发投资者重新评估竞争格局，T-Mobile、Verizon和AT&T等电信股显著下跌，交易仍需监管批准。",
+      "whyImportant": "卫星互联网与地面移动网络的边界正在消失，频谱资产可能帮助SpaceX把Starlink从宽带服务扩展为完整通信平台。",
+      "publishedAt": "2026-10-08T16:21:00-04:00",
+      "eventTime": "2026年10月8日宣布",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "SpaceX to acquire spectrum that enables Starlink Mobile services",
+        "note": "SpaceX拟收购全国低频频谱，交易需监管批准并冲击传统电信股。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "公司",
+      "title": "OpenAI年化收入被重新核算为约500亿美元",
+      "summary": "OpenAI向投资者披露的9月年化收入约为500亿美元，比此前广泛报道的700亿美元低约200亿美元。差异主要来自通过合作伙伴销售收入的核算方式，而非业务突然收缩。",
+      "whyImportant": "在AI基础设施投入急升之际，收入定义和现金流质量会直接影响私募估值、融资成本和上市预期。",
+      "publishedAt": "2026-10-08T19:50:13Z",
+      "eventTime": "2026年10月8日报道",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://uk.marketscreener.com/news/openai-s-september-annualized-revenue-nears-50-billion-less-than-previously-indicated-source-says-ce785ddfdf8bff23",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "OpenAI annualized revenue $20 billion less than previously reported",
+        "note": "OpenAI年化收入约500亿美元，差异源于合作伙伴销售的核算口径。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "政策",
+      "title": "欧盟称现有AI法案足以应对失控代理风险",
+      "summary": "欧盟技术事务负责人表示，AI法案覆盖高能力模型的整个生命周期，现有风险分级和评估机制能够处理AI代理越权等问题。监管部门正根据科学专家小组建议制定模型评估指引。",
+      "whyImportant": "欧盟选择先使用既有法律框架，而非因代理型AI事件立即另立新法，这将影响全球企业的合规路线。",
+      "publishedAt": "2026-10-09T17:29:00+01:00",
+      "eventTime": "2026年10月9日",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://uk.marketscreener.com/news/eu-tech-chief-says-bloc-well-equipped-to-fend-off-rogue-ai-risk-ce785ddcdb88f52c",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "EU tech chief says bloc 'well equipped' to fend off rogue AI risk",
+        "note": "欧盟认为AI法案已覆盖高能力模型生命周期，监管方将发布评估指引。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "宏观",
+      "title": "美国30年期房贷利率升至7.40%",
+      "summary": "房地美数据显示，美国30年期固定抵押贷款平均利率连续第七周上升，从前一周的7.28%升至7.40%，达到近三年高位；15年期利率升至6.73%。",
+      "whyImportant": "住房融资成本持续上升会压制成交和建筑活动，并把高国债收益率更直接地传导到家庭部门。",
+      "publishedAt": "2026-10-08T12:00:00-04:00",
+      "eventTime": "截至2026年10月8日当周",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/e9badb974fbb8e3f7ca2ae25fbe556fa",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Mortgage Rates Average 7.40%",
+        "note": "30年期固定房贷7.40%，15年期6.73%，均较前周上升。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "宏观",
+      "title": "美联储会议纪要显示年内仍可能再次加息",
+      "summary": "美联储9月会议纪要显示，所有与会者当时支持加息25个基点至3.75%至4.00%，多数官员认为通胀上行风险仍高。政策路径继续取决于能源、关税、AI投资需求和就业数据。",
+      "whyImportant": "市场需要重新评估高利率持续时间，下一次加息预期会影响全球债券、美元和成长股估值。",
+      "publishedAt": "2026-10-07T14:00:00-04:00",
+      "eventTime": "2026年10月7日公布",
+      "source": "Federal Reserve",
+      "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
+      "secondaryUrl": "https://apnews.com/article/b7ed20e31e1a6fa5da6d78e5fe35b0c3",
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Minutes of the Federal Open Market Committee, September 15–16, 2026",
+        "note": "全体支持加息25个基点，官员继续担忧通胀并保留进一步收紧空间。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "宏观",
+      "title": "欧元区要求法国通过2027年预算以稳定债市",
+      "summary": "欧元区财长和欧洲央行敦促法国尽快通过2027年预算。法国10年期国债收益率自9月初上升近80个基点并逼近5%，政府预计今年赤字将超过5%的既定目标。",
+      "whyImportant": "法国是欧盟第二大经济体，其财政失信可能把融资压力扩散到整个欧元区并限制欧洲政策空间。",
+      "publishedAt": "2026-10-08T14:58:00-04:00",
+      "eventTime": "2026年10月8日会议",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://www.marketscreener.com/news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-ce785ddfd98df025",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
+        "note": "法国10年债收益率逼近5%，欧元区财长和ECB敦促通过预算稳定市场。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "市场",
+      "title": "全球股市回升，但油价仍守在每桶104美元附近",
+      "summary": "全球股市在美国银行财报和经济数据公布前回升，标普500和纳斯达克上涨；布伦特原油收于每桶约104美元。高油价和多年高位的政府债券收益率仍限制风险偏好。",
+      "whyImportant": "市场短线反弹并未消除能源通胀和债务融资压力，企业盈利需要同时承受资本成本和投入成本上升。",
+      "publishedAt": "2026-10-09T12:59:00-04:00",
+      "eventTime": "2026年10月9日市场交易",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://au.investing.com/news/economy-news/tech-stocks-struggle-on-ai-spending-worries-elevated-yields-4680755",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
+        "note": "股市回升，布油约104美元，高债券收益率继续压制估值。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "能源",
+      "title": "美国转向购买俄罗斯柴油以缓解高燃料价格",
+      "summary": "美国总统特朗普宣布与俄罗斯达成柴油供应安排，逆转了自2022年以来不进口俄罗斯油气的政策。美国柴油均价仍在每加仑6.28美元附近，专家认为新增供应难以完全抵消中东炼油能力受限的影响。",
+      "whyImportant": "能源价格压力正迫使美国调整制裁政策，也会牵动俄乌战争、全球油品贸易和通胀预期。",
+      "publishedAt": "2026-10-09T18:57:40Z",
+      "eventTime": "2026年10月9日宣布",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/12baccc7aade559bf329079b0548c9da",
+      "secondaryUrl": "https://apnews.com/article/8428a31b39e20a3a3f1fa3f0e15b8f99",
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms",
+        "note": "美国拟恢复俄罗斯柴油供应，当前柴油均价约6.28美元/加仑。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "科技",
+      "title": "阿联酋完成首个本国独立研制的深空探测器",
+      "summary": "阿联酋完成阿拉伯世界首个由本国团队独立研制的深空探测器，计划搭乘美阿联合建造的航天器发射并前往小行星。该项目体现阿联酋从依赖海外合作转向建立自主航天工程能力。",
+      "whyImportant": "中东国家正把能源资本转化为长期科技能力，深空项目也会带动材料、通信和精密制造产业。",
+      "publishedAt": "2026-10-08",
+      "eventTime": "2026年10月8日报道",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-03154-4",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "UAE completes Arab world's first solo space probe – and sets course for an asteroid",
+        "note": "阿联酋完成首个本国独立研制深空探测器，目标为小行星任务。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    },
+    {
+      "id": "2026-10-10-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "政策",
+      "title": "美国民调显示多数公众认为AI发展过快",
+      "summary": "AP-NORC民调显示，美国公众对AI发展速度的担忧跨越党派，多数受访者希望政府优先确保人类控制并保护劳动者。经济增长和对华竞争仍是支持快速发展的主要理由。",
+      "whyImportant": "公众态度会影响美国AI监管的政治空间，也可能推动企业加强透明度、就业保护和安全承诺。",
+      "publishedAt": "2026-10-08T10:20:41Z",
+      "eventTime": "2026年10月8日发布",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/9ce5531b7ea53234c4e600f8c0e9cf27",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+        "note": "多数受访者强调人类控制和劳动者保护，担忧跨越党派。",
+        "checkedAt": "2026-10-10T12:09:00+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-10-10 12:11 北京时间"
+}

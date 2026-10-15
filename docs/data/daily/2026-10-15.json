@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-15",
+  "title": "AI高利率压力触发市场重估，芯片投资与中国科技产业仍在加速",
+  "mainThemes": [
+    "高通胀和高融资成本引发全球AI资产重估",
+    "TSMC与ASML订单显示先进芯片长期需求仍强",
+    "中国出口、芯片自主化和消费端AI落地同步推进"
+  ],
+  "watchNext": [
+    "关注AI科技股抛售是否继续扩散至信贷市场",
+    "观察中国三季度GDP数据能否印证增长企稳",
+    "跟踪IMF年会对能源冲击和利率路径的政策信号"
+  ],
+  "windowStart": "2026-10-12T20:53:00+08:00",
+  "windowEnd": "2026-10-15T22:18:43+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-10-15T22:18:43+08:00",
+  "articles": [
+    {
+      "id": "2026-10-15-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国9月出口同比大增36.3%，全年贸易顺差或突破1万亿美元",
+      "summary": "中国9月出口同比增长36.3%，明显高于市场预期的25%，进口增长31%。强劲外需令全年贸易顺差有望突破1万亿美元，但也可能加大主要贸易伙伴的政策压力。",
+      "whyImportant": "出口仍是中国增长的重要支柱，超预期数据既改善短期增长前景，也提高后续贸易摩擦升温的概率。",
+      "publishedAt": "2026-10-14T11:00:00+05:30",
+      "eventTime": "2026年10月14日公布9月贸易数据",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://in.marketscreener.com/news/china-s-september-exports-soar-putting-1-trillion-trade-surplus-in-sight-ce785dd2db89f72d",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China's September exports soar, putting $1 trillion trade surplus in sight",
+        "note": "路透报道9月出口同比增长36.3%、进口增长31%，全年顺差或突破1万亿美元。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国工业品价格涨幅升至四年多高位，消费通胀仍偏弱",
+      "summary": "中国最新价格数据显示，上游大宗商品成本推动工业品出厂价格涨幅升至四年多来最快水平，但居民消费价格仍低于市场预期。生产端和消费端价格表现分化，反映企业成本压力上升而内需传导仍不充分。",
+      "whyImportant": "价格分化会影响企业利润、货币政策空间和消费修复节奏，是判断中国经济再平衡的重要信号。",
+      "publishedAt": "2026-10-14T03:51:00+01:00",
+      "eventTime": "2026年10月14日公布最新价格数据",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://uk.marketscreener.com/news/china-factory-gate-inflation-heats-up-as-commodity-costs-rise-cpi-lags-forecasts-ce785dd2d88eff2c",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts",
+        "note": "路透报道工业品价格涨幅为四年多来最快，消费价格低于预期，显示内需仍偏弱。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "宏观",
+      "title": "路透调查预计中国三季度GDP增速回升至4.4%",
+      "summary": "路透对50名经济学家的调查预计，中国三季度国内生产总值同比增长4.4%，较二季度的4.3%略有加快。刺激措施和出口韧性提供支撑，但预测值仍低于全年目标区间4.5%的下限。",
+      "whyImportant": "即将公布的GDP数据将检验政策托底效果，并影响市场对后续财政和货币支持力度的判断。",
+      "publishedAt": "2026-10-15T05:29:00-04:00",
+      "eventTime": "2026年10月15日发布调查，数据定于10月19日公布",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach-reuters-poll-4950895",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll",
+        "note": "50名经济学家预测三季度GDP同比增长4.4%，高于二季度4.3%，但低于全年目标下限。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "AI",
+      "title": "中国批准阿里AI模型用于苹果手机，Apple Intelligence落地迈过关键门槛",
+      "summary": "中国监管许可显示，iPhone Duo、iPhone 18 Pro等机型可集成Apple Intelligence以及阿里的通义千问和通义万相模型。此举为苹果长期推迟的中国版AI功能上线扫除一项关键监管障碍。",
+      "whyImportant": "苹果能否在中国补齐AI功能，直接关系其高端手机竞争力，也为国产大模型进入全球终端生态提供重要案例。",
+      "publishedAt": "2026-10-14T19:06:00+08:00",
+      "eventTime": "2026年10月14日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China approves Alibaba AI models for use in iPhone Duo and other Apple handsets",
+        "note": "监管许可列出Apple Intelligence、通义千问和通义万相，覆盖iPhone Duo和iPhone 18 Pro等机型。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "芯片",
+      "title": "上海初创企业展示国产EUV光源原型，量产仍需三至五年",
+      "summary": "上海朗道科技展示自研极紫外光源系统原型，这一设备被称为先进光刻机的“心脏”。公司称约90%的部件已实现本地化，但从实验室走向规模量产预计仍需三至五年。",
+      "whyImportant": "EUV光源是中国先进制程自主化最难突破的环节之一，原型展示说明技术链在推进，但距离商业化仍有明显时间差。",
+      "publishedAt": "2026-10-15T14:01:00+08:00",
+      "eventTime": "2026年10月15日上海工博会报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3370966/start-unveils-prototype-heart-euv-lithography-amid-china-chipmaking-push",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Start-up unveils prototype ‘heart’ of EUV lithography amid China chipmaking push",
+        "note": "朗道展示EUV光源原型，称90%部件本地化，规模量产仍需三至五年。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "市场",
+      "title": "AI股抛售席卷全球，美股科技板块继续承压",
+      "summary": "对AI繁荣持续性的担忧继续打击全球科技股，韩国KOSPI一度下跌7.6%，日经指数下跌4.9%。美股早盘纳斯达克指数下跌1.2%，英伟达下跌3.1%，成为标普500的最大拖累之一。",
+      "whyImportant": "AI交易已成为全球股市的核心定价因素，抛售扩散显示高估值和高融资成本正在同步冲击风险偏好。",
+      "publishedAt": "2026-10-15T01:50:23+00:00",
+      "eventTime": "2026年10月15日全球市场交易时段",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/e889ad7dee2b7dd959f1b8bc87366914",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "More drops for AI stocks drag Wall Street lower after whipping around the world",
+        "note": "AP报道韩国和日本科技股大跌，美股纳指早盘跌1.2%，英伟达跌3.1%。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "市场",
+      "title": "AI融资担忧推动资金回流国债，避险属性重新显现",
+      "summary": "尽管美国通胀高于预期，投资者仍在抛售AI相关股票并买入政府债券。市场担心数据中心建设依赖大量债务，而高利率会削弱项目回报并限制后续融资。",
+      "whyImportant": "股债关系的变化表明市场关注点已从通胀单一风险转向AI资本开支和信用风险，可能改变全球资产配置。",
+      "publishedAt": "2026-10-15T01:54:00-04:00",
+      "eventTime": "2026年10月15日亚洲交易时段",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/is-the-ai-rout-making-bonds-safe-again-4950570",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Is the AI rout making bonds safe again?",
+        "note": "路透分析称AI债务融资担忧促使资金买入国债，即便通胀数据仍偏热。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "芯片",
+      "title": "TSMC三季度净利润创纪录，同比增长69%",
+      "summary": "台积电三季度净利润达到7631亿新台币，约合235.9亿美元，同比增长69%，高于市场预期。AI处理器需求推动公司连续第六个季度刷新利润纪录。",
+      "whyImportant": "台积电业绩是全球AI硬件需求最直接的温度计，强劲利润说明真实订单仍旺盛，尽管市场估值正在调整。",
+      "publishedAt": "2026-10-15T01:35:00-04:00",
+      "eventTime": "2026年10月15日发布三季度业绩",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/tsmc-q3-profit-jumps-69-to-record-beating-expectations-4950551",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "TSMC Q3 profit jumps 69% to record, beating expectations",
+        "note": "三季度净利润7631亿新台币、同比增长69%，高于LSEG预期7463亿新台币。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "芯片",
+      "title": "ASML客户已预订2029至2030年先进设备，AI芯片扩产周期延长",
+      "summary": "ASML称部分客户已经开始安排2029和2030年的先进光刻设备订单。公司三季度净利润49.6亿欧元、销售额117亿欧元，并给出四季度142亿至152亿欧元的销售指引。",
+      "whyImportant": "超长期订单显示芯片制造商仍在为AI需求扩产，有助于区分短期股价调整与产业基本面趋势。",
+      "publishedAt": "2026-10-15T07:08:00-04:00",
+      "eventTime": "2026年10月14日至15日业绩与订单更新",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/asmls-strong-ordersease-fears-ai-spending-boom-is-running-out-of-steam-4951281",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "ASML’s strong orders ease fears AI spending boom is running out of steam",
+        "note": "ASML称客户开始安排2029和2030年设备订单，三季度净利润49.6亿欧元、销售117亿欧元。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "宏观",
+      "title": "英国8月GDP环比增长0.1%，生产回升抵消建筑下滑",
+      "summary": "英国国家统计局估计8月实际GDP环比增长0.1%，生产增长0.8%，服务业持平，建筑业下降0.2%。截至8月的三个月GDP增长0.7%，同比增长1.8%。",
+      "whyImportant": "经济表现好于萎缩预期，为英国预算和利率决策提供一些缓冲，但行业分化显示复苏仍不均衡。",
+      "publishedAt": "2026-10-15",
+      "eventTime": "2026年10月15日发布8月数据",
+      "source": "UK Office for National Statistics",
+      "sourceUrl": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/latest",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "GDP monthly estimate, UK: August 2026",
+        "note": "ONS称8月GDP环比增长0.1%，三个月增长0.7%，生产增长0.8%、建筑下降0.2%。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "宏观",
+      "title": "IMF预计全球经济今年增长3.1%，能源冲击与AI投资形成对冲",
+      "summary": "IMF最新展望预计全球经济2026年增长3.1%，2027年回升至3.4%，今年全球通胀预计达到4.7%。中东战争推高能源和食品价格，而AI投资对活动、贸易和投资形成正向需求冲击。",
+      "whyImportant": "这组预测概括了当前全球经济的核心矛盾：AI投资支撑增长，但能源和通胀限制政策空间。",
+      "publishedAt": "2026-10-14",
+      "eventTime": "2026年10月13日至14日IMF年会发布",
+      "source": "International Monetary Fund",
+      "sourceUrl": "https://mediacenter.imf.org/news/imf---world-economic-outlook-annual-meetings--2026/s/22f94667-d194-473b-87b2-34c692b5a5a3",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "IMF / World Economic Outlook Annual Meetings, 2026",
+        "note": "IMF预计2026年全球增长3.1%、2027年3.4%，今年通胀4.7%，AI繁荣和能源冲击方向相反。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "宏观",
+      "title": "IMF称亚洲经济同时受到能源冲击和AI繁荣重塑",
+      "summary": "IMF亚太部表示，亚洲经济正被能源冲击、政策缓冲和技术繁荣三股力量影响。高度依赖中东油气进口的经济体承压，而参与AI供应链的部分亚洲经济体获得明显增长支持。",
+      "whyImportant": "亚洲既是能源进口重地又是芯片制造中心，政策分化将直接影响全球贸易和资本流向。",
+      "publishedAt": "2026-10-15",
+      "eventTime": "2026年10月15日IMF亚太部简报会",
+      "source": "International Monetary Fund",
+      "sourceUrl": "https://mediacenter.imf.org/news/imf-asia-pacific-department-press-briefing/s/bbb3be9e-4560-44ee-9467-a437b643d42e",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "IMF Asia Pacific Department Press Briefing",
+        "note": "IMF称亚太受到能源、政策缓冲和AI技术繁荣共同影响，AI供应链经济体受益较多。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "公司",
+      "title": "华尔街投行业务三季度降温，市场波动推迟并购与IPO",
+      "summary": "美国六大银行三季度业绩显示，经历强劲上半年后，投资银行业务受到交易活动放缓影响。债券收益率上升、AI交易波动和地缘风险令更多企业推迟并购与上市计划。",
+      "whyImportant": "资本市场活动降温会影响企业融资和银行收入，也反映金融条件收紧正向实体投资传导。",
+      "publishedAt": "2026-10-15T06:05:00-04:00",
+      "eventTime": "2026年10月15日三季度银行业绩综述",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/wall-st-banks-caught-in-capital-markets-lull-after-a-strong-first-half-of-2026-4951018",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Wall St banks caught in capital markets lull after a strong first half of 2026",
+        "note": "路透梳理六大银行业绩，指出并购和IPO受高收益率、AI波动及地缘风险拖累。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "AI",
+      "title": "Figma推出规则文档与代码层，约束AI代理按品牌设计",
+      "summary": "Figma发布Markdown式的Figma Specs，可集中记录设计语言、代码库和品牌规则供团队及AI代理引用。公司还把代码层功能开放测试，支持代理把设计转成代码并迭代原型。",
+      "whyImportant": "企业采用AI代理的难点正从生成能力转向可控性和标准化，Figma试图成为设计到代码的治理层。",
+      "publishedAt": "2026-10-14T21:30:00-07:00",
+      "eventTime": "2026年10月14日Config India发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Figma announces new features to define how agents work on its platform",
+        "note": "Figma发布Specs、代码层公开测试和更多MCP工具支持，用规则约束AI代理设计输出。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "AI",
+      "title": "Ricursive用AI自动设计芯片，瞄准算力效率瓶颈",
+      "summary": "Ricursive Intelligence展示可从每次迭代中学习并优化后续方案的AI芯片设计系统。创始人称公司希望把新芯片设计周期从数月或数年缩短到约一周，并通过整体优化提升晶圆、带宽和能源利用率。",
+      "whyImportant": "如果设计自动化能够成熟，它会降低定制芯片门槛，并缓解AI扩张对数据中心规模和能源的依赖。",
+      "publishedAt": "2026-10-14T18:01:00-07:00",
+      "eventTime": "2026年10月14日TechCrunch Disrupt展示",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "note": "公司开发可迭代学习的AI芯片设计系统，目标缩短设计周期并提高算力与能源效率。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "能源",
+      "title": "Ambrosia在得州建设10吉瓦时电池厂，为离网数据中心供电",
+      "summary": "Ambrosia Energy已在得州奥斯汀附近启动10吉瓦时电池工厂建设，计划两至三年内达产。公司首个商业项目将用300兆瓦光伏和660兆瓦时电池提供30兆瓦连续电力。",
+      "whyImportant": "数据中心电力需求正在催生独立于传统电网的新型能源基础设施，储能成本和可靠性将决定扩张速度。",
+      "publishedAt": "2026-10-14T12:51:00-07:00",
+      "eventTime": "2026年10月14日公布建厂计划",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+        "note": "公司在得州建设10GWh电池厂，首个项目计划以光伏加储能提供30MW连续电力。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "政策",
+      "title": "YouTube Music上线AI音乐标签，区分完全生成与部分生成",
+      "summary": "YouTube Music开始在播放页标注生成式AI参与程度，分为完全生成、部分生成和未使用生成式AI三类，标签也将扩展到YouTube主应用。平台侧重披露，不因使用AI而自动取消变现资格。",
+      "whyImportant": "流媒体正把AI内容治理从自愿说明变成产品层标签，可能重塑版权、推荐和收益分配规则。",
+      "publishedAt": "2026-10-14T11:23:00-07:00",
+      "eventTime": "2026年10月14日开始推出",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+        "note": "YouTube Music推出三档AI参与标签并扩展到主应用，重点是披露而非全面限制。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "科技",
+      "title": "Anthropic警告小型AI模型未来可能演化为物联网自复制蠕虫",
+      "summary": "Anthropic实验显示，小型模型已经能在多种低成本物联网硬件上建立分布式推理环境，并完成部分攻击链步骤，但尚不能可靠地端到端自我复制。公司警告，如果能力继续提升，这类模型可能形成更难关闭的自适应蠕虫。",
+      "whyImportant": "把模型权重变成恶意软件载荷会让攻击能够适配不同设备，物联网安全需要在能力成熟前加强默认防护。",
+      "publishedAt": "2026-10-14T12:55:00-07:00",
+      "eventTime": "2026年10月14日发布研究警告",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+        "note": "实验显示小模型能完成部分分布式推理和攻击步骤，但当前尚未实现可靠端到端复制。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "AI",
+      "title": "研究团队开发IdeaLens，尝试识别论文中的AI生成“想法”",
+      "summary": "研究人员开发IdeaLens，通过抽取论文论证结构而非文字风格来判断核心想法是否由AI生成，测试中识别率达到91%。专家同时警告，该工具会受领域和训练数据影响，不应单独用于判定个案。",
+      "whyImportant": "学术界的AI治理正在从查文字转向查思想来源，但误判风险意味着检测工具仍需透明验证和人工复核。",
+      "publishedAt": "2026-10-14",
+      "eventTime": "2026年10月14日Nature报道",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-03247-0",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Is this idea from AI or humans? A detector claims it can tell",
+        "note": "IdeaLens从论证结构识别AI生成想法，测试识别率91%，专家警告不可用于单个案件裁决。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-15-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "政策",
+      "title": "欧盟峰会聚焦中国出口、能源价格与长期预算",
+      "summary": "欧盟领导人准备讨论如何应对来自中国的出口压力、高能源价格和下一轮长期预算。欧盟2025年对华贸易逆差约3600亿欧元，成员国需要在产业保护、绿色转型和财政负担之间寻找平衡。",
+      "whyImportant": "欧盟对华产业政策可能影响汽车、清洁技术和机械产品贸易，并改变欧洲企业的投资与供应链安排。",
+      "publishedAt": "2026-10-15T00:05:00-04:00",
+      "eventTime": "2026年10月15日峰会前瞻",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economic-indicators/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit-4950477",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "EU leaders to tackle China exports, energy prices, budget at summit",
+        "note": "路透称欧盟领导人将讨论中国出口压力、能源价格和预算，2025年对华逆差约3600亿欧元。",
+        "checkedAt": "2026-10-15T22:18:43+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-10-15 22:20 北京时间"
+}

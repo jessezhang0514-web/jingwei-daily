@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-21",
+  "title": "中国增长数据企稳，全球AI竞赛转向芯片、成本与治理",
+  "mainThemes": [
+    "中国三季度增长与政策利率释放企稳信号",
+    "AI基础设施从芯片竞争延伸至软件降本",
+    "高投入与安全治理成为全球AI发展的共同约束"
+  ],
+  "watchNext": [
+    "关注中国内需和固定资产投资后续表现",
+    "跟踪AI资本开支对科技股和债券市场的影响",
+    "观察主要经济体对AI安全与产业政策的进一步表态"
+  ],
+  "windowStart": "2026-10-15T22:18:43+08:00",
+  "windowEnd": "2026-10-21T04:00:00+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-10-24T07:59:03+08:00",
+  "articles": [
+    {
+      "id": "2026-10-21-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国三季度GDP同比增长4.5%，前三季度增速达到4.6%",
+      "summary": "中国三季度GDP同比增长4.5%，较二季度4.3%有所加快；前三季度累计增长4.6%。经济仍在全年4.5%至5%的目标区间附近运行，但内需表现继续偏弱。",
+      "whyImportant": "这组数据确认增长短期企稳，也决定后续财政与货币政策是否需要继续加码。",
+      "publishedAt": "2026-10-19T10:00:00+08:00",
+      "eventTime": "2026年10月19日公布三季度数据",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/economic-indicators/article/3371335/chinas-economy-grows-45-third-quarter-staying-track-annual-target",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s economy grows 4.5% in third quarter, staying on track for annual target",
+        "note": "报道列出三季度同比4.5%、前三季度4.6%及全年4.5%至5%的目标区间。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国9月工业增加值与零售销售均好于预期",
+      "summary": "中国9月工业增加值同比增长5.5%，高于市场预期的5.4%；零售销售增长1.1%，也高于0.5%的预期。固定资产投资仍然偏弱，显示供给端改善快于投资需求。",
+      "whyImportant": "工业和消费数据改善为四季度增长提供支撑，但投资疲弱仍是经济修复的主要短板。",
+      "publishedAt": "2026-10-18T22:29:00-04:00",
+      "eventTime": "2026年10月19日北京时间发布9月数据",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China industrial output, retail sales beat forecasts in September",
+        "note": "报道给出工业增加值5.5%、零售销售1.1%，均好于预期，并指出投资仍弱。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "政策",
+      "title": "中国贷款市场报价利率连续第17个月保持不变",
+      "summary": "中国一年期和五年期以上LPR分别维持在3.00%和3.50%，连续第17个月不变。三季度GDP回升至4.5%，降低了短期立即降息的必要性。",
+      "whyImportant": "LPR按兵不动显示政策更重视定向支持和传导效率，而非全面降低资金价格。",
+      "publishedAt": "2026-10-19T21:34:00-04:00",
+      "eventTime": "2026年10月20日公布10月LPR",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/china-leaves-loan-rates-steady-for-17th-consecutive-month-4958644",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China leaves loan rates steady for 17th consecutive month",
+        "note": "路透报道一年期LPR为3.00%、五年期以上为3.50%，连续17个月未变。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "芯片",
+      "title": "长鑫存储预告收入增长逾八倍，股价却因高预期回落",
+      "summary": "长鑫存储预计前九个月收入为265亿至270亿元人民币，远高于上年同期32.08亿元，并由亏转盈。业绩高速增长仍未满足部分投资者预期，股价一度下跌7.6%。",
+      "whyImportant": "存储芯片国产化正在形成规模收入，但市场定价已提前反映较高增长预期。",
+      "publishedAt": "2026-10-19T01:02:00-04:00",
+      "eventTime": "2026年10月19日业绩预告后交易",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/earnings/chinas-cxmt-shares-slide-despite-ninefold-revenue-growth-forecast-4956339",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China's CXMT shares slide despite ninefold revenue growth forecast",
+        "note": "预告前九个月收入265亿至270亿元、净利润131亿至132.5亿元，股价一度跌7.6%。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "AI",
+      "title": "DeepSeek开源DeepInfer框架，瞄准大模型推理成本",
+      "summary": "DeepSeek开源DeepInfer推理框架，支持分布式推理和推测解码，并针对V4.1 Flash等模型部署进行优化。该项目目标是降低模型上线成本，但独立性能评测仍有限。",
+      "whyImportant": "推理效率已成为大模型商业化的核心约束，开源工具可能加快国产算力与模型生态协同。",
+      "publishedAt": "2026-10-20T09:36:00-04:00",
+      "eventTime": "2026年10月20日发布",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/deepseek-opensources-deepinfer-software-to-curb-ai-deployment-costs-4960336",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "DeepSeek open-sources DeepInfer software to curb AI deployment costs",
+        "note": "报道确认DeepInfer开源，支持分布式推理和推测解码，重点降低部署成本。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "芯片",
+      "title": "亚马逊让Trainium兼容PyTorch，降低开发者迁移门槛",
+      "summary": "亚马逊发布免费开源的TorchNeuron，使现有PyTorch代码可通过较少配置改动运行在Trainium芯片上。公司称已有超过30家早期客户测试。",
+      "whyImportant": "软件生态是英伟达护城河的重要组成，兼容PyTorch有助于亚马逊扩大自研AI芯片使用率。",
+      "publishedAt": "2026-10-19T09:03:00-04:00",
+      "eventTime": "2026年10月19日发布",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-nvidia-4957531",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
+        "note": "路透称TorchNeuron开源并兼容PyTorch，已有30多家早期客户。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "AI",
+      "title": "英伟达呼吁德国加快把AI引入制造业",
+      "summary": "英伟达CEO黄仁勋在德国表示，AI将更深地进入机器人、汽车和重工业等实体产业。德国制造业同时面临能源成本、中国竞争和监管负担等压力。",
+      "whyImportant": "AI竞争正从数据中心转向工业生产，制造强国能否快速部署将影响下一阶段生产率差距。",
+      "publishedAt": "2026-10-19T19:28:53+00:00",
+      "eventTime": "2026年10月19日德国活动",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/f024c1e0d181677a19468657907a9025",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Nvidia CEO urges Germany to embrace AI as its industrial economy struggles",
+        "note": "AP报道黄仁勋强调实体AI和工业应用，并概述德国制造业面临的多重压力。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "市场",
+      "title": "AI龙头反弹推高纳指，但多数股票仍下跌",
+      "summary": "美国标普500指数上涨0.4%，纳斯达克上涨1.1%，涨幅主要由AI相关股票贡献。市场广度仍弱，多数非AI股票下跌，欧洲股市也因法国抗议和债券收益率上升承压。",
+      "whyImportant": "指数上涨与多数个股走弱并存，说明市场对AI龙头的集中依赖仍在加深。",
+      "publishedAt": "2026-10-19T05:48:13+00:00",
+      "eventTime": "2026年10月19日市场交易",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/494fbe4361a0360b2f6368e7a6d8f058",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "AI stocks rebound to lift Wall Street, even as most other stocks fall",
+        "note": "AP称标普涨0.4%、纳指涨1.1%，但多数股票下跌，欧洲主要指数跌逾1%。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "政策",
+      "title": "IMF总裁称AI如同高速赛车，全球治理护栏必须加快建立",
+      "summary": "IMF总裁格奥尔基耶娃将AI比作高速赛车，强调技术潜力巨大但也需要迅速建立规则和安全护栏。她特别关注就业、金融稳定和国家间发展差距。",
+      "whyImportant": "国际机构开始把AI治理与宏观稳定并列，未来监管可能直接影响投资、用工和跨境技术流动。",
+      "publishedAt": "2026-10-16T10:21:56+00:00",
+      "eventTime": "2026年10月16日IMF与世界银行年会期间",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/faba248f0609534a0d8284dec1b46a81",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "IMF chief says AI is like a Formula 1 race car and guardrails are urgently needed",
+        "note": "AP报道格奥尔基耶娃以赛车比喻AI，并呼吁紧急建立治理护栏。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "AI",
+      "title": "Anthropic预计AI可能显著推高美国GDP，但强调这只是情景测算",
+      "summary": "Anthropic经济学家表示，公司内部模型显示美国GDP到2030年可能达到44万亿美元，高于当前逾30万亿美元。该数字属于高不确定性的情景分析，并非正式预测。",
+      "whyImportant": "AI生产率红利正进入宏观政策讨论，但极高估值也要求市场区分情景推演与可验证预测。",
+      "publishedAt": "2026-10-17T05:14:00-04:00",
+      "eventTime": "2026年10月17日访谈",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp-4955359",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
+        "note": "路透引述Anthropic内部模型的44万亿美元情景，并强调需要严肃的国际规则。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "宏观",
+      "title": "IMF与世界银行年会凸显发展中国家的债务和AI鸿沟",
+      "summary": "多国在年会期间警告，较高借贷成本、能源需求和数字基础设施不足正在扩大贫富国家差距。若缺少融资和技能投入，发展中国家可能在AI浪潮中进一步落后。",
+      "whyImportant": "AI红利能否扩散决定全球增长的包容性，也关系多边开发机构未来的贷款重点。",
+      "publishedAt": "2026-10-18T06:45:00-04:00",
+      "eventTime": "2026年10月18日年会总结",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/analysisimfworld-bank-meetings-leave-developing-countries-with-more-questions-than-answers-4955879",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "IMF-World Bank meetings leave developing countries with more questions than answers",
+        "note": "路透梳理发展中国家在债务、能源和AI基础设施方面的融资压力。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "公司",
+      "title": "微软退出与Nscale合作的英国数据中心项目",
+      "summary": "报道称微软退出了与Nscale合作的一项英国数据中心交易，退出原因尚未披露。微软和Nscale在报道发布时均未回应置评请求。",
+      "whyImportant": "大型云厂商重新评估单个项目，反映AI算力扩张正在受到资本成本、电力和交付风险约束。",
+      "publishedAt": "2026-10-18T06:01:00-04:00",
+      "eventTime": "2026年10月18日报道",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-4955864",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Microsoft pulls out of UK data center deal with Nscale",
+        "note": "路透转述英国媒体报道，双方未说明退出原因且未即时回应；摘要保留未确认状态。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "科技",
+      "title": "新型纳米机械谐振器将单声子寿命提高到11毫秒",
+      "summary": "研究团队展示3.35GHz纳米机械谐振器，在低温下实现11毫秒的单声子内禀寿命。其品质指标比此前纪录提高约50倍。",
+      "whyImportant": "更长的机械量子态寿命有助于量子存储、精密传感和混合量子系统的发展。",
+      "publishedAt": "2026-10-16",
+      "eventTime": "2026年10月16日论文发表",
+      "source": "Nature Nanotechnology",
+      "sourceUrl": "https://www.nature.com/articles/s41565-026-02289-9",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Millisecond single-phonon lifetime in a nanomechanical resonator",
+        "note": "论文报告3.35GHz器件、11毫秒单声子寿命及约50倍品质指标提升。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "科技",
+      "title": "法国超市制冷系统遭攻击，物联网设备安全风险再受关注",
+      "summary": "法国零售设施的联网制冷系统遭到攻击，暴露工业和商业物联网设备的安全薄弱点。攻击者可能借此窃取数据、扰乱运营，或把设备作为进入企业网络的跳板。",
+      "whyImportant": "关键运营设备联网后，网络攻击可能直接转化为食品损失、停业和供应链中断。",
+      "publishedAt": "2026-10-17T04:34:00-04:00",
+      "eventTime": "2026年10月17日安全分析",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4955339",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Could hackers get inside my fridge?",
+        "note": "路透以法国超市制冷系统攻击说明联网设备可能带来的数据、运营和横向渗透风险。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "能源",
+      "title": "委内瑞拉预计五年吸引760亿美元石油投资",
+      "summary": "委内瑞拉预计未来五年获得760亿美元石油投资，并称与美国合作涉及17个油田、250座钻机和61项协议。相关目标仍取决于制裁、合同执行和实际资本投入。",
+      "whyImportant": "若投资兑现，全球重质原油供应和美洲能源关系都可能发生明显变化。",
+      "publishedAt": "2026-10-17T21:25:00-04:00",
+      "eventTime": "2026年10月17日公布投资预期",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/venezuela-expects-76-billion-oil-investment-boost-amid-us-cooperation-4955719",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Venezuela expects $76 billion oil investment boost amid US cooperation",
+        "note": "报道列出五年760亿美元、17个油田、250座钻机和61项协议等目标。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "芯片",
+      "title": "日本振兴芯片产业同时面临赴美建厂压力",
+      "summary": "日本企业与政策资金可能为两座美国纽约州芯片工厂提供最高约210亿美元投入。日本自身也计划到2040年在17个战略领域撬动约2.3万亿美元公共和私人投资。",
+      "whyImportant": "美日半导体合作正在重新分配资本和产能，可能影响日本本土产业复兴的速度。",
+      "publishedAt": "2026-10-20T00:51:00-04:00",
+      "eventTime": "2026年10月20日产业分析",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economic-indicators/analysisas-japan-pursues-a-chipindustry-reboot-its-being-pressed-to-build-americas-4958769",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "As Japan pursues a chip-industry reboot, it's being pressed to build America's",
+        "note": "路透分析纽约州晶圆厂投资规模及日本到2040年的战略产业投资规划。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "市场",
+      "title": "AI投资疑虑再起，亚洲与欧洲芯片股同步下跌",
+      "summary": "韩国KOSPI指数下跌3.7%，SK海力士下跌4.2%，欧洲芯片股也跟随走低。市场重新担忧AI资本开支规模与回报周期。",
+      "whyImportant": "芯片股跨市场同步调整，表明投资者正在更严格地审视AI订单质量和融资可持续性。",
+      "publishedAt": "2026-10-20T03:35:00-04:00",
+      "eventTime": "2026年10月20日全球市场交易",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/european-chip-stocks-fall-tracking-asian-selloff-over-ai-investment-worries-4959012",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "European chip stocks fall, tracking Asian selloff over AI investment worries",
+        "note": "报道给出KOSPI跌3.7%、SK海力士跌4.2%，并指向AI投资回报担忧。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "AI",
+      "title": "Meta暂停Muse对话分享，公开链接暴露隐私风险",
+      "summary": "研究发现，Muse用户生成的公开分享链接可能包含个人和商业敏感信息。Meta随后暂停分享功能并展开调查。",
+      "whyImportant": "生成式AI产品的分享机制会放大无意泄露，隐私设计需要从默认权限和可发现性开始控制。",
+      "publishedAt": "2026-10-20T12:33:00-07:00",
+      "eventTime": "2026年10月20日披露",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Meta Muse exposes users’ personal and business secrets when they share conversations",
+        "note": "Ars报道公开分享链接包含敏感内容，Meta已暂停该功能调查。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "科技",
+      "title": "近4000名科学家调查显示各国职业乐观度分化",
+      "summary": "Nature调查显示，印度和中国受访科研人员对未来较乐观，比例分别约70%和55%；德国、英国和美国明显更低。全球总体乐观比例约52%。",
+      "whyImportant": "科研人员信心会影响人才流动、创新投入和各国科研体系的长期竞争力。",
+      "publishedAt": "2026-10-20",
+      "eventTime": "2026年10月20日调查发布",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-03327-1",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "How happy are scientists with their careers? Global survey reveals regional divides",
+        "note": "调查覆盖近4000名科学家，给出印度、中国、欧美多国的职业乐观度差异。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    },
+    {
+      "id": "2026-10-21-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "AI",
+      "title": "临床研究显示高可靠AI仍会诱发自动化偏见",
+      "summary": "一项包含1750次判断的研究发现，受训者会接受高可靠模型给出的52%错误建议。少数资深新生儿科医生能推翻91.7%的错误，但样本很小，结果仍属探索性。",
+      "whyImportant": "即使模型总体准确，偶发错误也可能被使用者过度信任，医疗AI需要分层监督和明确责任。",
+      "publishedAt": "2026-10-20",
+      "eventTime": "2026年10月20日论文发表",
+      "source": "npj Digital Medicine",
+      "sourceUrl": "https://www.nature.com/articles/s41746-026-03399-3",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Automation bias in clinical AI use",
+        "note": "论文报告1750次判断、受训者接受52%错误建议；资深医生样本仅3人。",
+        "checkedAt": "2026-10-24T07:59:03+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-10-24 08:02 北京时间"
+}

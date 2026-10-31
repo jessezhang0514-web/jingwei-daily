@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-31",
+  "title": "AI巨额投入遭遇回报拷问，中国制造与科技产业呈现明显分化",
+  "mainThemes": [
+    "全球科技股因AI现金消耗和融资压力大幅波动",
+    "中国制造业重新收缩，但国产芯片和企业出海继续推进",
+    "临床AI与代理身份治理出现更具体的落地证据"
+  ],
+  "watchNext": [
+    "关注科技股回调是否扩散至信用和就业市场",
+    "观察中国四季度稳增长政策力度",
+    "跟踪AI资本开支、模型开放和网络安全风险"
+  ],
+  "windowStart": "2026-10-29T03:00:00+08:00",
+  "windowEnd": "2026-10-31T20:46:43+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-10-31T20:46:43+08:00",
+  "articles": [
+    {
+      "id": "2026-10-31-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国10月制造业PMI降至49.3，服务业也转为收缩",
+      "summary": "官方制造业PMI从9月的50.1降至49.3，低于49.9的预期；非制造业PMI从50.2降至49.7。四季度初制造业和服务业均失去动能。",
+      "whyImportant": "双重收缩会增加年末稳增长和扩大内需政策的压力。",
+      "publishedAt": "2026-10-30T23:26:00-04:00",
+      "eventTime": "2026年10月31日公布",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/china-factory-activity-contracts-in-october-as-economic-recovery-falters-4989075",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China factory activity contracts in October as economic recovery falters",
+        "note": "制造业PMI为49.3，非制造业为49.7，均低于50。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "政策",
+      "title": "美国拟禁止在中国测试输美电子设备，北京提出反对",
+      "summary": "美国FCC计划到2028年禁止中国实验室为输美智能手机和电脑等设备进行认证测试。中国商务部警告措施可能扰乱产业链，并要求撤销。",
+      "whyImportant": "中国实验室承担大量设备认证，禁令可能提高全球电子产品合规成本和上市时间。",
+      "publishedAt": "2026-10-31T14:01:00+08:00",
+      "eventTime": "2026年10月31日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/china/diplomacy/article/3372816/beijing-blasts-us-ban-device-testing-china-warns-supply-chain-disruptions",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Beijing blasts US ban on device testing in China, warns of supply chain disruptions",
+        "note": "美国FCC拟在2028年前禁止中国实验室认证输美设备，中国商务部反对。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "芯片",
+      "title": "天数智芯称天垓300在部分任务上匹敌英伟达H200",
+      "summary": "天数智芯展示天垓300 GPU，并称其在文本生成图像和视频等多模态任务中可匹敌或超过H200。该结论来自公司演示，仍需独立基准测试验证。",
+      "whyImportant": "国产GPU竞争正转向真实工作负载和软件生态，而非只比较理论参数。",
+      "publishedAt": "2026-10-29T22:00:00+08:00",
+      "eventTime": "2026年10月29日演示报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "AI chipmaker Iluvatar CoreX says new GPU matches Nvidia’s H200",
+        "note": "公司演示称天垓300在复杂多模态任务中优于H200，报道明确为公司主张。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "AI",
+      "title": "腾讯以东南亚为跳板推广AI智能体WorkBuddy",
+      "summary": "腾讯把东南亚作为WorkBuddy等AI工具的出海起点，并扩大海外数据中心和云服务覆盖。公司称过去一年海外AI服务需求实现三位数增长。",
+      "whyImportant": "国内竞争加剧后，中国平台企业正通过云基础设施和低成本模型寻找海外增量。",
+      "publishedAt": "2026-10-29T15:30:00+08:00",
+      "eventTime": "2026年10月29日腾讯峰会",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy",
+        "note": "腾讯称海外AI需求三位数增长，云服务覆盖150多个国家和地区。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "公司",
+      "title": "比亚迪和吉利三季度利润均增长28%，海外销售提供支撑",
+      "summary": "比亚迪三季度净利润100亿元、收入2115亿元；吉利净利润48亿元、收入990亿元。两家公司利润均同比增长28%，海外销量抵消了国内市场放缓。",
+      "whyImportant": "出口正在成为中国车企利润增长的关键来源，也会加剧欧洲和东南亚竞争。",
+      "publishedAt": "2026-10-29T20:41:00+08:00",
+      "eventTime": "2026年10月29日发布业绩",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/china-evs/article/3372611/chinas-byd-geely-report-profit-jump-sales-abroad-surge-though-local-market-stalls",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s BYD, Geely report profit jump as sales abroad surge",
+        "note": "BYD净利润100亿元，吉利48亿元，均增长28%。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "宏观",
+      "title": "美国三季度GDP年化增长3.4%，AI投资和消费共同拉动",
+      "summary": "美国三季度GDP年化增长3.4%，高于二季度2.2%和市场预期3.0%。消费增长3.8%，非住宅商业投资增长12.7%，信息处理设备投资增长37.4%。",
+      "whyImportant": "强增长支持企业盈利，但也可能让利率在高位停留更久。",
+      "publishedAt": "2026-10-29T12:32:19+00:00",
+      "eventTime": "2026年10月29日公布初值",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/ca48d86b723cc52fe14d142ee033316a",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "US economy grows at brisk 3.4% pace in third quarter",
+        "note": "GDP增3.4%，消费增3.8%，商业投资增12.7%，信息设备投资增37.4%。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "市场",
+      "title": "Alphabet单日下跌12.6%，创上市以来最大跌幅",
+      "summary": "Alphabet因搜索广告增长低于预期和AI资本开支导致现金流转负，股价下跌12.6%。标普500下跌0.3%，纳斯达克下跌1.4%。",
+      "whyImportant": "市场正在停止无条件奖励AI投入，转而要求清晰的变现路径。",
+      "publishedAt": "2026-10-29T05:03:55+00:00",
+      "eventTime": "2026年10月29日市场交易",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/1b5c71d31b4ce1e46b0db47b33141f6b",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "A historic drop for Alphabet's stock drags the US market lower",
+        "note": "Alphabet跌12.6%，标普跌0.3%，纳指跌1.4%。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "市场",
+      "title": "纳斯达克100十月或蒸发逾2万亿美元市值",
+      "summary": "纳斯达克100指数10月累计下跌超过5.8%，大型科技公司继续上调AI支出预期。摩根大通预计2026年全球AI资本开支约9000亿美元，2030年前累计5.5万亿美元。",
+      "whyImportant": "估值回落说明投资者开始把融资成本和回报周期纳入AI定价。",
+      "publishedAt": "2026-10-30T11:11:00-04:00",
+      "eventTime": "2026年10月30日市场统计",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen-4988211",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
+        "note": "指数月跌超5.8%，市值损失逾2万亿美元，2026年AI资本开支估算9000亿美元。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "芯片",
+      "title": "英特尔暴跌近30%，引发全球芯片股连锁下跌",
+      "summary": "英特尔给出的季度收入指引比市场预期低逾10亿美元，并预计全年仍无法实现正现金流。股价一度下跌30%，信用违约掉期成本同步上升。",
+      "whyImportant": "PC疲弱与AI建设成本同时挤压传统芯片企业，暴露产业转型难度。",
+      "publishedAt": "2026-10-30T07:26:00-04:00",
+      "eventTime": "2026年10月30日市场交易",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Intel on course for worst day ever, triggers global chip rout",
+        "note": "英特尔一度跌30%，收入指引低于预期逾10亿美元，全年现金流预计仍为负。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "市场",
+      "title": "AI巨头现金消耗引发全球避险，债券录得近三年最佳月度表现",
+      "summary": "Alphabet、Intel和Amazon业绩显示AI投入快速消耗现金，亚洲科技股和美国期指下跌。投资者转向国债，美国10年期收益率10月下降约37个基点。",
+      "whyImportant": "AI融资担忧已从个股扩散到全球资产配置和信用市场。",
+      "publishedAt": "2026-10-29T22:44:00-04:00",
+      "eventTime": "2026年10月30日全球市场",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/stocks-slump-bonds-leap-as-ai-giants-spending-spooks-investors-4985741",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Stocks slump, bonds leap as AI giants’ spending spooks investors",
+        "note": "Alphabet市值重挫，亚洲科技股下跌，10年期美债收益率月降约37基点。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "市场",
+      "title": "欧洲科技股受AI回报担忧拖累，板块下跌2%",
+      "summary": "欧洲STOXX 600指数小幅下跌，科技板块下跌2%，Amazon和Intel业绩加剧市场对AI投资回报的担忧。ASML、Shell和Airbus等业绩仍支撑整体指数月度上涨。",
+      "whyImportant": "欧洲市场显示AI风险集中在科技板块，并未完全扩散至实体企业。",
+      "publishedAt": "2026-10-30T04:25:00-04:00",
+      "eventTime": "2026年10月30日欧洲交易时段",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/european-shares-ease-as-aidriven-tech-selloff-deepens-4986074",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "European shares ease as AI-driven tech selloff deepens",
+        "note": "STOXX 600跌0.25%，科技板块跌2%，整体仍有望月度上涨。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "市场",
+      "title": "日本日经指数一度下跌3%，芯片设备股领跌",
+      "summary": "日经指数一度下跌3%，Advantest跌9.1%，东京电子跌5.6%，软银集团跌6.7%。AI投资回报担忧和美国科技股下跌传导至亚洲。",
+      "whyImportant": "全球芯片供应链高度联动，美国资本开支预期会迅速影响亚洲估值。",
+      "publishedAt": "2026-10-29T22:20:00-04:00",
+      "eventTime": "2026年10月30日东京交易",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/japans-nikkei-slumps-3-as-tech-stocks-tumble-on-ai-worries-4985730",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Japan’s Nikkei slumps 3% as tech stocks tumble on AI worries",
+        "note": "日经一度跌3%，Advantest跌9.1%、东京电子跌5.6%、软银跌6.7%。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "AI",
+      "title": "Mistral开放万亿参数模型权重，重点瞄准网络安全",
+      "summary": "Mistral发布Mistral Large 4模型权重，允许企业和政府本地部署。公司称模型在网络安全任务上具有竞争力，并比GLM-5.3平均少用47%的令牌。",
+      "whyImportant": "开放权重让机构获得更强的数据控制权，也提高高能力模型被滥用的治理要求。",
+      "publishedAt": "2026-10-29T10:00:00-07:00",
+      "eventTime": "2026年10月29日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Mistral releases weights for its trillion-parameter AI model",
+        "note": "模型为万亿参数并开放权重，公司称部分任务令牌使用量低47%。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "AI",
+      "title": "智能体系统把癌症不良反应标注时间缩短43.5%",
+      "summary": "Nature Cancer研究在真实临床记录中测试多智能体系统。随机交叉研究显示，AI辅助把中位标注时间从428秒降至242秒，并提高准确率与标注一致性。",
+      "whyImportant": "这是智能体进入临床工作流的实证案例，但外部验证仍是主要缺口。",
+      "publishedAt": "2026-10-29",
+      "eventTime": "2026年10月29日论文发表",
+      "source": "Nature Cancer",
+      "sourceUrl": "https://www.nature.com/articles/s43018-026-01264-6",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "An agentic AI system enhances clinical detection of immune-related adverse events",
+        "note": "随机研究中标注时间下降43.5%，准确率和一致性改善，尚未外部验证。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "AI",
+      "title": "AI系统让基层医疗漏转诊发现量提高约七倍",
+      "summary": "新加坡七家基层诊所的MR-AI每周扫描约2.5万份记录，漏转诊发现量估算提高约七倍。系统特异度99.9%、敏感度48.8%，说明仍需人工复核。",
+      "whyImportant": "AI监测可补足流程漏洞，但敏感度有限，不能替代制度性预防。",
+      "publishedAt": "2026-10-30",
+      "eventTime": "2026年10月30日论文发表",
+      "source": "npj Digital Medicine",
+      "sourceUrl": "https://www.nature.com/articles/s41746-026-03444-1",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Accuracy and impact of an AI safety system for missed specialist referrals",
+        "note": "七家诊所约2.5万份周记录，特异度99.9%、敏感度48.8%，检测量约增七倍。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "AI",
+      "title": "Mintive融资1100万美元，聚焦企业AI代理身份治理",
+      "summary": "Mintive提供代理身份、授权、MCP网关和模型路由工具，已服务50多家企业客户。公司累计融资1100万美元，其中新一轮种子融资700万美元。",
+      "whyImportant": "AI代理获得长期权限后，独立身份和最小权限控制将成为企业安全基础设施。",
+      "publishedAt": "2026-10-29T08:00:00-07:00",
+      "eventTime": "2026年10月29日融资公布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue",
+        "note": "累计融资1100万美元，平台覆盖代理身份、授权和MCP网关，客户超50家。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "公司",
+      "title": "Runware计划像造汽车一样量产模块化AI数据中心",
+      "summary": "Runware计划在罗马尼亚工厂以流水线生产模块化数据中心，并争取48小时完成现场安装。公司目标2028年日产30兆瓦容量，但执行、供应链和融资仍是风险。",
+      "whyImportant": "模块化建设可缩短AI算力交付时间，也可能降低大型项目的资本和社区阻力。",
+      "publishedAt": "2026-10-30T06:00:00-07:00",
+      "eventTime": "2026年10月30日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Can AI data centers be mass-produced like cars?",
+        "note": "公司目标48小时安装、2028年日产30兆瓦，计划仍待执行验证。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "公司",
+      "title": "部分企业在AI裁员后重新招聘，出现“AI回旋镖”",
+      "summary": "微软、巴克莱和Kroger等公司以AI为由削减岗位，但部分企业发现自动化效果不及预期后重新聘人。相关逆转规模尚不清楚。",
+      "whyImportant": "企业需要用真实生产率数据而非预期决定人员配置，避免重复裁员和返聘成本。",
+      "publishedAt": "2026-10-29T17:22:46+00:00",
+      "eventTime": "2026年10月29日报道",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/04662acffb7beba822129118dde3f0a7",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "What to consider if a company that made AI-related job cuts wants you back",
+        "note": "AP报道多家企业AI裁员及部分返聘案例，规模尚无完整统计。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "科技",
+      "title": "朝鲜黑客被指从Binance窃取至少63亿美元加密资产",
+      "summary": "安全公司把约20分钟内完成的攻击归因于朝鲜TraderTraitor组织。Binance称攻击可能始于员工电脑被攻破，行业伙伴已冻结约30亿美元资产。",
+      "whyImportant": "史上最大规模加密盗窃暴露交易所内部权限和实时冻结机制的薄弱点。",
+      "publishedAt": "2026-10-30T07:00:00-07:00",
+      "eventTime": "2026年10月30日披露",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+        "note": "至少63亿美元被盗，约30亿美元被冻结，攻击可能源于员工电脑。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-31-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "市场",
+      "title": "五大科技公司资本开支首次超过经营现金流",
+      "summary": "微软、Alphabet、Amazon、Meta和Oracle前三季度经营现金流5429亿美元，资本开支5569亿美元。回购与分红仅占现金流9.3%，为至少15年最低。",
+      "whyImportant": "AI投入正在挤压股东回报，估值更依赖未来利润兑现而非回购支撑。",
+      "publishedAt": "2026-10-30T11:35:00-04:00",
+      "eventTime": "2026年10月30日数据分析",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/big-tech-returns-smallest-share-of-cash-to-shareholders-in-15-years-given-ai-spending-4988277",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Big Tech returns smallest share of cash to shareholders in 15 years",
+        "note": "五家公司经营现金流5429亿美元、资本开支5569亿美元，现金回报率降至9.3%。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-10-31 20:48 北京时间"
+}

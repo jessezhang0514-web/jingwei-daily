@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-29",
+  "title": "中国AI资产降温，全球资本开始严格检验AI投入回报",
+  "mainThemes": [
+    "中国AI股估值回落但产业利润继续增长",
+    "大型科技公司面临资本开支和融资回报检验",
+    "美联储暂停加息，全球市场仍受能源与通胀牵制"
+  ],
+  "watchNext": [
+    "关注大型云厂商财报对AI投资回报的证明",
+    "观察中国AI出口规则与人民币走势",
+    "跟踪美联储12月加息预期和私人信贷风险"
+  ],
+  "windowStart": "2026-10-24T07:59:03+08:00",
+  "windowEnd": "2026-10-29T03:00:00+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-10-31T20:46:43+08:00",
+  "articles": [
+    {
+      "id": "2026-10-29-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "市场",
+      "title": "人民币升至四年高位，央行继续控制升值节奏",
+      "summary": "人民币兑美元一度升至2022年6月以来最高，官方中间价也创2023年2月以来最强。市场认为央行希望保持升值但避免速度过快。",
+      "whyImportant": "汇率走强可降低进口成本，但过快升值会增加出口企业压力。",
+      "publishedAt": "2026-10-25T23:39:00-04:00",
+      "eventTime": "2026年10月26日市场交易",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/chinas-yuan-climbs-to-fresh-4year-high-ahead-of-key-policy-meetings-4971368",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s yuan climbs to fresh 4-year high ahead of key policy meetings",
+        "note": "在岸人民币触及6.6682，连续第八个交易日走强。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "市场",
+      "title": "中国AI股四个月蒸发约4800亿美元",
+      "summary": "中国STAR50指数不到四个月下跌约40%，AI和半导体板块高估值快速收缩。相关股票仍占中国市场较高权重，融资与上市节奏可能受到影响。",
+      "whyImportant": "大幅回调显示产业增长与股票估值开始分化，也会影响科技企业融资能力。",
+      "publishedAt": "2026-10-26T08:00:00-04:00",
+      "eventTime": "2026年10月26日报道",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/analysisin-china-the-ai-bubble-has-already-burst-4972445",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "In China, the AI bubble has already burst",
+        "note": "STAR50跌约40%，约4800亿美元市值蒸发，科技股权重仍高。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国9月工业利润增长14.4%，AI产业贡献突出",
+      "summary": "规模以上工业企业9月利润同比增长14.4%，为6月以来最快；前九个月累计增长15.5%。高技术制造表现较强，消费相关行业仍偏弱。",
+      "whyImportant": "利润改善有助于企业投资，但行业分化说明内需恢复仍不均衡。",
+      "publishedAt": "2026-10-26T23:04:00-04:00",
+      "eventTime": "2026年10月27日公布",
+      "source": "Investing.com",
+      "sourceUrl": "https://ca.investing.com/news/economic-indicators/china-industrial-profits-rise-144-in-september-on-ai-demand-4904411",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China industrial profits rise 14.4% in September on AI demand",
+        "note": "9月利润增14.4%，前九个月增15.5%，AI相关行业领跑。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "政策",
+      "title": "中国AI出口新规倾向保留技术、对外销售服务",
+      "summary": "中国拟议规则区分海外客户使用云端AI服务与获得底层模型、数据和技术。部分技术转移与海外部署将需审批，而在线服务仍可继续。",
+      "whyImportant": "规则可能推动中国AI公司以云服务方式出海，同时限制核心能力外流。",
+      "publishedAt": "2026-10-28T03:17:00-04:00",
+      "eventTime": "2026年10月28日报道",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/analysischinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels-4977600",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s new export curbs draw a line around its AI crown jewels",
+        "note": "拟议规则允许海外使用服务，但部分模型与技术转移需政府批准。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "AI",
+      "title": "美中AI阵营成形，第三国面临技术路线选择",
+      "summary": "美国以先进芯片和供应链联盟扩展影响，中国则依靠较低成本的开源模型与合作组织吸引伙伴。哈萨克斯坦、印尼和新加坡等国试图同时保持两边联系。",
+      "whyImportant": "AI标准、算力和治理体系分化，会影响全球技术供应链和数字主权。",
+      "publishedAt": "2026-10-25T04:05:41+00:00",
+      "eventTime": "2026年10月25日报道",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/9974a3e5dc955a93935d131a4aeb8886",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "As the US and China form AI blocs, countries are increasingly torn between them",
+        "note": "AP梳理美国与中国AI阵营及多个摇摆国家的选择。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "公司",
+      "title": "Anthropic递交上市文件，或挑战全球最大IPO纪录",
+      "summary": "Anthropic申请在纳斯达克以ANT为代码上市，收入高速增长但亏损和安全风险同样显著。招股文件把模型失控、恶意使用和监管列为重要风险。",
+      "whyImportant": "这次上市将检验资本市场愿意为前沿AI增长和风险支付多高估值。",
+      "publishedAt": "2026-10-26T13:05:25+00:00",
+      "eventTime": "2026年10月26日递交文件",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/ca2f4c282bef3201a392e59e3df2300c",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Anthropic files for potentially the biggest IPO ever",
+        "note": "AP报道Anthropic申请以ANT代码在纳斯达克上市并披露多类AI风险。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "市场",
+      "title": "AI股震荡中反弹，标普500上涨0.7%",
+      "summary": "标普500上涨0.7%，纳斯达克上涨0.8%，英伟达上涨2.4%。借贷成本和数据中心投资回报的不确定性仍令AI板块波动剧烈。",
+      "whyImportant": "指数反弹未消除融资担忧，市场正在区分现金流强弱不同的AI公司。",
+      "publishedAt": "2026-10-26T02:44:02+00:00",
+      "eventTime": "2026年10月26日市场交易",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/be3a56f58a77c5be863f0289d280be92",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Wall Street rises as AI stocks keep swinging",
+        "note": "标普涨0.7%、纳指涨0.8%、英伟达涨2.4%。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "市场",
+      "title": "博通等AI股推动纳指大涨，市场等待美联储决定",
+      "summary": "纳斯达克上涨308点，道指小幅上涨，AI芯片股成为主要推动力。美国消费者信心改善，但投资者仍等待美联储利率决定。",
+      "whyImportant": "AI行情与利率预期高度绑定，任何政策变化都可能放大科技股波动。",
+      "publishedAt": "2026-10-27T07:10:57+00:00",
+      "eventTime": "2026年10月27日市场交易",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/e11a2240fc3283c4507d44b9833f30a2",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Broadcom and other AI stocks lift Wall Street closer to its record",
+        "note": "AP报道纳指上涨308.43点，AI相关股票领涨。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "公司",
+      "title": "大型科技公司财报将检验AI投资回报",
+      "summary": "亚马逊、微软和Alphabet预计继续保持云业务增长，但投资者要求看到巨额AI资本开支转化为收入。融资成本上升和搜索业务竞争成为主要风险。",
+      "whyImportant": "财报将决定市场是否继续支持超大规模数据中心投资。",
+      "publishedAt": "2026-10-27T06:05:00-04:00",
+      "eventTime": "2026年10月27日财报前瞻",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/big-tech-earnings-a-test-of-the-ai-boom-amid-market-turmoil-4974716",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Big Tech earnings to test AI boom amid market turmoil",
+        "note": "路透梳理三家云巨头的增长预期、资本开支和融资压力。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "市场",
+      "title": "债券投资者把注意力从美联储转向AI融资与财政赤字",
+      "summary": "美国国债收益率从10月高点回落，部分原因是市场担忧高杠杆AI基础设施项目放缓。通胀、政府借款和企业发债仍限制债券上涨空间。",
+      "whyImportant": "AI投资已成为利率和信用市场的重要宏观变量。",
+      "publishedAt": "2026-10-27T06:04:00-04:00",
+      "eventTime": "2026年10月27日市场分析",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/analysisbond-investors-are-thinking-less-about-the-fed-and-more-about-ai-deficits-4974718",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Bond investors are thinking less about the Fed and more about AI, deficits",
+        "note": "路透称AI融资担忧推动国债反弹，但通胀和借款仍构成压力。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "政策",
+      "title": "美联储维持利率在3.75%至4.00%",
+      "summary": "美联储以10比2投票决定维持政策利率不变，并称经济增长强劲但通胀仍高。两名官员支持加息25个基点。",
+      "whyImportant": "利率按兵不动给市场短暂缓冲，但政策分歧表明12月仍可能加息。",
+      "publishedAt": "2026-10-28T14:03:00-04:00",
+      "eventTime": "2026年10月28日利率决定",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/fed-holds-rates-steady-as-it-awaits-accumulation-of-more-information-4980411",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Fed leaves rates unchanged as it awaits accumulation of more information",
+        "note": "政策利率维持3.75%-4.00%，10比2通过，两名官员支持加息。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "市场",
+      "title": "AI融资推动私人信贷扩张，再融资风险同步上升",
+      "summary": "穆迪预计五大美国云巨头和CoreWeave在2027年资本开支接近1万亿美元。2027至2029年到期贷款将考验高杠杆借款人，17%的样本借款人使用实物支付利息。",
+      "whyImportant": "私人信贷正在承接AI建设资金，但期限错配和循环融资会放大下行风险。",
+      "publishedAt": "2026-10-27T10:49:00-04:00",
+      "eventTime": "2026年10月27日穆迪报告",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/ai-financing-driving-private-credit-growth-as-refinancing-risks-rise-moodys-says-4976254",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "AI financing driving private credit growth as refinancing risks rise, Moody’s says",
+        "note": "穆迪预计2027年相关资本开支近1万亿美元，并警告再融资和循环敞口。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "AI",
+      "title": "General Compute融资1亿美元，押注推理芯片和小型数据中心",
+      "summary": "General Compute以8亿美元投后估值完成1亿美元A轮融资。公司租用现有机房并改造比特币矿场，采用SambaNova、Positron和Cerebras等推理芯片。",
+      "whyImportant": "这一路线试图避开大型云项目的建设周期和债务负担。",
+      "publishedAt": "2026-10-27",
+      "eventTime": "2026年10月27日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "General Compute raises $100 million Series A",
+        "note": "公司估值8亿美元，使用多家推理芯片并改造现有设施。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "AI",
+      "title": "科技公司邀请宗教与哲学界参与AI价值观设计",
+      "summary": "Anthropic等AI公司开始向宗教和哲学专家咨询模型价值观，但学者担心不同传统被简单混合或偏向西方观点。企业表示目标不是让模型服从单一宗教。",
+      "whyImportant": "模型价值观影响回答边界，治理过程是否透明和多元将直接影响公众信任。",
+      "publishedAt": "2026-10-25T10:57:33+00:00",
+      "eventTime": "2026年10月25日报道",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/2bb91e3334fd6d732edf22288cabf4ec",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "To make AI morally good, tech companies are turning to religion",
+        "note": "AP报道科技企业向宗教与哲学专家寻求价值观建议及相关争议。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "宏观",
+      "title": "韩国三季度GDP同比增长3.4%，芯片出口继续拉动经济",
+      "summary": "韩国三季度GDP同比增长3.4%，高于3.0%的预期；环比增长1.0%。半导体出口是主要动力，但家庭消费环比下降0.2%。",
+      "whyImportant": "AI芯片需求支撑出口型经济，同时加剧增长对单一产业的依赖。",
+      "publishedAt": "2026-10-27",
+      "eventTime": "2026年10月27日公布",
+      "source": "Investing.com",
+      "sourceUrl": "https://uk.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4932738",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "South Korea GDP grows more than expected in Q3 on AI boost",
+        "note": "GDP同比3.4%、环比1.0%，家庭消费环比下降0.2%。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "宏观",
+      "title": "美国10月消费者信心升至91.7",
+      "summary": "美国消费者信心指数从修订后的84.2升至91.7，明显高于市场预期。汽油价格回落提供支持，但食品和生活成本仍是主要抱怨。",
+      "whyImportant": "信心改善有利消费，但通胀压力仍限制家庭支出意愿。",
+      "publishedAt": "2026-10-27T10:23:00-04:00",
+      "eventTime": "2026年10月27日公布",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economic-indicators/us-consumer-confidence-improves-in-october-4976114",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "US consumer confidence improves in October",
+        "note": "Conference Board指数升至91.7，生活成本担忧仍高。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "AI",
+      "title": "Harmonic把可验证AI扩展到软件和芯片设计",
+      "summary": "Harmonic将Aristotle模型从数学证明扩展到C语言软件和Verilog芯片设计验证。公司称系统可用形式化方法减少幻觉与事实错误。",
+      "whyImportant": "可验证推理有望把AI用于高风险工程任务，但真实项目仍需独立验证。",
+      "publishedAt": "2026-10-27T15:56:00-04:00",
+      "eventTime": "2026年10月27日发布",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/robinhood-ceos-ai-startup-harmonic-expands-into-software-chip-design-verification-4976694",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Robinhood CEO’s AI startup Harmonic expands into software, chip design verification",
+        "note": "Aristotle新增C语言与Verilog验证，并给出核聚变控制软件案例。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "AI",
+      "title": "放射科专用模型Impression-R1在多中心测试中提升报告效率",
+      "summary": "Impression-R1在六家机构和三个公共数据集的11884个病例上测试。随机研究中，AI辅助把报告完成时间缩短27%，并提高报告质量。",
+      "whyImportant": "专科模型显示临床价值，但跨机构推广仍需持续验证和责任边界。",
+      "publishedAt": "2026-10-28",
+      "eventTime": "2026年10月28日论文发表",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-026-79102-7",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Impression-R1 for radiological impression generation",
+        "note": "论文涵盖11884例，AI辅助报告时间缩短27%。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "公司",
+      "title": "通用汽车将为三排SUV增加混合动力版本",
+      "summary": "通用汽车计划为Traverse、Enclave和Acadia等车型引入混合动力，并调整密歇根工厂投资。美国混动车需求上升，而通用此前主要押注纯电动车。",
+      "whyImportant": "传统车企开始重新平衡纯电与混动路线，以应对需求和能源价格变化。",
+      "publishedAt": "2026-10-27T13:19:00-04:00",
+      "eventTime": "2026年10月27日报道",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/exclusivegm-plans-to-offer-hybrid-suvs-in-strategic-pivot-4976540",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "GM to offer hybrid SUVs in strategic pivot from electric",
+        "note": "通用确认将投资工厂准备混动车生产，但未给具体时间。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    },
+    {
+      "id": "2026-10-29-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "政策",
+      "title": "日本央行维持偏鹰暂停，为12月加息保留空间",
+      "summary": "日本央行预计继续维持利率，同时强调通胀上行风险和2%目标取得进展。市场认为12月仍可能加息。",
+      "whyImportant": "日本政策正常化会影响日元、全球债券收益率和跨境套息交易。",
+      "publishedAt": "2026-10-25T23:33:00-04:00",
+      "eventTime": "2026年10月26日政策前瞻",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/bank-of-japans-hawkish-pause-to-leave-scope-for-december-hike-4971365",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Bank of Japan’s hawkish pause to leave scope for December hike",
+        "note": "路透称央行将维持利率但强调通胀风险，12月加息可能性保留。",
+        "checkedAt": "2026-10-31T20:46:43+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-10-31 20:48 北京时间"
+}

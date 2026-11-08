@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-07",
+  "title": "AI估值与基建压力传导至市场，中国芯片和产业政策出现新动作",
+  "mainThemes": [
+    "AI投资热潮开始同时接受收入增长、估值和基础设施交付能力的检验",
+    "中国芯片企业盈利、开源模型使用和硅光子扩产成为产业新信号",
+    "美国中期选举结果正在改变科技监管、能源基建和资本市场预期"
+  ],
+  "watchNext": [
+    "关注全球AI股票调整是否继续向芯片、数据中心和电力企业扩散",
+    "观察中国稳定资本市场措施及反倾销调查的后续细则",
+    "跟踪大型科技公司在智能体、机器人和本地小模型上的产品落地"
+  ],
+  "windowStart": "2026-11-01T11:15:44+08:00",
+  "windowEnd": "2026-11-07T22:05:48+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-11-07T22:05:48+08:00",
+  "articles": [
+    {
+      "id": "2026-11-07-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "芯片",
+      "title": "中国AI芯片企业第三季度首次集中转盈",
+      "summary": "摩尔线程、沐曦和天数智芯等国产GPU企业在第三季度实现或报告盈利，显示本土算力需求正在转化为收入。不过存储器涨价、供应链约束和持续研发投入仍可能影响利润的可持续性。",
+      "whyImportant": "盈利拐点将影响国产AI芯片企业的融资能力、扩产节奏和与海外产品竞争的空间。",
+      "publishedAt": "2026-11-06T18:30:00+08:00",
+      "eventTime": "2026年11月6日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s AI chipmakers report first profits. Will the trend continue?",
+        "note": "摩尔线程、沐曦和天数智芯等企业第三季度转盈，但供应链和成本仍是风险。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "AI",
+      "title": "中国模型占全球开源企业AI支出的近九成",
+      "summary": "Menlo Ventures数据显示，中国模型占全球企业开源模型支出的89%，其中Kimi占61%，DeepSeek占15%，智谱GLM占11%。不过开源模型目前仅占企业AI总支出的约4%。",
+      "whyImportant": "中国模型在开源企业市场取得领先，正在形成不同于闭源模型厂商的全球商业化路径。",
+      "publishedAt": "2026-11-06T21:30:00+08:00",
+      "eventTime": "2026年11月6日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s AI models led by Kimi dominate open-source enterprise spending",
+        "note": "Menlo Ventures称中国模型占开源企业AI支出89%，Kimi份额最高。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "市场",
+      "title": "北京要求加强股市稳定机制以应对新一轮抛售",
+      "summary": "中国国务院要求进一步完善资本市场稳定机制。声明发布前，受海外科技股抛售等因素影响，沪深300指数周五下跌1.4%。",
+      "whyImportant": "政策表态显示监管层正把外部市场波动和国内投资者信心纳入更主动的风险管理。",
+      "publishedAt": "2026-11-06T22:00:00+08:00",
+      "eventTime": "2026年11月6日会议与市场收盘",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/markets/article/3373602/beijing-calls-more-efforts-stabilise-stock-market-after-renewed-sell",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Beijing calls for more efforts to stabilise stock market after renewed sell-off",
+        "note": "国务院提出完善稳定机制；沪深300当日下跌1.4%。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "政策",
+      "title": "中国对欧盟和日本两类工业材料发起反倾销调查",
+      "summary": "中国对来自欧盟的对位芳纶长丝，以及来自欧盟和日本的乙叉降冰片烯启动反倾销调查。两类材料分别用于光通信、防护装备、航空航天以及合成橡胶等产业。",
+      "whyImportant": "调查把贸易摩擦延伸到高性能材料领域，可能影响汽车、通信和先进制造供应链成本。",
+      "publishedAt": "2026-11-06T19:00:00+08:00",
+      "eventTime": "2026年11月6日宣布",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/article/3373572/china-hits-eu-japan-anti-dumping-probes-industrial-materials-amid-rising-tensions",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China hits EU, Japan with anti-dumping probes into industrial materials amid rising tensions",
+        "note": "调查涉及对位芳纶长丝和乙叉降冰片烯，覆盖通信、汽车及航空航天用途。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "芯片",
+      "title": "华虹计划加码硅光子和电源管理芯片产能",
+      "summary": "中国第二大晶圆代工企业华虹表示，将在2027年扩大硅光子和电源管理芯片能力，以承接AI基础设施需求。公司同期净利润同比增长147%。",
+      "whyImportant": "硅光子和电源管理是AI数据中心的关键瓶颈，扩产有助于中国本土供应链向高附加值环节延伸。",
+      "publishedAt": "2026-11-05T21:27:00+08:00",
+      "eventTime": "2026年11月5日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3373445/chinese-chipmaker-hua-hong-bets-big-silicon-photonics-amid-ai-boom",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Chinese chipmaker Hua Hong bets big on silicon photonics amid AI boom",
+        "note": "华虹计划2027年扩充硅光子和电源管理能力，净利润增长147%。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "市场",
+      "title": "全球AI股票遭集中抛售，标普500单日下跌4.4%",
+      "summary": "对AI估值和数据中心投资回报的担忧引发全球科技股抛售，标普500指数下跌4.4%，韩国综合股价指数下跌5.3%。市场开始重新评估芯片、电力和数据中心需求的持续性。",
+      "whyImportant": "AI板块已成为全球股市和企业资本开支的重要支柱，急跌可能反向影响融资和建设计划。",
+      "publishedAt": "2026-11-05T02:59:25Z",
+      "eventTime": "2026年11月4日美国市场",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/7ee9c212805aa5e70cf34d25aab7a36e",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+        "note": "标普500跌4.4%，韩国Kospi跌5.3%，AI基础设施回报担忧扩大。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "政策",
+      "title": "美国中期选举强化对高耗能AI数据中心的政治约束",
+      "summary": "在中期选举中获胜的民主党人提出限制高耗能AI数据中心，并把电价和社区负担列为重点。数据中心建设贡献了美国近期相当一部分投资增长，收紧审批也可能拖累相关经济活动。",
+      "whyImportant": "数据中心正从地方建设项目变成全国政治议题，能源和许可约束可能重塑AI扩张速度。",
+      "publishedAt": "2026-11-06T05:08:50Z",
+      "eventTime": "2026年11月5日报道",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/63b33be8884d867d3ac831040d683a2c",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "AI data centers face election backlash as Democrats promise clampdowns",
+        "note": "民主党候选人以电价和社区负担为由主张限制高耗能数据中心。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "市场",
+      "title": "美国中期选举结果重排科技、国防与能源资产预期",
+      "summary": "民主党在中期选举中的大胜改变了华尔街对监管和财政政策的判断。特朗普媒体三天内市值下跌33%，投资者也重新评估AI、国防与清洁能源企业的政策环境。",
+      "whyImportant": "国会控制权变化会直接影响科技监管、政府采购和能源补贴，从而重估多个行业的盈利前景。",
+      "publishedAt": "2026-11-07T13:30:10Z",
+      "eventTime": "2026年11月7日报道",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/4ac9a6a3c35aeec37374fc8083bf9395",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+        "note": "选举结果改变行业政策预期，特朗普媒体三天跌33%。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "AI",
+      "title": "企业AI使用量继续增长，但付费增速明显放缓",
+      "summary": "Ramp数据显示，企业AI令牌支出在8月和9月合计仅增长1.5%，远低于7月的42%，尽管使用量仍在增加。10月支出恢复增长8.9%，但价格竞争和客户控费仍压制收入。",
+      "whyImportant": "AI公司估值依赖高速收入增长，使用量与收入脱钩会加大上市和融资定价压力。",
+      "publishedAt": "2026-11-06T07:54:00-08:00",
+      "eventTime": "2026年11月6日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "note": "8至9月令牌支出仅增1.5%，10月回升8.9%，价格竞争限制收入。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "公司",
+      "title": "Google接手Crusoe受阻的怀俄明数据中心项目",
+      "summary": "Crusoe确认将未完工的怀俄明州数据中心项目出售给Google，后者计划投入170亿美元建设园区。项目原规划最终扩至10吉瓦，但成本和工期问题导致开发方更换。",
+      "whyImportant": "超大规模云厂商直接接管项目，反映独立数据中心开发商在电力、设备和交付方面面临更大压力。",
+      "publishedAt": "2026-11-06T17:40:00-08:00",
+      "eventTime": "2026年11月6日确认",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "note": "Google接手未完工项目并计划投入170亿美元，原远期容量目标10吉瓦。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "政策",
+      "title": "逾800套AI渗透测试工具因配置错误暴露在公网",
+      "summary": "Censys发现超过800套Artex自主渗透测试工具无需密码即可从公网访问。该工具已被关联到韩国金融业和ConnectWise客户云环境攻击，但部分部署也用于合法测试。",
+      "whyImportant": "自主攻击工具的公开暴露降低了滥用门槛，也说明AI安全产品本身正在成为新的攻击面。",
+      "publishedAt": "2026-11-06T10:44:00-08:00",
+      "eventTime": "2026年11月6日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "note": "Censys发现逾800套无需密码的Artex部署，工具曾被关联多起攻击。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "公司",
+      "title": "Amazon开放短信式Alexa购物智能体",
+      "summary": "Amazon开始向部分美国用户提供通过短信与Alexa交互的购物功能，可搜索商品、加入购物车、购买并跟踪价格和订单。公司计划在未来数周扩大覆盖。",
+      "whyImportant": "电商平台正把智能体从问答工具转向直接交易入口，同时把用户数据和结算留在自有生态内。",
+      "publishedAt": "2026-11-06T06:10:00-08:00",
+      "eventTime": "2026年11月6日宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "note": "部分美国用户可通过短信让Alexa搜索、加购和购买，未来数周扩大。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "AI",
+      "title": "31.7MB语音模型可在浏览器离线运行",
+      "summary": "Underdog发布仅31.7MB、约3100万参数的Woof文本转语音模型，可在多数设备的浏览器中离线运行并开放下载。公司还推出167MB的本地语音转文字模型Bark。",
+      "whyImportant": "小型本地模型可降低云端成本并增强隐私，为端侧助手和个性化音频应用提供新路径。",
+      "publishedAt": "2026-11-06T05:02:00-08:00",
+      "eventTime": "2026年11月6日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Underdog shows off a 32MB speech model in new demo",
+        "note": "Woof为31.7MB、3100万参数，可在浏览器离线运行并开放下载。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "AI",
+      "title": "Physicl融资1000万美元攻克机器人仿真训练难题",
+      "summary": "Physicl获得Inovia Capital领投的1000万美元种子轮，利用高保真3D环境生成机器人训练所需的合成数据。其Studio产品提供1万个环境和10万个资产，用于补充真实世界难以采集的边缘案例。",
+      "whyImportant": "高质量仿真数据可能缩短机器人训练周期，并降低依赖人工遥操作采集数据的成本。",
+      "publishedAt": "2026-11-06T05:00:00-08:00",
+      "eventTime": "2026年11月6日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Physicl raises $10M to make the digital world real enough for robots",
+        "note": "融资1000万美元，Studio含1万个3D环境和10万个资产。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "AI",
+      "title": "Airbnb计划2027年上半年推出专用旅行智能体",
+      "summary": "Airbnb将在2027年上半年推出旅行智能体，使用地图、照片、日历和行程等组件动态生成界面，而非只提供文字聊天。公司第三季度收入增长19%至48.7亿美元。",
+      "whyImportant": "垂直平台正用自有交易和服务数据构建专用智能体，挑战通用AI助手对消费入口的控制。",
+      "publishedAt": "2026-11-05T14:40:00-08:00",
+      "eventTime": "2026年11月5日财报与宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Airbnb says it's launching an AI travel agent in the first half of 2027",
+        "note": "旅行智能体定于2027年上半年推出；第三季度收入48.7亿美元、增长19%。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "公司",
+      "title": "Fox完成220亿美元收购Roku",
+      "summary": "Fox完成对Roku的220亿美元收购，比原计划提前。合并后公司按收视规模成为美国第三大电视业务，并可触达超过1亿户家庭。",
+      "whyImportant": "交易把内容、流媒体入口和广告数据进一步整合，可能改变美国联网电视广告市场竞争格局。",
+      "publishedAt": "2026-11-06T08:05:00-08:00",
+      "eventTime": "2026年11月6日完成",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Fox completes its $22B acquisition of Roku",
+        "note": "交易金额220亿美元，Roku覆盖逾1亿户家庭，提前于原计划完成。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "能源",
+      "title": "美国国防部拟向6K提供2.5亿美元电池材料贷款",
+      "summary": "电池材料公司6K获得美国国防部2.5亿美元贷款的有条件批准，用于在田纳西州建设工厂。工厂计划利用微波等离子工艺生产不依赖中国供应商的正极材料。",
+      "whyImportant": "美国正把电池供应链本土化从产业补贴上升到国防安全融资层面。",
+      "publishedAt": "2026-11-06T08:50:00-08:00",
+      "eventTime": "2026年11月6日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+        "note": "6K获2.5亿美元有条件贷款批准，拟建田纳西州电池材料厂。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "公司",
+      "title": "Tesla将在2027年停产Cybertruck并转向机器人出租车",
+      "summary": "马斯克表示Tesla将在2027年停止生产Cybertruck，把得州工厂的相关空间用于两座Cybercab机器人出租车。Cybertruck实际累计销量仅数万辆，远低于最初每年25万辆的目标。",
+      "whyImportant": "停产标志Tesla进一步把资源从传统电动车产品转向自动驾驶和机器人业务。",
+      "publishedAt": "2026-11-06T03:50:00-08:00",
+      "eventTime": "2026年11月6日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Tesla will stop making the Cybertruck in 2027",
+        "note": "Tesla计划2027年停产Cybertruck并把产能转给Cybercab，销量远低于目标。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "公司",
+      "title": "Palo Alto Networks洽购AI智能体安全公司Clutch",
+      "summary": "Palo Alto Networks据报正洽谈以5亿美元现金及里程碑付款收购Clutch Security。Clutch年经常性收入接近1000万美元，交易估值约为收入的50倍。",
+      "whyImportant": "高估值收购显示企业对AI智能体访问权限和身份安全的需求正在快速上升。",
+      "publishedAt": "2026-11-05T22:28:00-08:00",
+      "eventTime": "2026年11月5日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "note": "拟议价格5亿美元，Clutch年经常性收入接近1000万美元。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    },
+    {
+      "id": "2026-11-07-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "AI",
+      "title": "Meta为Muse智能体推出可持续更新的项目空间",
+      "summary": "Meta推出Spaces，让用户围绕旅行、活动或家庭项目建立独立工作区，由Muse智能体生成追踪器、计划板等界面。Spaces还能连接第三方应用，在后台更新价格、日期和进度。",
+      "whyImportant": "消费级AI助手正在从一次性问答转向长期项目管理和后台自动更新。",
+      "publishedAt": "2026-11-06T10:44:00-08:00",
+      "eventTime": "2026年11月6日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "note": "Spaces支持独立项目工作区、生成界面和第三方应用后台更新。",
+        "checkedAt": "2026-11-07T22:05:48+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-11-08 09:06 北京时间"
+}

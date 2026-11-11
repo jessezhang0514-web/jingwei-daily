@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-11",
+  "title": "中国外贸与电动车出口走强，AI竞赛转向上市、能源和监管约束",
+  "mainThemes": [
+    "中国10月外贸和电动车出口继续快速增长，产业链外需保持强劲",
+    "Anthropic推进超大规模IPO，同时增加模型、办公产品和能源投入",
+    "美国各州加强AI安全与数据中心约束，科技平台争夺搜索和消费入口"
+  ],
+  "watchNext": [
+    "关注中国超万亿美元贸易顺差引发的海外政策反应",
+    "跟踪Anthropic IPO定价、能源成本和算力承诺的市场检验",
+    "观察纽约AI安全法注册执行及其他州是否跟进"
+  ],
+  "windowStart": "2026-11-07T22:05:48+08:00",
+  "windowEnd": "2026-11-11T08:34:45+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-11-11T08:34:45+08:00",
+  "articles": [
+    {
+      "id": "2026-11-11-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国10月进口增速超过出口，年内贸易顺差突破1万亿美元",
+      "summary": "中国10月出口同比增长35.2%至4123.3亿美元，进口增长41.6%。年初至今贸易顺差超过1万亿美元，科技周期和外需回升继续支撑贸易。",
+      "whyImportant": "强劲外贸为增长提供支撑，但创纪录顺差也可能加大主要贸易伙伴要求再平衡的压力。",
+      "publishedAt": "2026-11-10T10:43:00+08:00",
+      "eventTime": "2026年11月10日海关数据",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/economic-indicators/article/3373871/chinas-imports-outpace-exports-october-beijing-seeks-address-imbalance",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s imports outpace exports in October amid efforts to address record imbalance",
+        "note": "10月出口增35.2%至4123.3亿美元，进口增41.6%，年内顺差超过1万亿美元。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "公司",
+      "title": "中国电动车10月出口58.2万辆，同比激增145%",
+      "summary": "中国品牌10月在海外销售58.2万辆纯电动和插电式混合动力汽车，同比增长144.7%，连续第二个月创纪录。高油价和海外需求增长推动出口继续扩张。",
+      "whyImportant": "出口正在成为中国车企消化产能和维持增长的关键渠道，也会加剧海外贸易和产业政策摩擦。",
+      "publishedAt": "2026-11-10T16:00:00+08:00",
+      "eventTime": "2026年10月行业数据",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/china-evs/article/3373912/chinas-ev-exports-surge-145-iran-war-drives-overseas-demand",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s EV exports surge 145% as Iran war drives up overseas demand",
+        "note": "10月海外销量58.2万辆，同比增144.7%，高于9月55.8万辆纪录。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "AI",
+      "title": "中国AI战略从通用大模型转向工业专用系统",
+      "summary": "中国“AI+”战略正更多聚焦工厂传感器、金融记录等结构化工业数据。研究人员认为，通用大模型难以直接捕捉这类数据规律，专用系统和行业协作将成为下一阶段重点。",
+      "whyImportant": "产业化路线转向专用系统，可能把竞争优势从模型参数规模转移到行业数据、工程集成和实际回报。",
+      "publishedAt": "2026-11-09T19:32:00+08:00",
+      "eventTime": "2026年11月9日会议与报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/tech-trends/article/3373822/beyond-llms-china-forges-new-path-ai-focus-industrial-systems",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Beyond LLMs? China forges new path for AI with focus on industrial systems",
+        "note": "中国AI+战略强调面向工业结构化数据的专用系统和集体开发。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "AI",
+      "title": "腾讯首席AI科学家警告前沿模型正接近生物能力风险阈值",
+      "summary": "腾讯首席AI科学家姚顺雨表示，前沿模型的生物学能力可能很快达到既能加速药物研发、也可能被用于制造生物武器的水平。他呼吁在能力继续提升时加强安全评估。",
+      "whyImportant": "AI风险讨论正从文本和网络攻击扩展到生命科学，可能推动模型开放、评测和研究访问规则收紧。",
+      "publishedAt": "2026-11-08T18:22:00+08:00",
+      "eventTime": "2026年11月8日公开讲话",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+        "note": "姚顺雨称模型网络与生物能力正在接近可造成实际伤害的阈值。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "公司",
+      "title": "GE在华签署129亿美元航空发动机协议，C919供应链依赖仍突出",
+      "summary": "GE Aerospace在进博会签署总值129亿美元的销售与服务协议，其中包括向中国东方航空供应14台备用发动机。C919交付仍受关键美国零部件供应影响。",
+      "whyImportant": "大额采购保障短期机队运营，同时显示国产大飞机在核心发动机和关键部件上仍依赖海外供应。",
+      "publishedAt": "2026-11-09T21:00:00+08:00",
+      "eventTime": "2026年11月9日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/article/3373805/amid-c919-delivery-challenges-ge-signs-us129b-jet-engine-deals-china",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Amid C919 delivery challenges, GE signs US$12.9b in jet engine deals in China",
+        "note": "GE签署129亿美元协议，中国东航采购14台备用发动机，包括C919使用的Leap-1C。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "市场",
+      "title": "Anthropic拟以最高1.404万亿美元估值上市",
+      "summary": "Anthropic计划发行8.25亿股A类股票，价格区间为每股70至78美元，预计募资577.5亿至643.5亿美元。另有多家芯片和科技公司拟按IPO价格认购260亿美元无投票权股份。",
+      "whyImportant": "这将成为AI行业最关键的公开市场定价测试，也会检验投资者对巨额亏损和算力承诺的容忍度。",
+      "publishedAt": "2026-11-10T06:01:00-08:00",
+      "eventTime": "2026年11月10日更新招股文件",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "note": "发行8.25亿股，价格70至78美元，另有260亿美元私募认购安排。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "政策",
+      "title": "纽约AI安全法启动注册，违规最高罚款300万美元",
+      "summary": "纽约州开放前沿AI开发商注册入口，年收入超过5亿美元的公司须在2027年1月前登记，并公布安全框架、72小时内报告重大事故。重复违规最高罚款300万美元。",
+      "whyImportant": "州级监管正在形成可执行的安全披露制度，可能成为美国缺乏统一联邦AI法时的事实标准。",
+      "publishedAt": "2026-11-10T12:52:00-08:00",
+      "eventTime": "2026年11月10日注册入口开放",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "note": "大型前沿AI公司须注册、公开安全框架并在72小时内报告重大事故。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "能源",
+      "title": "Anthropic斥资34亿美元购买1.7吉瓦燃气轮机",
+      "summary": "Anthropic购买价值34亿美元的卡特彼勒天然气发电设备，最大供电能力达1.7吉瓦。面对电网接入和燃机交付排队，公司从租赁算力进一步转向控制能源资产。",
+      "whyImportant": "前沿模型公司的资本开支正在从芯片扩展到发电设备，能源成本和排放风险将直接进入AI商业模式。",
+      "publishedAt": "2026-11-09T08:56:00-08:00",
+      "eventTime": "2026年11月9日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+        "note": "Anthropic购买34亿美元燃机，容量最高1.7吉瓦。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "能源",
+      "title": "美国批准X-energy在工业园建设首批四座小型模块化反应堆",
+      "summary": "美国核监管委员会批准X-energy在得州陶氏化学工厂建设四座Xe-100反应堆，每座可提供80兆瓦电力和200兆瓦热能。项目预计到2030年代初投入运行。",
+      "whyImportant": "这是美国工业场址先进核反应堆的重要许可节点，也为数据中心寻求稳定电力提供潜在示范。",
+      "publishedAt": "2026-11-10T12:43:00-08:00",
+      "eventTime": "2026年11月9日宣布许可",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "X-energy gets green light to build its first small modular nuclear reactors",
+        "note": "NRC批准四座Xe-100建设许可，每座80兆瓦电力和200兆瓦热能。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "宏观",
+      "title": "美国通胀高于预期，国债收益率上升压制股市",
+      "summary": "美国最新通胀数据高于经济学家预期，推动国债收益率上升并令股市走弱。利率维持高位将增加企业和家庭融资成本，房地产等利率敏感板块承压。",
+      "whyImportant": "通胀重新偏强会限制降息空间，并影响AI基础设施等高资本开支项目的融资成本。",
+      "publishedAt": "2026-11-10T03:44:21Z",
+      "eventTime": "2026年11月9日美国市场",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/ffe205fbc4fddf65c3e8e64e740355b7",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "US stocks slip following a discouraging update on inflation",
+        "note": "通胀高于预期推升国债收益率并压低美国股市。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "AI",
+      "title": "Anthropic发布Mythos 5.2和Fable 5.2并下调价格",
+      "summary": "Anthropic发布两款新模型，称编码、推理和视觉能力提升。Fable输入价格从每百万令牌10美元降至8美元，响应速度提高30%，同时强化企业零数据保留支持。",
+      "whyImportant": "模型能力继续提升的同时价格下降，说明前沿AI竞争已进入性能、企业合规和单位成本的综合比拼。",
+      "publishedAt": "2026-11-09T11:24:00-08:00",
+      "eventTime": "2026年11月9日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "note": "Fable 5.2输入价降至每百万令牌8美元，响应速度提高30%。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "AI",
+      "title": "Google推出两款新TPU，强化保密推理和大内存工作负载",
+      "summary": "Google发布TPU 8tx与TPU 8i Max。前者与AMD合作，把敏感数据和模型权重保护下沉到硬件层；后者将两个推理芯片能力整合，扩大内存、算力和带宽。",
+      "whyImportant": "云厂商扩充自研芯片可降低对英伟达的依赖，并以安全和内存容量争夺企业AI客户。",
+      "publishedAt": "2026-11-10T07:54:00-08:00",
+      "eventTime": "2026年11月9日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "note": "TPU 8tx面向保密训练推理，TPU 8i Max提升单封装内存与算力。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "公司",
+      "title": "Oura以6.25亿美元收购AI医疗平台Counsel Health",
+      "summary": "智能戒指公司Oura同意以6.25亿美元收购Counsel Health，把AI医疗问答、医生服务和可穿戴设备数据整合。Oura同期季度收入同比增长153%至5.33亿美元。",
+      "whyImportant": "可穿戴设备正在从健康数据记录扩展到医疗建议和临床服务，监管责任与商业价值同步上升。",
+      "publishedAt": "2026-11-10T11:23:00-08:00",
+      "eventTime": "2026年11月10日宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "note": "交易金额6.25亿美元；Oura季度收入5.33亿美元、同比增153%。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "公司",
+      "title": "OpenAI收购旅行智能体Odessia团队",
+      "summary": "Odessia创始人确认公司被OpenAI收购并加入其旅行方向，交易条款未披露。Odessia曾融资600万美元，产品上线约五个月后已经关闭。",
+      "whyImportant": "收购显示通用AI公司正通过团队并购补充垂直行业能力，旅行仍是个人智能体的重要商业场景。",
+      "publishedAt": "2026-11-10T13:08:00-08:00",
+      "eventTime": "2026年11月10日创始人确认",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+        "note": "创始人称Odessia被OpenAI收购；公司此前融资600万美元，产品已关闭。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "AI",
+      "title": "AI辅助解决18年量子计算难题，科研商业化竞赛升温",
+      "summary": "Physical Superintelligence团队利用Anthropic预发布模型和专用工具链，给出Aaronson-Ambainis猜想的新证明，并通过Lean形式化验证。公司当前收入来自用类似工具优化数据中心物理参数。",
+      "whyImportant": "可验证的数学突破说明AI科研能力开始产生真实成果，但如何复核、署名和转化仍缺乏成熟规范。",
+      "publishedAt": "2026-11-10T11:03:00-08:00",
+      "eventTime": "2026年11月10日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "note": "团队用Anthropic模型和专用工具链解决Aaronson-Ambainis猜想，并以Lean形式化。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "公司",
+      "title": "OpenAI推出企业资料和专属智能体，向搜索入口扩张",
+      "summary": "OpenAI推出Business Hub测试版，允许企业验证和更新资料、创建专属业务智能体，并查看资料浏览、品牌提及和网站点击等数据。功能定位接近搜索引擎的商家资料与分析工具。",
+      "whyImportant": "ChatGPT正从回答工具扩展为企业发现和用户决策入口，直接挑战传统搜索平台的商业流量。",
+      "publishedAt": "2026-11-10T10:49:00-08:00",
+      "eventTime": "2026年11月10日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+        "note": "Business Hub支持企业验证资料、专属智能体和有限互动分析。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "AI",
+      "title": "Anthropic把Claude带入会议、白板和电子表格",
+      "summary": "Claude Meetings可作为可见参与者加入Google Meet，在讨论进行时起草计划、制作时间线并读取已连接的工作应用。Anthropic同时推出协作白板和电子表格功能。",
+      "whyImportant": "AI公司正在把聊天产品升级为办公套件，开始直接争夺微软和Google的企业工作流。",
+      "publishedAt": "2026-11-10T09:30:00-08:00",
+      "eventTime": "2026年11月10日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "note": "Claude Meetings进入Google Meet实时执行任务，另推Whiteboards和Sheets。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "公司",
+      "title": "Reddit用AI把社区讨论整理成约1万种商品评价",
+      "summary": "Reddit Reviews向美国用户开放，用AI汇总社区中的商品体验、优缺点和情绪分布，首批覆盖约1万种产品。用户仍可返回原始讨论核对内容。",
+      "whyImportant": "社区内容正被结构化为购物入口，但虚假口碑和AI生成内容也会提高平台治理难度。",
+      "publishedAt": "2026-11-10T07:00:00-08:00",
+      "eventTime": "2026年11月10日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Reddit is turning user conversations into AI-powered product reviews",
+        "note": "AI评价功能覆盖约1万种商品，向美国iOS、Android和网页用户推出。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "公司",
+      "title": "Google以30美元Pixel Tag进入全球物品追踪市场",
+      "summary": "Google开售29.99美元的Pixel Tag，支持蓝牙、超宽带精确定位和超过10亿台Android设备组成的众包网络。设备可与最多10人共享位置，电池可更换。",
+      "whyImportant": "Google完善Android定位网络后，可在硬件和生态层面对苹果AirTag形成更直接竞争。",
+      "publishedAt": "2026-11-10T10:49:00-08:00",
+      "eventTime": "2026年11月10日开售",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Pixel Tag, Google's $30 Android-ready answer to Apple's AirTag, is now available",
+        "note": "售价29.99美元，支持蓝牙、UWB和Android众包定位网络。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    },
+    {
+      "id": "2026-11-11-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "宏观",
+      "title": "美国选民要求降低生活成本，但财政与AI政策空间有限",
+      "summary": "中期选举后，两党都面临兑现生活成本救济承诺的压力，同时受到赤字、利率和政策分歧制约。AP选民调查显示，多数受访者认为AI对经济的伤害大于帮助。",
+      "whyImportant": "成本压力与对AI的怀疑可能推动国会优先处理民生、就业和科技监管，而非继续无条件支持行业扩张。",
+      "publishedAt": "2026-11-08T12:44:35Z",
+      "eventTime": "2026年11月8日报道",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/ab332d745571d36c5512e7e3beab6d59",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+        "note": "选民要求生活成本救济；AP选民调查多数认为AI对经济弊大于利。",
+        "checkedAt": "2026-11-11T08:34:45+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-11-11 08:37 北京时间"
+}

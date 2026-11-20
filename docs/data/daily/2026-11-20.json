@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-20",
+  "title": "Anthropic创纪录上市但AI股震荡，中国自研芯片与内需压力并行",
+  "mainThemes": [
+    "Anthropic完成史上最大规模IPO，市场热情与AI估值担忧同时升温",
+    "中国科技企业加速转向自研芯片，但消费和青年就业仍显压力",
+    "AI代理进入电脑、银行与企业流程后，隐私、安全和责任边界成为焦点"
+  ],
+  "watchNext": [
+    "关注Anthropic上市后估值能否稳定及AI板块是否结束连续调整",
+    "观察中国扩大内需措施与人民币跨境结算的后续政策",
+    "跟踪AI代理访问金融账户和个人数据的监管规则"
+  ],
+  "windowStart": "2026-11-11T08:34:45+08:00",
+  "windowEnd": "2026-11-20T09:05:33+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-11-20T09:05:33+08:00",
+  "articles": [
+    {
+      "id": "2026-11-20-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "芯片",
+      "title": "阿里巴巴加速采用自研芯片，季度收入增长10%",
+      "summary": "阿里巴巴表示，下一代AI模型已使用自研芯片训练，并预计未来绝大多数自有及合作伙伴模型将依赖国产芯片。公司季度收入增长10%，AI产品销售继续保持三位数增幅。",
+      "whyImportant": "大型云厂商转向国产芯片，将直接推动中国AI算力供应链规模化并降低外部限制影响。",
+      "publishedAt": "2026-11-19T19:00:00+08:00",
+      "eventTime": "2026年11月19日财报与电话会",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3375093/alibabas-ai-bet-paying-cloud-services-drive-10-revenue-jump",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Alibaba accelerates pivot to in-house chips after reporting jump in sales",
+        "note": "季度收入增10%，AI产品销售三位数增长，下一代模型已用自研芯片训练。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国近三成贸易改用人民币结算",
+      "summary": "中国以人民币结算的跨境贸易占比已接近30%，出口企业和部分海外买家正在减少对美元及其他货币的依赖。地缘政治、汇率风险和支付便利共同推动这一变化。",
+      "whyImportant": "人民币贸易结算上升可降低企业汇率风险，也会逐步改变跨境支付和金融制裁的传导方式。",
+      "publishedAt": "2026-11-19T06:00:00+08:00",
+      "eventTime": "2026年11月19日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/china-economy/article/3374919/sign-times-how-china-quietly-shifting-global-trade-yuan-payments",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Sign of the times? How China is quietly shifting global trade onto yuan payments",
+        "note": "中国近30%的贸易使用人民币结算，企业主动增加人民币账户和收款。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国青年失业率降至17.2%，毕业季影响逐步消退",
+      "summary": "中国16至24岁非在校青年失业率从9月的18%降至10月的17.2%，也低于8月的18.9%。这一水平较去年同期低0.1个百分点，但就业压力仍处高位。",
+      "whyImportant": "青年就业改善有利于消费和信心，但失业率仍高，说明结构性岗位错配尚未缓解。",
+      "publishedAt": "2026-11-18T14:27:00+08:00",
+      "eventTime": "2026年10月就业数据",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/economic-indicators/article/3374856/chinas-youth-unemployment-rate-down-tide-fresh-graduates-continues-ebb",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s youth unemployment rate down as tide of fresh graduates continues to ebb",
+        "note": "16至24岁非在校青年失业率降至17.2%，9月为18%，8月为18.9%。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国10月零售销售仅增长0.4%，内需弱于预期",
+      "summary": "中国10月社会消费品零售总额同比仅增长0.4%，低于市场预测的1.07%，也低于9月的1.1%。固定资产投资继续收缩，显示第四季度开局偏弱。",
+      "whyImportant": "消费增速放缓会增加进一步促消费和稳投资政策的必要性，并影响全年增长结构。",
+      "publishedAt": "2026-11-16T10:00:00+08:00",
+      "eventTime": "2026年10月经济数据",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s retail sales falter in October as Beijing tests pace of consumption boost",
+        "note": "10月零售销售同比增0.4%，低于1.07%预测和9月1.1%。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "政策",
+      "title": "APEC深圳会议承诺加强供应链、能源与技术安全合作",
+      "summary": "21个APEC经济体通过《深圳展望》，承诺维护关键商品供应链韧性，并加强能源与技术安全合作。声明强调可靠、可负担和可持续的能源供应。",
+      "whyImportant": "在贸易和科技摩擦加剧之际，联合声明为亚太区域供应链和能源合作保留了共同框架。",
+      "publishedAt": "2026-11-19T23:03:00+08:00",
+      "eventTime": "2026年11月19日峰会闭幕",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/global-economy/article/3375120/apec-leaders-agree-joint-statement-pledges-boost-trade-supply-chain-resilience",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Apec leaders agree joint statement with pledges to boost trade, supply chain resilience",
+        "note": "21个经济体承诺维护关键供应链并强化能源和技术安全合作。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "市场",
+      "title": "Anthropic完成史上最大IPO，首日上涨17%",
+      "summary": "Anthropic以每股83美元发行9.8亿股，募资约810亿美元，成为全球最大规模IPO。股票首日一度令公司估值超过2万亿美元，最终收于97.17美元，涨幅17.1%。",
+      "whyImportant": "这场上市为亏损巨大的前沿AI公司建立了公开市场估值基准，也检验资本对算力支出的承受力。",
+      "publishedAt": "2026-11-19T01:15:38Z",
+      "eventTime": "2026年11月19日上市",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/anthropic-ipo-nasdaq-ai-b6a74b8949021207dc162fcc876c4649",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Anthropic surges in market debut after biggest IPO on record, despite fears that AI is running amok",
+        "note": "以83美元发行9.8亿股、募资810亿美元，收盘97.17美元、涨17.1%。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "市场",
+      "title": "道指下跌1100点，AI股冲高回落拖累美国市场",
+      "summary": "美国股市延续2024年以来最长连跌，道指下跌1101点，标普500和纳斯达克同步走弱。Anthropic上市带来的早盘乐观未能维持，英伟达、CoreWeave和美光均由涨转跌。",
+      "whyImportant": "市场已从追逐AI增长转向审视估值、利率和监管风险，融资环境可能随之收紧。",
+      "publishedAt": "2026-11-19T05:00:38Z",
+      "eventTime": "2026年11月19日美国市场",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/stocks-markets-ai-us-anthropic-206c84045137824feabe052a29ff6140",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points",
+        "note": "道指跌1101.11点；多只AI股早盘上涨后转为下跌。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "政策",
+      "title": "消费者组织起诉五家AI巨头，要求暂停新模型开发",
+      "summary": "多家安全与消费者组织在加州起诉Anthropic、Google、Meta、OpenAI和SpaceXSI，要求法院阻止其继续开发或部署新模型。诉方以网络攻击和失控风险为依据主张企业违反公平竞争法。",
+      "whyImportant": "诉讼若进入实质审理，可能首次由法院直接介入前沿模型发布节奏和企业安全义务。",
+      "publishedAt": "2026-11-12T15:00:30Z",
+      "eventTime": "2026年11月12日提起诉讼",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Advocacy groups sue AI giants to freeze new models, warning of ‘catastrophic’ risks",
+        "note": "诉讼针对五家公司，要求停止开发或部署新模型并引用网络攻击和失控风险。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "公司",
+      "title": "苹果、微软、航空与银行系统连续出现技术故障",
+      "summary": "苹果更新故障发生前后，微软365、美国联航、联邦航空管理局以及多家银行和Zelle均出现中断。相关公司表示目前没有证据显示这些故障由网络攻击造成。",
+      "whyImportant": "高度集中且互相依赖的数字平台发生故障时，影响会快速跨行业扩散，暴露关键基础设施韧性不足。",
+      "publishedAt": "2026-11-17T19:51:44Z",
+      "eventTime": "2026年11月中旬多起故障",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/apple-marriott-technology-outages-ff097d2a0bec767baf38a1bd8eff5829",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Apple joins a parade of technology hiccups in recent days",
+        "note": "苹果更新、微软365、联航、FAA和银行系统先后中断，暂无网络攻击证据。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "AI",
+      "title": "Gemini获得Mac电脑控制能力，可跨应用执行多步骤任务",
+      "summary": "Google把计算机操作能力加入macOS版Gemini，可在后台浏览网站、整理文件、填写表格和调用本地应用。用户可查看实时预览，并在关键操作前暂停或批准。",
+      "whyImportant": "通用AI助手正从对话转向直接操作个人电脑，生产力提升与权限滥用风险同步增加。",
+      "publishedAt": "2026-11-19T10:09:00-08:00",
+      "eventTime": "2026年11月19日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Google gives Gemini the ability to use your Mac for you",
+        "note": "Gemini可跨Mac应用、文件和网页执行任务，并提供实时预览和审批控制。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "政策",
+      "title": "Meta员工报告Muse混淆账户并暴露私人数据",
+      "summary": "内部报告显示，Meta的Muse智能体可能把不同账户的对话混在一起，并展示他人的银行余额、订单和私人提醒。Muse上线约两个月已超过1000万次下载。",
+      "whyImportant": "智能体连接更多应用后，身份隔离和数据权限一旦失效，可能造成比普通聊天机器人更严重的隐私泄露。",
+      "publishedAt": "2026-11-19T09:38:00-08:00",
+      "eventTime": "2026年11月19日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+        "note": "员工报告出现跨账户消息、银行余额和私人提醒泄露；下载量超过1000万。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "公司",
+      "title": "Everful融资4850万美元连接全球零售商与中国工厂",
+      "summary": "Everful完成4850万美元A轮融资，平台连接超过3万家工厂，每月向60多个国家发货超过500万件商品。公司预计年底年化收入达到1亿美元。",
+      "whyImportant": "AI驱动的采购和物流平台正在重构跨境批发，也为中国制造商提供新的中小零售渠道。",
+      "publishedAt": "2026-11-19T09:00:00-08:00",
+      "eventTime": "2026年11月19日融资宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Former Alibaba exec's Everful raises $48.5M to connect retailers with Chinese factories",
+        "note": "融资4850万美元，连接3万多家工厂，月发货500万件，年化收入目标1亿美元。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "政策",
+      "title": "英国法院迫使政府承认曾要求苹果提供加密数据后门",
+      "summary": "英国调查权力法庭裁定政府必须确认曾向苹果发出秘密技术能力通知，要求访问加密客户数据。苹果拒绝配合，并曾暂停英国用户开启iCloud高级数据保护。",
+      "whyImportant": "裁决提高政府监控命令透明度，也会影响端到端加密、跨境数据和科技公司合规边界。",
+      "publishedAt": "2026-11-19T07:32:00-08:00",
+      "eventTime": "2026年11月19日裁决",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "UK government forced to disclose secret Apple backdoor order",
+        "note": "法庭要求政府确认秘密技术能力通知，苹果曾拒绝并暂停英国高级数据保护。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "公司",
+      "title": "Payhawk融资2.8亿美元，估值升至20亿美元",
+      "summary": "企业财务管理平台Payhawk完成高盛领投的2.8亿美元C轮融资，估值20亿美元。公司利用AI代理管理费用和采购，目前覆盖33个国家。",
+      "whyImportant": "大额融资显示资本继续押注能直接降低企业后台成本的AI应用，而非单纯通用模型。",
+      "publishedAt": "2026-11-18T11:29:00-08:00",
+      "eventTime": "2026年11月18日宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+        "note": "融资2.8亿美元、估值20亿美元，AI代理用于费用与采购管理。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "AI",
+      "title": "Unsiloed AI融资750万美元解决复杂企业文档读取难题",
+      "summary": "Unsiloed AI获得750万美元种子轮，使用视觉模型把表格、图表和复杂版式转成可供智能体使用的结构化数据，并保留原文出处供核验。公司已服务金融、法律和医疗客户。",
+      "whyImportant": "企业智能体能否可靠读取旧文档，是其进入高风险行业工作流的关键基础设施。",
+      "publishedAt": "2026-11-18T04:00:00-08:00",
+      "eventTime": "2026年11月18日融资宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+        "note": "融资750万美元，处理表格图表并提供可追溯出处，客户覆盖金融、法律和医疗。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "AI",
+      "title": "Humyn Labs融资4700万美元收集机器人真实世界训练数据",
+      "summary": "印度Humyn Labs完成4700万美元A轮融资，其中2600万美元为股权、2100万美元为债务。公司在20多个国家收集家庭和工作场景视频，为美国机器人企业提供训练数据。",
+      "whyImportant": "机器人能力越来越取决于大规模真实环境数据，同时也带来家庭场景隐私和劳动者同意问题。",
+      "publishedAt": "2026-11-18T03:30:00-08:00",
+      "eventTime": "2026年11月18日融资宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+        "note": "融资4700万美元，在20多个国家收集真实世界机器人训练数据。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "市场",
+      "title": "英伟达持有的私营公司股权价值增至655亿美元",
+      "summary": "英伟达披露其私营企业股权价值已从1月的220亿美元升至655亿美元，最近一个季度投入160亿美元购买股权。管理层变化令市场关注未来投资节奏是否转趋谨慎。",
+      "whyImportant": "英伟达既是芯片供应商又是AI生态投资者，其资本配置直接影响初创公司融资和算力需求。",
+      "publishedAt": "2026-11-17T17:44:00-08:00",
+      "eventTime": "2026年11月17日披露",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+        "note": "私营企业股权价值655亿美元，季度股权投入160亿美元。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "政策",
+      "title": "多家美国银行将第三方AI代理交易风险转给客户",
+      "summary": "花旗、摩根大通、美国银行、PNC等银行更新条款，要求客户对第三方AI代理执行的交易负责，即使凭据泄露或工具被黑。银行自有AI工具通常不适用额外责任。",
+      "whyImportant": "责任转移可能限制金融智能体普及，并促使监管机构明确未授权交易和凭据共享规则。",
+      "publishedAt": "2026-11-18T09:32:00-08:00",
+      "eventTime": "2026年11月18日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+        "note": "多家银行条款要求客户承担第三方AI代理交易及凭据泄露风险。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "AI",
+      "title": "Google为搜索AI模式增加临时会话功能",
+      "summary": "Google在搜索AI模式中全球推出临时会话，相关对话不会进入搜索历史或影响未来推荐，也不会调用账户既有偏好。功能覆盖桌面和移动端支持语言。",
+      "whyImportant": "隐私控制正在成为AI搜索的基础功能，也是平台扩大个性化数据使用时争取信任的必要条件。",
+      "publishedAt": "2026-11-18T10:04:00-08:00",
+      "eventTime": "2026年11月18日发布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Google's AI feature in Search gets its own incognito mode",
+        "note": "临时会话不进入历史、不影响个性化，全球桌面和移动端推出。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    },
+    {
+      "id": "2026-11-20-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "公司",
+      "title": "Model ML融资2.5亿美元自动化投行基础工作",
+      "summary": "伦敦Model ML以15亿美元估值完成2.5亿美元B轮融资。其AI代理连接Excel和PowerPoint，可自动建立财务模型、更新演示材料并撰写尽调报告。",
+      "whyImportant": "生成式AI正在直接进入高薪专业服务流程，可能改变初级银行家和咨询顾问的岗位结构。",
+      "publishedAt": "2026-11-17T11:32:00-08:00",
+      "eventTime": "2026年11月17日融资宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Model ML raises $250M to automate investment banking grunt work",
+        "note": "融资2.5亿美元、估值15亿美元，代理自动生成财务模型、演示和尽调。",
+        "checkedAt": "2026-11-20T09:05:33+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-11-20 09:07 北京时间"
+}

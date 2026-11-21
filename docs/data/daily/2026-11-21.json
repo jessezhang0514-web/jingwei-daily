@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-21",
+  "title": "AI股抛售加剧，数据中心监管与中国供应链信号同步升温",
+  "mainThemes": [
+    "美国AI股抛售把标普500拖入深度调整，市场开始重新定价算力投资与高估值风险",
+    "美国拟限制企业把AI数据中心建到海外，芯片、能源和基础设施竞争进一步政策化",
+    "中国黄金进口、稀土出口和消费数据共同显示避险需求上升、外需分化与内需偏弱"
+  ],
+  "watchNext": [
+    "关注AI板块急跌后是否出现流动性压力和融资条件收紧",
+    "观察美国数据中心海外限制是否形成正式政策及其对盟友投资的影响",
+    "跟踪中国稀土出口、消费与资本市场信息治理的后续数据"
+  ],
+  "windowStart": "2026-11-20T09:05:33+08:00",
+  "windowEnd": "2026-11-21T10:55:19+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-11-21T10:55:19+08:00",
+  "articles": [
+    {
+      "id": "2026-11-21-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国10月非货币黄金进口量同比激增174.1%",
+      "summary": "中国10月进口未锻造非货币黄金155.85吨，同比增长174.1%；进口额增至207.3亿美元，同比增长183.5%。黄金当月成为中国按金额计第三大进口品类，仅次于存储芯片和原油。",
+      "whyImportant": "居民增持黄金反映储蓄多元化和避险需求，也在改变中国进口结构与贸易顺差。",
+      "publishedAt": "2026-11-20T21:30:00+08:00",
+      "eventTime": "2026年10月海关数据",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/economic-indicators/article/3375219/chinese-households-appetite-makes-gold-third-largest-import-october",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Chinese households’ appetite makes gold third-largest import in October",
+        "note": "10月非货币黄金进口155.85吨、207.3亿美元，同比分别增174.1%和183.5%。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "市场",
+      "title": "中国稀土永磁体对美欧出口再度下降",
+      "summary": "中国10月对美国出口稀土永磁体563.6吨，环比下降6.7%，同比下降14.1%，逆转9月的反弹。对欧盟出口也回落，而对日本出口环比增长25%，显示主要市场需求和贸易关系继续分化。",
+      "whyImportant": "稀土磁体是电动车和高端制造关键投入品，出口变化会影响中美欧供应链和谈判筹码。",
+      "publishedAt": "2026-11-20T19:00:00+08:00",
+      "eventTime": "2026年10月海关数据",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/china-economy/article/3375248/chinas-rare-earth-magnet-exports-us-and-eu-fall-after-september-rebound",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s rare earth magnet exports to US and EU fall after September rebound",
+        "note": "对美出口563.6吨，环比降6.7%、同比降14.1%；对日出口环比增25%。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "政策",
+      "title": "中国证监会公布案例，加大打击扰乱股市的网络谣言",
+      "summary": "中国证监会披露多起与警方联合查处的网络造谣案例，内容涉及税收政策和上市消息等市场敏感话题。公开材料未说明具体处罚或相关人员是否被拘留。",
+      "whyImportant": "监管部门强化信息治理，意在稳定市场预期，但执法透明度和边界仍需后续观察。",
+      "publishedAt": "2026-11-20T19:50:00+08:00",
+      "eventTime": "2026年11月20日监管披露",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/china-business/article/3375262/beijing-ramps-crackdown-rumours-could-roil-stock-market",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Beijing ramps up crackdown on rumours that could roil stock market",
+        "note": "证监会公布与警方协作查处的市场谣言案例，涉及税收和上市信息。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "AI",
+      "title": "习近平呼吁中国与东南亚深化人工智能合作",
+      "summary": "习近平在深圳分别会见新加坡、马来西亚、印度尼西亚和泰国领导人，提出加强数字经济、人工智能和创新合作。相关会谈发生在美国与地区国家达成多项科技合作之后。",
+      "whyImportant": "中美科技竞争正在向东南亚合作网络延伸，区域国家的算力、数据和产业选择更受关注。",
+      "publishedAt": "2026-11-20T15:24:00+08:00",
+      "eventTime": "2026年11月20日双边会谈",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Xi tells Southeast Asian leaders deeper AI cooperation is needed",
+        "note": "与四国领导人会谈，提出加强数字经济、AI和创新合作。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "公司",
+      "title": "中国运动服饰需求继续降温，海外品牌下滑更明显",
+      "summary": "德意志银行研究显示，中国线上运动服饰市场10月进一步放缓，国际品牌降幅高于本土品牌。分析师预计第四季度折扣难以明显改善，部分投资者担心2027年消费环境更具挑战。",
+      "whyImportant": "运动服饰是可选消费的重要观察窗口，海外品牌承压也反映本土竞争和消费谨慎并存。",
+      "publishedAt": "2026-11-20T18:00:00+08:00",
+      "eventTime": "2026年10月至11月消费趋势",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/china-business/article/3375159/chinas-sportswear-sales-lose-steam-overseas-brands-see-even-sharper-declines",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "As China’s sportswear sales lose steam, overseas brands see even sharper declines",
+        "note": "10月线上运动服饰需求放缓，国际品牌降幅高于本土品牌。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "市场",
+      "title": "AI股抛售加剧，标普500大跌3.7%",
+      "summary": "AI相关股票遭遇重挫，标普500单日下跌3.7%，创18个多月来最差一周；纳斯达克年内涨幅被全部抹去。英伟达、美光、博通和AMD等芯片股成为主要拖累。",
+      "whyImportant": "市场从追逐AI增长转向审视资本开支和估值，可能收紧整个科技行业的融资条件。",
+      "publishedAt": "2026-11-20T03:17:09Z",
+      "eventTime": "2026年11月20日美国收盘",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+        "note": "标普500跌3.7%，纳斯达克年内转负，芯片和AI基础设施股领跌。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "政策",
+      "title": "特朗普威胁重税惩罚在海外建设AI数据中心的美国企业",
+      "summary": "特朗普表示，美国企业若在海外建设AI数据中心将面临“巨额税负”，但尚未公布具体政策文本。与此同时，美国本土社区对大型数据中心用电、补贴和环境影响的反对正在上升。",
+      "whyImportant": "若形成政策，全球云计算投资和盟友数据中心项目都可能重新布局。",
+      "publishedAt": "2026-11-20T17:45:03Z",
+      "eventTime": "2026年11月20日白宫记者会",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/f1ac03b73d13445400eeed8631d9d879",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash",
+        "note": "特朗普提出对海外建设数据中心的美国企业征收巨额税，但未给出正式方案。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "政策",
+      "title": "俄罗斯导弹和无人机落入波兰，北约称其严重侵犯领空",
+      "summary": "波兰称两枚俄罗斯Kh-101巡航导弹和一架疑似喷气式无人机落入境内，事件发生时欧洲正在附近举行军事演习。北约把此事称为严重侵犯，波兰政府认为可能是蓄意挑衅。",
+      "whyImportant": "俄罗斯武器进入北约领土会提高误判和升级风险，并影响欧洲安全与能源市场预期。",
+      "publishedAt": "2026-11-20T08:31:46Z",
+      "eventTime": "2026年11月20日",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/433e18f00cbd37a2a9da94e60fce0e07",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+        "note": "两枚Kh-101导弹及疑似无人机落入波兰，北约称为严重侵犯。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "公司",
+      "title": "Bending Spoons以36.8亿美元收购Mailchimp",
+      "summary": "Bending Spoons以36.8亿美元从Intuit收购邮件营销平台Mailchimp；Intuit在2021年的收购价约为120亿美元。交易主要为现金，同时Intuit将购买3.68亿美元的Bending Spoons新股。",
+      "whyImportant": "大幅折价出售显示AI冲击下传统SaaS资产正在被重新估值和整合。",
+      "publishedAt": "2026-11-20T08:16:00-08:00",
+      "eventTime": "2026年11月20日交易宣布",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Bending Spoons buys Mailchimp for $3.68B",
+        "note": "交易价36.8亿美元，对比Intuit 2021年约120亿美元收购价。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "AI",
+      "title": "AI辅助提出黎曼猜想证明，但仍需数学界严格核验",
+      "summary": "Anthropic数学家Levent Alpöge称与Claude共同得到黎曼猜想的Lean形式化证明，多名研究者确认代码可以编译。与此同时，另一名数学家发布了独立的人类证明草稿，两项结果都尚未完成全面同行核验。",
+      "whyImportant": "若证明成立，将是数学史重大突破，也会成为衡量AI参与前沿科学研究能力的标志性案例。",
+      "publishedAt": "2026-11-20T11:32:00-08:00",
+      "eventTime": "2026年11月20日公开",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "secondaryUrl": "https://www.nature.com/articles/d41586-026-03812-7",
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "note": "Lean证明可编译，但数学内容仍需长期审查；另有人类证明草稿同步公开。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "能源",
+      "title": "超热岩地热竞赛升温，Google签下5亿美元购电协议",
+      "summary": "Google同意支付超过5亿美元，从Quaise位于俄勒冈州的项目购买50兆瓦电力；该项目计划钻至约3英里深的超热岩层。Mazama和XGS等公司也在推进耐高温钻井与材料技术。",
+      "whyImportant": "若商业化成功，超热岩地热可提供稳定低碳电力，缓解AI数据中心的能源约束。",
+      "publishedAt": "2026-11-20T10:34:00-08:00",
+      "eventTime": "2026年11月20日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Super-hot rock geothermal could end data center energy woes",
+        "note": "Google拟支付逾5亿美元购买Quaise项目50兆瓦电力，单井潜力可达15兆瓦以上。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "能源",
+      "title": "Spotify创始人投资AI研究者创办的聚变能源公司",
+      "summary": "Spotify创始人Daniel Ek投资英国初创公司Europa Fusion。公司由前DeepMind、Meta AI和微软研究人员Nantas Nardelli创办，计划用更依赖仿真和数据的方法推进脉冲功率聚变。",
+      "whyImportant": "聚变创业正吸引科技资本，并尝试用AI和模拟降低昂贵硬件实验的开发周期。",
+      "publishedAt": "2026-11-20T11:53:00-08:00",
+      "eventTime": "2026年11月20日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "note": "Europa Fusion由AI研究者创办，采取仿真和数据驱动的脉冲功率聚变路线。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "政策",
+      "title": "加州总检察长传唤英伟达，调查芯片与信息是否流向中国",
+      "summary": "加州总检察长Rob Bonta向英伟达发出调查传票，核查先进GPU或机密信息是否被分享给中国，以及公司是否误导投资者和公众。调查源于前CEO黄仁勋相关事件引发的国家安全和信息披露疑问。",
+      "whyImportant": "调查把公司治理、出口管制和证券披露连接起来，可能扩大英伟达面临的合规风险。",
+      "publishedAt": "2026-11-20T05:21:00-08:00",
+      "eventTime": "2026年11月20日",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+        "note": "加州调查GPU、机密信息流向及投资者披露问题。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "政策",
+      "title": "美国国家网络主管将离职，关键职位再现更替",
+      "summary": "美国白宫国家网络主管Sean Cairncross将离任；该职位负责向总统提供国家网络安全政策建议。离职发生在多家企业技术故障频发、国会控制权即将变化之际，白宫尚未说明继任安排。",
+      "whyImportant": "高层更替可能影响美国网络安全、AI政策协调和关键基础设施事件响应。",
+      "publishedAt": "2026-11-20T01:14:00-08:00",
+      "eventTime": "2026年11月20日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "The US national cyber director is stepping down",
+        "note": "Sean Cairncross将离任，职位负责国家网络安全政策与战略协调。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "政策",
+      "title": "警务转录服务商暴露客户录音、视频和文字记录",
+      "summary": "为警察、检察机关和科技公司提供服务的Tigerfish把大量内部数据留在公开可访问的Amazon S3存储桶中。泄露内容包括警务访谈、执法记录仪素材、原始音视频和客户发票，公司在接到联系后关闭了公开访问。",
+      "whyImportant": "简单云配置错误即可暴露高度敏感执法材料，凸显供应商数据治理薄弱。",
+      "publishedAt": "2026-11-20T07:46:00-08:00",
+      "eventTime": "2026年11月20日披露",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+        "note": "公开S3桶暴露警务访谈、执法记录仪素材、原始音视频和发票。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "AI",
+      "title": "太空数据中心面临芯片融资难题",
+      "summary": "数据中心贷款通常以芯片作抵押，但部署在轨道上的芯片几乎无法回收转售。为SpaceX提供400亿美元芯片融资的贷款方据报要求相关芯片不得用于轨道数据中心，显示工程之外仍有融资结构障碍。",
+      "whyImportant": "太空算力能否落地不仅取决于火箭和散热，也取决于资产抵押和资本成本。",
+      "publishedAt": "2026-11-20T09:40:00-08:00",
+      "eventTime": "2026年11月20日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Chips can survive the space environment — can their financing?",
+        "note": "贷款方据报希望SpaceX的400亿美元融资芯片不被用于轨道数据中心。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "政策",
+      "title": "AI行业面临更高的商业间谍和社交工程风险",
+      "summary": "安全专家警告，芯片、模型和基础设施公司的创始人及员工正成为情报窃取目标。攻击者可借投资人、客户或招聘顾问身份接近目标，AI又降低了伪造身份、背景和语音的成本。",
+      "whyImportant": "企业最敏感的路线图和客户信息可能绕过技术防线，通过人际关系被获取。",
+      "publishedAt": "2026-11-20T12:58:00-08:00",
+      "eventTime": "2026年11月20日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "note": "专家称攻击者通过投资、招聘和咨询关系接近掌握敏感信息的人员，AI降低伪装成本。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "AI",
+      "title": "业余天文爱好者用Claude筛选出两颗候选系外行星",
+      "summary": "一名没有正式天文学背景的AI从业者让Claude Code分析NASA TESS对超过12万颗恒星的观测数据，找到同一恒星周围两颗候选行星。专业天文学家已将信号列入候选清单，但研究尚未完成同行评审。",
+      "whyImportant": "AI正在降低科学数据分析门槛，同时也要求更严格的验证以避免低质量发现大量涌入。",
+      "publishedAt": "2026-11-20",
+      "eventTime": "2026年11月20日报道",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-03790-w",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
+        "note": "Claude分析逾12万颗恒星数据，发现两颗候选行星，信号已进入专业候选清单。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "能源",
+      "title": "COP31开始讨论从净零转向“净负排放”",
+      "summary": "多个国家在COP31承认，仅达到净零只能阻止温度继续上升，若要在升温越过1.5摄氏度后再降下来，还需实现净负排放。UNEP估计，本世纪在达到净零后至少还需从大气移除3300亿吨二氧化碳。",
+      "whyImportant": "政策目标若转向净负排放，将显著扩大碳移除技术、林业和长期储碳投资需求。",
+      "publishedAt": "2026-11-20",
+      "eventTime": "2026年11月COP31",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-03789-3",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+        "note": "UNEP估计达到净零后仍需累计移除至少3300亿吨二氧化碳。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    },
+    {
+      "id": "2026-11-21-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "政策",
+      "title": "美国国家科学院建议期刊在12周内处理多数纠错事项",
+      "summary": "美国国家科学院报告称，学术期刊纠错和撤稿过慢且标准不一，建议多数单篇论文问题的编辑审查在12周内完成，通常不应超过6个月。报告同时呼吁期刊主动审计和公开处理时间。",
+      "whyImportant": "更快更透明的纠错机制有助于限制错误研究和AI生成问题文献在科学体系中扩散。",
+      "publishedAt": "2026-11-20",
+      "eventTime": "2026年11月20日报告发布",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-03787-5",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "US science academy urges journals to fix errors more quickly",
+        "note": "报告建议多数纠错审查12周内完成，通常不超过6个月，并提高透明度。",
+        "checkedAt": "2026-11-21T10:55:19+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-11-21 10:57 北京时间"
+}

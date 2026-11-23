@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-23",
+  "title": "AI治理与数据中心约束升温，中国房地产和产业转型信号并行",
+  "mainThemes": [
+    "AI发展从单纯追求能力转向可测量的安全阈值、隐私保护和基础设施约束",
+    "中国房地产调整、财政工具与新能源汽车渗透率共同勾勒经济转型压力",
+    "网络安全、芯片合规和前沿材料研究继续影响全球科技产业的风险定价"
+  ],
+  "watchNext": [
+    "关注主要AI公司是否形成可操作的共同能力阈值和暂停机制",
+    "跟踪中国房地产销售、地方财政及新能源汽车月度数据的后续变化",
+    "观察美国通信、芯片与网络安全监管是否出现新的正式措施"
+  ],
+  "windowStart": "2026-11-21T10:55:19+08:00",
+  "windowEnd": "2026-11-23T09:04:41+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-11-23T09:04:41+08:00",
+  "articles": [
+    {
+      "id": "2026-11-23-01",
+      "rank": 1,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国研究开征遗产税，离岸信托新税已带来约1600亿元收入",
+      "summary": "中国7月开始对部分富裕家庭的离岸信托征税，报道估算迄今已带来约1600亿元人民币收入，平均每天约14亿元。在房地产下行和地方财政承压之际，政策研究者正讨论遗产税等更长期的税源。",
+      "whyImportant": "财富税制若继续扩展，将影响高净值家庭的资产安排，也可能改变地方财政对土地收入的依赖。",
+      "publishedAt": "2026-11-22T15:00:00+08:00",
+      "eventTime": "2026年11月22日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/china-economy/article/3375261/after-tapping-offshore-trusts-china-eyes-bigger-fiscal-prize-estate-tax",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "After tapping offshore trusts, China eyes a bigger fiscal prize: an estate tax",
+        "note": "离岸信托新税自7月起据估算带来约1600亿元收入，财政压力推动遗产税讨论。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "宏观",
+      "title": "中国楼市是否触底仍存分歧，房价下跌继续拖累信心",
+      "summary": "分析师对中国住宅市场是否接近底部仍意见不一。持续下跌的房价正在压制消费、就业和投资，而土地出让收入减少又限制地方政府稳定市场的空间。",
+      "whyImportant": "房地产仍是居民财富、地方财政和内需的关键连接点，企稳时间将直接影响经济修复节奏。",
+      "publishedAt": "2026-11-22T11:00:00+08:00",
+      "eventTime": "2026年11月22日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/china-business/article/3375239/recovery-last-analysts-divided-chinas-home-market-outlook",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Recovery at last? Analysts divided on China’s home market outlook",
+        "note": "分析师对楼市触底判断分歧，房价下跌拖累消费、就业、投资和地方财政。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "能源",
+      "title": "中国新能源汽车渗透率预计首次突破70%",
+      "summary": "乘联会预计11月新能源汽车交付约115万辆，占乘用车销量70.6%，连续第八个月创渗透率新高。新能源汽车销量同比下降12.9%，但燃油车降幅达到46.9%，使结构性替代继续加快。",
+      "whyImportant": "即使总需求走弱，电动化份额仍快速上升，将进一步重塑汽车供应链、经销网络和能源需求。",
+      "publishedAt": "2026-11-21T14:00:00+08:00",
+      "eventTime": "2026年11月预测",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China’s EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales",
+        "note": "乘联会预计11月新能源车115万辆、渗透率70.6%；燃油车同比降46.9%。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-04",
+      "rank": 4,
+      "region": "中国",
+      "category": "科技",
+      "title": "中国公布月球资源开发路线图，拟2030年前验证制水制氧",
+      "summary": "中国探月工程总设计师吴伟仁提出，2030年前在月球验证利用当地资源制取水和氧气，2040年前建设示范装置，2050年前推进规模化资源开发。路线图仍属于长期规划，具体工程节点有待后续任务验证。",
+      "whyImportant": "原位资源利用可显著降低长期月球基地的补给成本，也是未来深空活动的关键基础能力。",
+      "publishedAt": "2026-11-21T20:00:00+08:00",
+      "eventTime": "2026年11月21日公布",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China unveils space mining road map with big move on moon within 4 years",
+        "note": "路线图提出2030年前验证月面制水制氧、2040年前示范、2050年前规模化开发。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "政策",
+      "title": "美国禁止三家中国电信运营商直接取得美国电话号码",
+      "summary": "美国联邦通信委员会投票禁止中国移动、中国电信和中国联通直接取得美国电话号码，理由涉及国家安全和自动骚扰电话风险。中国商务部表示反对，要求美方撤销措施并称将维护企业权益。",
+      "whyImportant": "限制把中美科技摩擦进一步延伸到基础通信资源和跨境服务合规。",
+      "publishedAt": "2026-11-22T15:02:00+08:00",
+      "eventTime": "2026年11月22日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/china/diplomacy/article/3375364/beijing-vows-defend-interests-us-bars-chinese-telecoms-accessing-phone-numbers",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Beijing vows to defend interests as US bars Chinese telecoms from accessing phone numbers",
+        "note": "FCC禁止三家中国运营商直接取得美国号码；中国商务部要求撤销。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "AI",
+      "title": "OpenAI首席科学家提出用共同能力阈值约束AI开发",
+      "summary": "OpenAI首席科学家Jakub Pachocki提出，主要AI公司可用模型困惑度等共享指标衡量前沿能力，并在跨越特定阈值前先达到监控和理解方面的安全里程碑。这一设想尚未形成行业协议。",
+      "whyImportant": "若共同指标能够落地，AI安全承诺将从原则性表态转向可比较、可触发行动的门槛。",
+      "publishedAt": "2026-11-22T13:14:00-08:00",
+      "eventTime": "2026年11月22日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+        "note": "Pachocki建议以共同进展指标和阈值，把能力提升与监控、理解里程碑绑定。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "能源",
+      "title": "数据中心用电用水争议成为美国科技业反弹焦点",
+      "summary": "大型数据中心对电网、水资源和周边噪音的影响正引发跨党派反对。报道列举爱尔兰数据中心用电占比超过20%、美国部分社区水资源压力等案例，科技公司开始承诺承担更多电网和冷却成本。",
+      "whyImportant": "AI算力扩张越来越受地方基础设施和社会许可约束，可能抬高建设成本并拖慢项目进度。",
+      "publishedAt": "2026-11-22T10:08:00-08:00",
+      "eventTime": "2026年11月22日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Why data centers are at the center of the Big Tech backlash",
+        "note": "数据中心用电、用水和噪音引发地方反弹，企业开始承诺承担更多基础设施成本。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "政策",
+      "title": "Signal限制手机截图，应对系统级AI读取屏幕风险",
+      "summary": "Signal在Android和iOS上加强截图限制，原因是系统级AI代理可能持续读取屏幕内容。用户可关闭相关保护，但应用警告这会削弱其隐私保证，现有措施也无法完全控制操作系统本身。",
+      "whyImportant": "AI代理进入操作系统后，端到端加密之外的屏幕层和交互层正在成为新的隐私边界。",
+      "publishedAt": "2026-11-21T13:37:00-08:00",
+      "eventTime": "2026年11月21日",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "note": "Signal加强移动端截图限制，以减少系统级AI代理读取敏感聊天内容的风险。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "芯片",
+      "title": "英伟达增长强劲，但中国合规与领导层争议加剧",
+      "summary": "英伟达在收入和算力需求上仍保持强劲，但围绕公司领导层和中国市场的争议升温。公司称没有在中国销售H200，并已关闭经马来西亚等地远程访问高端芯片的路径。",
+      "whyImportant": "英伟达既是AI投资周期的核心受益者，也是出口管制和治理风险最集中的公司之一。",
+      "publishedAt": "2026-11-21T13:07:00-08:00",
+      "eventTime": "2026年11月21日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "A tale of two Nvidias",
+        "note": "报道对比英伟达强劲业务与治理争议；公司称无H200中国销售并关闭远程访问路径。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "政策",
+      "title": "FBI调查全国犯罪信息中心数据库疑似遭入侵",
+      "summary": "美国联邦调查局正在调查全国犯罪信息中心数据库疑似遭黑客入侵。该系统被执法机构用于查询逮捕令和背景信息，目前事件范围尚不清楚。",
+      "whyImportant": "这类核心执法数据库一旦遭篡改或泄露，风险不仅是隐私暴露，还包括错误信息影响执法决定。",
+      "publishedAt": "2026-11-21T10:44:00-08:00",
+      "eventTime": "2026年11月21日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Trump says reported FBI database hack is ‘not good’",
+        "note": "FBI调查NCIC数据库疑似入侵，事件范围和数据完整性影响尚未确认。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "公司",
+      "title": "演员授权AI复制面孔，微短剧公司尝试重构制作成本",
+      "summary": "微短剧公司Shortical获得演员Aki Avni的面孔授权，用于制作完全由AI生成的剧集《Inevitable》。这类合同可以降低拍摄成本，但也把肖像权、补偿和后续使用范围推到行业争议中心。",
+      "whyImportant": "可授权的数字形象可能成为影视制作新资产，同时需要更清晰的同意、期限和收入分配规则。",
+      "publishedAt": "2026-11-21T08:00:00-08:00",
+      "eventTime": "2026年11月21日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "note": "Shortical授权使用演员Aki Avni面孔制作全AI微短剧，引发肖像权和补偿讨论。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "政策",
+      "title": "印度初创公司起诉苹果，指NameDrop侵犯专利",
+      "summary": "GG Technologies在印度起诉苹果，称NameDrop联系人分享功能侵犯其专利，索赔150亿印度卢比，约合1.62亿美元，并寻求禁令。案件由孟买高等法院受理，美国国际贸易委员会也在调查相关争议。",
+      "whyImportant": "案件可能影响苹果在印度的软件功能和专利许可策略，也反映本土科技公司更积极挑战全球平台。",
+      "publishedAt": "2026-11-20T20:00:00-08:00",
+      "eventTime": "2026年11月20日案件披露",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Startup sues Apple in India over tap-to-share contacts feature",
+        "note": "GG Technologies索赔150亿卢比并寻求禁令，争议涉及NameDrop联系人分享专利。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "公司",
+      "title": "Uber与Zipline扩大无人机配送，目标2029年日送100万单",
+      "summary": "Uber与Zipline已在美国得州休斯敦郊区启动无人机配送，并计划扩展到更多城市。双方提出到2029年底实现每天100万次配送，但这一目标仍取决于监管、运营密度和成本控制。",
+      "whyImportant": "若规模化成功，无人机配送将从试点转向城市物流基础设施，并改变即时配送的成本结构。",
+      "publishedAt": "2026-11-22",
+      "eventTime": "2026年11月22日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+        "note": "Uber与Zipline在休斯敦郊区启动配送，提出2029年底每天100万次无人机配送目标。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "AI",
+      "title": "临床大模型患者级“遗忘”方法减少已删除记录复现",
+      "summary": "研究提出LENS方法，在无需完整重训的情况下局部降低特定患者记录对临床大模型的影响。实验中，该方法比多种基线更少复现待删除记录，并较好保留其他患者信息，但尚未测试成员推断和权重访问攻击。",
+      "whyImportant": "患者撤回数据后如何让模型真正忘记相关信息，是医疗AI合规和隐私保护的核心难题。",
+      "publishedAt": "2026-11-22",
+      "eventTime": "2026年11月22日论文发布",
+      "source": "Nature / Scientific Reports",
+      "sourceUrl": "https://www.nature.com/articles/s41598-026-80817-2",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Localized patient-level unlearning for clinical large language models",
+        "note": "LENS无需完整重训即可削弱特定患者记录影响，减少复现并较好保留未删除患者信息。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "科技",
+      "title": "1伏电压即可切换聚电解质玻璃态，形成可控离子二极管",
+      "summary": "研究团队在聚电解质复合物中实现电诱导玻璃化转变，最低约1伏即可在刚性和柔性状态间可逆切换。材料的离子电导随之变化，可产生由动力学驱动的电流整流。",
+      "whyImportant": "低电压可控的离子器件可能用于柔性电子、生物接口和类脑计算中的新型开关。",
+      "publishedAt": "2026-11-22",
+      "eventTime": "2026年11月22日论文发布",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-026-79559-6",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Electrically induced glass transition of polyelectrolyte complexes enables kinetic ionic diodes",
+        "note": "外加电压最低约1伏即可实时、可逆切换玻璃态并改变离子电导，实现电流整流。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "能源",
+      "title": "CubeSat射频能量采集整流天线实验效率达到35.2%",
+      "summary": "研究团队为1U立方星设计2.4GHz整流天线，在实验条件下输出858毫伏、74微瓦直流功率，端到端转换效率为35.2%。功率不足以持续驱动常规子系统，但可积累后供超低功耗或间歇任务使用。",
+      "whyImportant": "辅助能量采集可延长小卫星任务寿命，并减少对单一太阳能和电池系统的依赖。",
+      "publishedAt": "2026-11-22",
+      "eventTime": "2026年11月22日论文发布",
+      "source": "Nature / Scientific Reports",
+      "sourceUrl": "https://www.nature.com/articles/s41598-026-80809-2",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Design and experimental evaluation of a 2.4-GHz rectenna for RF energy harvesting in CubeSat applications",
+        "note": "1U立方星整流天线输出74微瓦，射频到直流效率35.2%，适合积累供超低功耗任务。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "科技",
+      "title": "儿童身高大样本研究发现生长阶段特异的遗传与代谢联系",
+      "summary": "研究分析了72704名挪威儿童的574580次身高测量，并结合英国生物银行数据，发现不同成长阶段存在不同遗传效应。研究还识别出106种与青春期前身高相关的蛋白，并把胎儿生长和儿童身高与2型糖尿病风险联系起来。",
+      "whyImportant": "结果有助于区分正常生长差异与潜在健康风险，也提示儿童生长不能只用成年身高遗传规律解释。",
+      "publishedAt": "2026-11-22",
+      "eventTime": "2026年11月22日论文发布",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-026-79465-x",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "The genetic and proteomic determinants of pediatric stature development and their link to adult height and type 2 diabetes",
+        "note": "72704名儿童、574580次测量揭示成长阶段特异遗传效应及106种相关蛋白。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "科技",
+      "title": "超分辨率成像揭示雌激素受体驱动的不同表观遗传状态",
+      "summary": "研究使用超分辨率显微技术观察雌激素受体活动如何重组乳腺癌细胞中的染色质状态。结果显示，内分泌治疗耐药相关突变可维持不同于常规激素依赖状态的染色质结构。",
+      "whyImportant": "直接观察耐药相关染色质变化，有助于寻找乳腺癌治疗失效的新型生物标志物和干预靶点。",
+      "publishedAt": "2026-11-22",
+      "eventTime": "2026年11月22日论文发布",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-026-79507-4",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Super-resolution microscopy reveals distinct epigenetic states regulated by estrogen receptor activity",
+        "note": "超分辨率显微技术显示雌激素受体活动和耐药相关突变对应不同染色质状态。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "AI",
+      "title": "多语言视觉检索助手尝试为小农户提供有依据的作物建议",
+      "summary": "研究提出AgroVLM-RAG，把跨语言视觉编码、证据检索和生成校准结合，用于低中收入国家小农户的作物病害和决策支持。论文强调以检索证据限制无依据回答，但实际部署仍需更多地区和语言验证。",
+      "whyImportant": "农业场景需要同时处理图像、地方语言和可信证据，是检验多模态AI实际公共价值的重要应用。",
+      "publishedAt": "2026-11-22",
+      "eventTime": "2026年11月22日论文发布",
+      "source": "Nature / Scientific Reports",
+      "sourceUrl": "https://www.nature.com/articles/s41598-026-80633-8",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "A multilingual vision-language retrieval-augmented assistant for smallholder farmer decision support",
+        "note": "AgroVLM-RAG整合跨语言视觉编码、证据检索与生成校准，用于小农户决策支持。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    },
+    {
+      "id": "2026-11-23-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "科技",
+      "title": "巨磁阻传感器用于电磁导管定位，减少对X射线依赖",
+      "summary": "研究提出以巨磁阻传感器和无场点方法追踪介入导管位置，目标是在复杂人体环境中提供实时电磁定位。该技术仍处实验阶段，需要进一步验证精度、抗干扰能力和临床安全性。",
+      "whyImportant": "更可靠的非辐射导管导航可减少介入手术对X射线成像的依赖，并改善医生实时定位能力。",
+      "publishedAt": "2026-11-22",
+      "eventTime": "2026年11月22日论文发布",
+      "source": "Nature / Scientific Reports",
+      "sourceUrl": "https://www.nature.com/articles/s41598-026-79168-9",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Innovative electromagnetic catheter tracking using giant magnetoresistive sensors and field-free-point method",
+        "note": "使用巨磁阻传感器和无场点方法实现电磁导管定位，面向低辐射介入导航。",
+        "checkedAt": "2026-11-23T09:04:41+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-11-23 09:07 北京时间"
+}

@@ -28,7 +28,8 @@ SOURCE_DOMAINS = {'reuters.com', 'apnews.com', 'bbc.com', 'bbc.co.uk', 'ft.com',
     'nbim.no', 'blog.google', 'openai.com', 'anthropic.com', 'nvidia.com', 'scmp.com',
     'microsoft.com', 'apple.com', 'fda.gov', 'opis.com', 'marketscreener.com',
     'brecorder.com', 'ndtvprofit.com', 'oracle.com', 'investing.com', 'yahoo.com',
-    'cmegroup.com', 'gamesbeat.com', 'proximafusion.com', 'trezor.io', 'ons.gov.uk'}
+    'cmegroup.com', 'gamesbeat.com', 'proximafusion.com', 'trezor.io', 'ons.gov.uk',
+    'ofgem.gov.uk'}
 SECTION_PATHS = {'', '/', '/news', '/technology', '/business', '/world', '/markets', '/river'}
 
 def read(path):

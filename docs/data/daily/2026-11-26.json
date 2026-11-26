@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-26",
+  "title": "美国新关税方案与通胀升温，中国供应链调整并行",
+  "mainThemes": [
+    "美国提出新一轮关税方案，10月PCE通胀加快，增长数据也被上修",
+    "中国延长部分对美矿物出口限制暂缓期，车企和航空业推进跨境制造与采购",
+    "AI基础设施同时面对融资与监管约束，轨道算力取得有条件的许可"
+  ],
+  "watchNext": [
+    "关注美国关税方案征询及豁免清单",
+    "跟踪11月29日OPEC+会议和油市供给信号",
+    "观察英伟达评级评估及比亚迪法国工厂谈判"
+  ],
+  "windowStart": "2026-11-23T09:04:41+08:00",
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-11-26T09:31:08+08:00",
+  "windowEnd": "2026-11-26T09:28:59+08:00",
+  "articles": [
+    {
+      "id": "2026-11-26-01",
+      "rank": 1,
+      "region": "国际",
+      "category": "政策",
+      "title": "美国拟以产业补贴为由对多个贸易伙伴加征关税",
+      "summary": "美国政府提出对欧盟、中国、巴西等贸易伙伴的部分进口商品加征关税，拟议税率为15%至35%。部分半导体和高科技产品拟获豁免，方案仍需征询意见，尚未生效。",
+      "whyImportant": "新税率若落地，将改变多地出口商和美国进口商的成本。",
+      "publishedAt": "2026-11-25T13:11:06Z",
+      "eventTime": "11月25日方案公布",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/trump-tariffs-china-european-union-367083ea32f71fd7f70029ba7df66bf0",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
+        "note": "拟议税率15%至35%，部分产品拟获豁免，下一步征询意见。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-02",
+      "rank": 2,
+      "region": "国际",
+      "category": "宏观",
+      "title": "美国10月PCE通胀升至3.8%，三季度增速上修",
+      "summary": "美国10月个人消费支出价格指数同比上涨3.8%，高于9月的3.6%；核心同比由3.1%升至3.3%。三季度实际GDP环比折年率上修至4.3%。",
+      "whyImportant": "增长仍强、核心通胀上行，让美联储更难转向宽松。",
+      "publishedAt": "2026-11-25T13:37:18Z",
+      "eventTime": "美国10月PCE与三季度GDP，11月25日公布",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/consumer-spending-prices-inflation-tariffs-31fab1e32dda1ad3a29c192f620d5733",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+        "note": "10月总体、核心PCE同比为3.8%、3.3%；三季度GDP环比折年率4.3%。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "政策",
+      "title": "中国延长对美镓、锗、锑等出口限制暂缓期限",
+      "summary": "中国商务部把原定11月27日到期的部分对美出口限制暂缓期延长至2027年1月27日。涉及镓、锗、锑和超硬材料相关两用物项，也涉及部分石墨出口的较严审核措施。",
+      "whyImportant": "这是临时延长而非永久取消，有助于缓解相关制造商的短期采购不确定性。",
+      "publishedAt": "2026-11-24T09:22:00Z",
+      "eventTime": "11月24日公告",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://uk.marketscreener.com/news/china-extends-suspension-of-ban-on-us-bound-gallium-germanium-antimony-exports-ce7851dad08efe22",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China extends suspension of ban on US-bound gallium, germanium, antimony exports",
+        "note": "商务部将暂缓期限由11月27日延至2027年1月27日。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-04",
+      "rank": 4,
+      "region": "国际",
+      "category": "市场",
+      "title": "美股感恩节前回吐，纳指收跌0.6%",
+      "summary": "11月25日纳斯达克综合指数下跌147.73点，跌幅0.6%，收于23,585.80点。主要股指盘中跌势有所收敛，但市场仍在消化通胀数据和新的关税计划。",
+      "whyImportant": "收盘表现显示，投资者对高估值科技股与政策风险仍保持谨慎。",
+      "publishedAt": "2026-11-25T21:17:18Z",
+      "eventTime": "11月25日美股收盘",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/94fdb0ecb060ec65c0b02879ce0d2d09",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "How major US stock indexes fared Wednesday 11/25/2026",
+        "note": "纳指下跌147.73点、跌幅0.6%，收23,585.80点。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-05",
+      "rank": 5,
+      "region": "国际",
+      "category": "能源",
+      "title": "供应担忧推升国际油价，布伦特盘中升至93.06美元",
+      "summary": "11月25日14:48 GMT，布伦特原油期货涨1.82%至每桶93.06美元，WTI涨1.12%至82.97美元。也门胡塞武装声称袭击沙特炼油设施，报道未确认实际损失。",
+      "whyImportant": "原油市场仍在权衡短期供应风险与全球供给过剩预期。",
+      "publishedAt": "2026-11-25",
+      "eventTime": "11月25日盘中报价",
+      "source": "Reuters / Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40450651/oil-edges-down-as-supply-glut-prospect-offsets-middle-east-disruption-fears",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery",
+        "note": "布伦特与WTI盘中均涨逾1%；袭击为胡塞方面说法。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-06",
+      "rank": 6,
+      "region": "中国",
+      "category": "公司",
+      "title": "厦门航空订购50架波音737-8",
+      "summary": "据南方航空披露，厦门航空将采购50架波音737-8，目录总价约74亿美元，目录价并非实际成交价。这是报道所称波音自2017年以来获得的首份中国内地航司重大订单。",
+      "whyImportant": "订单为波音拓展中国市场提供了具体进展，不能与尚未落实的更大采购计划混为一谈。",
+      "publishedAt": "2026-11-24T23:28:00+08:00",
+      "eventTime": "11月24日订单披露",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/china-economy/article/3375665/chinese-airline-places-order-50-boeing-jets-trump-hints-bigger-deal",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Chinese airline places order for 50 Boeing jets as Trump hints at bigger deal",
+        "note": "采购50架737-8，合计目录价约74亿美元。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "宏观",
+      "title": "澳大利亚10月通胀升温，核心指标达两年高位",
+      "summary": "澳大利亚10月消费价格经季调环比上涨0.5%，高于路透调查预期的0.4%；燃油价格上涨6.3%。衡量基础通胀的指标增速也升至2024年以来最高。",
+      "whyImportant": "价格压力扩散使澳大利亚央行更难在就业降温时迅速降息。",
+      "publishedAt": "2026-11-25T02:21:00Z",
+      "eventTime": "11月25日公布10月数据",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/australian-inflation-heats-up-in-october-core-hits-twoyear-high-5049563",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Australian inflation heats up in October, core hits two-year high",
+        "note": "环比消费价格涨0.5%、燃油涨6.3%，核心通胀达2024年以来最高。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-08",
+      "rank": 8,
+      "region": "国际",
+      "category": "宏观",
+      "title": "德国第三季度GDP增幅下修至0.1%",
+      "summary": "德国联邦统计局将第三季度实际GDP环比增幅由0.2%下修至0.1%，经价格调整同比增长1.2%。9月出口和零售营业额表现低于初步估计。",
+      "whyImportant": "德国经济仍在增长，但复苏力度弱于初值所示。",
+      "publishedAt": "2026-11-25",
+      "eventTime": "11月25日发布第三季度详值",
+      "source": "Destatis",
+      "sourceUrl": "https://www.destatis.de/EN/Press/2026/11/PE26_409_811.html",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Gross domestic product: detailed results on economic performance in the 3rd quarter of 2026",
+        "note": "实际GDP环比0.1%，较初值低0.1个百分点，实际同比1.2%。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-09",
+      "rank": 9,
+      "region": "中国",
+      "category": "公司",
+      "title": "比亚迪就收购法国汽车工厂展开独家谈判",
+      "summary": "比亚迪与英力士汽车就法国昂巴克工厂展开独家谈判。交易尚未完成，企业仍需征询相关员工代表机构的意见。",
+      "whyImportant": "若谈判成功，比亚迪可扩大欧洲本地生产，降低对进口整车的依赖。",
+      "publishedAt": "2026-11-25T14:47:00+08:00",
+      "eventTime": "11月25日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/china-evs/article/3375711/byd-eyes-second-european-plant-enters-talks-ineos-over-french-assembly-france",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "BYD eyes a second European plant, enters talks with Ineos over a French assembly",
+        "note": "昂巴克项目进入独家谈判，仍需员工代表机构咨询。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-10",
+      "rank": 10,
+      "region": "中国",
+      "category": "芯片",
+      "title": "中国芯片业加快研发本土高端光刻胶",
+      "summary": "在日本出口审查趋严背景下，中国供应商正加快研发ArF和KrF等光刻胶。报道援引咨询机构估计，日本企业占2025年全球光刻胶产量逾53%，中国内地市场当年收入约70亿元人民币。",
+      "whyImportant": "光刻胶是晶圆制造的关键耗材；研发加快不等于已经通过量产验证。",
+      "publishedAt": "2026-11-24T16:00:00+08:00",
+      "eventTime": "11月24日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/china-economy/article/3375568/china-races-develop-home-grown-photoresists-japanese-export-curbs-squeeze-chipmakers",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China races to develop home-grown photoresists as Japanese export curbs squeeze chipmakers",
+        "note": "日本企业占全球产量逾53%；本土厂商向ArF、KrF等应用推进。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-11",
+      "rank": 11,
+      "region": "国际",
+      "category": "科技",
+      "title": "美国FCC有条件批准SpaceX轨道算力卫星计划",
+      "summary": "美国联邦通信委员会给予SpaceX有条件许可，拟部署的轨道数据中心卫星上限为100万颗。监管许可不是发射或部署承诺，实际规模仍取决于工程、资金和后续执行。",
+      "whyImportant": "轨道算力走到许可阶段，但其经济性、轨道拥挤和环境影响仍待验证。",
+      "publishedAt": "2026-11-25T12:56:00-08:00",
+      "eventTime": "11月25日监管决定",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "FCC approves SpaceX plan to put AI data centers in space",
+        "note": "FCC作出有条件授权，许可上限并非已部署数量。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "公司",
+      "title": "标普评估是否下调英伟达信用评级",
+      "summary": "据报道，标普考虑因公司治理和对关键人物依赖等风险下调英伟达信用评级，目前不等于已经降级。英伟达为部分算力项目提供支持，评级变化可能影响合作方的融资成本。",
+      "whyImportant": "AI基础设施的风险不只在股估值，也会通过担保和借贷传导。",
+      "publishedAt": "2026-11-25T14:44:00-08:00",
+      "eventTime": "11月25日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "S&P considers Nvidia credit downgrade over governance and 'key man' risks",
+        "note": "标普评估潜在降级；算力企业融资可能受信用支持变化影响。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-13",
+      "rank": 13,
+      "region": "中国",
+      "category": "科技",
+      "title": "巴基斯坦航天员随神舟二十四号进入天宫",
+      "summary": "巴基斯坦航天员穆罕默德·齐尚·阿里随神舟二十四号乘组进入天宫，成为首位登上中国空间站的外国航天员。他担任载荷专家，预计驻留5至10天。",
+      "whyImportant": "这是中国空间站国际载人合作从协议走向实际任务的一步。",
+      "publishedAt": "2026-11-25",
+      "eventTime": "11月25日进入空间站",
+      "source": "Reuters / Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40450650/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Pakistani astronaut becomes first foreigner to board China's Tiangong space station",
+        "note": "乘组进入天宫，阿里任载荷专家并预计短期驻留。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "AI",
+      "title": "纽约州签署儿童AI聊天玩具五年禁令",
+      "summary": "纽约州州长签署法案，禁止在州内制造、销售和分销内置AI聊天机器人的玩具，为期五年。法律在签署90天后生效，并非即刻禁止所有智能玩具。",
+      "whyImportant": "规定为儿童产品的隐私和内容安全划出更明确的边界。",
+      "publishedAt": "2026-11-25T10:11:00-08:00",
+      "eventTime": "11月25日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Want to buy your kid an AI toy this Christmas? Not in New York.",
+        "note": "禁令针对嵌入聊天机器人的玩具，签署90天后生效。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "政策",
+      "title": "欧盟委员会回应对15家涉俄实体的贸易限制",
+      "summary": "欧盟委员会11月25日在例行记者会上回应与俄方军工体系有关的15家实体所面临的贸易限制。委员会同时分别回应了第22轮制裁措施及相关议题。",
+      "whyImportant": "受限实体及规则文本会影响跨境供应商的交易对象筛查。",
+      "publishedAt": "2026-11-25",
+      "eventTime": "11月25日欧盟委员会记者会",
+      "source": "European Commission",
+      "sourceUrl": "https://audiovisual.ec.europa.eu/en/media/video/I-298575",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "EC Midday press briefing of 25/11/2026",
+        "note": "议程列明对与俄罗斯军工体系有关的15家实体的贸易限制。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "AI",
+      "title": "OpenAI计划整合Chat和Work，重度用户或更早触顶",
+      "summary": "OpenAI计划整合Chat和Work体验，并让部分高级功能共享用量额度。普通使用未必受到明显影响，但依赖多种高级工具的用户可能更早碰到限制。",
+      "whyImportant": "统一界面可减少切换，但共享额度会改变重度用户的工作安排。",
+      "publishedAt": "2026-11-25T12:03:00-08:00",
+      "eventTime": "11月25日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "note": "界面计划整合，部分高级工具从独立计量转为共享额度。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "公司",
+      "title": "亚马逊与Meta据报商谈让购物代理接入商城",
+      "summary": "据报道，亚马逊和Meta已就允许AI代理Muse直接连接亚马逊商城进行多轮讨论。双方仍在谈如何呈现搜索结果和广告，尚未公布协议。",
+      "whyImportant": "大型电商是否向第三方代理开放，将影响购物入口和广告收入的分配。",
+      "publishedAt": "2026-11-25T06:10:00-08:00",
+      "eventTime": "11月25日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "note": "据报道有多轮会谈，搜索和广告安排仍待谈判。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "能源",
+      "title": "英国将明年一季度居民能源价格上限上调26%",
+      "summary": "英国能源监管机构宣布，2027年1月至3月居民默认费率的能源价格上限上调26%。按典型用量折算，年化账单由1,723英镑升至2,166英镑；实际账单仍取决于用量。",
+      "whyImportant": "批发天然气涨价传导至居民账单，可能增加冬季生活成本与通胀压力。",
+      "publishedAt": "2026-11-25",
+      "eventTime": "11月25日公告，2027年1月起执行",
+      "source": "Ofgem",
+      "sourceUrl": "https://www.ofgem.gov.uk/press-release/energy-price-cap-rise-26-january-2027",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Energy price cap to rise by 26% from January 2027",
+        "note": "默认费率价格上限升26%，典型家庭年化账单2,166英镑。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "能源",
+      "title": "有机电极让全固态电池在较低压力下运行",
+      "summary": "研究团队展示了采用可变形有机电极的全固态实验电池，在低至1兆帕的外部堆叠压力下保持稳定循环。结果来自实验电池，仍需验证放大和量产条件。",
+      "whyImportant": "降低外部压力要求有助于减轻电池包额外加压结构的负担。",
+      "publishedAt": "2026-11-25",
+      "eventTime": "11月25日论文发布",
+      "source": "Nature Communications",
+      "sourceUrl": "https://www.nature.com/articles/s41467-026-79379-8",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Low-pressure operation of all-solid-state batteries enabled by an organic electrode",
+        "note": "包含有机活性材料的实验电池在低至1兆帕下稳定循环。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    },
+    {
+      "id": "2026-11-26-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "科技",
+      "title": "研究估计历史泥炭地排水留下长期增温效应",
+      "summary": "研究重建了1800至2020年全球泥炭地排水的气候影响。排水虽然降低甲烷排放，但增加的二氧化碳效应更大，估计约占工业时代辐射强迫的2.7%。",
+      "whyImportant": "恢复泥炭地水位的气候价值需要同时考虑两类温室气体和长期变化。",
+      "publishedAt": "2026-11-25",
+      "eventTime": "11月25日论文发布",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-11339-0",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "An enduring climatic burden from past peatland drainage",
+        "note": "模型重建估计净效应为正，约占工业时代辐射强迫的2.7%。",
+        "checkedAt": "2026-11-26T09:28:59+08:00"
+      }
+    }
+  ],
+  "generatedAt": "2026-11-26 09:31 北京时间"
+}

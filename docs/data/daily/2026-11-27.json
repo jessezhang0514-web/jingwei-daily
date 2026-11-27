@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-27",
+  "title": "韩国加息，亚洲推进跨境支付，芯片管制开始影响出货",
+  "mainThemes": [
+    "韩国加息、欧洲央行纪要示警，能源成本继续牵动货币政策",
+    "中国等回应美国关税提案，中日韩与东盟启动跨境支付合作讨论",
+    "英伟达据报暂停部分东南亚服务器发运，荷兰对另一项芯片管制提案提出异议"
+  ],
+  "watchNext": [
+    "关注各贸易伙伴是否公布进一步磋商安排",
+    "跟踪印度央行下次利率决定",
+    "观察东南亚服务器发运何时恢复及相关许可进展"
+  ],
+  "windowStart": "2026-11-26T09:28:59+08:00",
+  "windowEnd": "2026-11-27T09:11:49+08:00",
+  "articles": [
+    {
+      "id": "2026-11-27-01",
+      "rank": 1,
+      "region": "国际",
+      "category": "宏观",
+      "title": "韩国央行加息至3.25%，上修今明两年增长预期",
+      "summary": "韩国央行加息25个基点至3.25%，为7月以来第三次加息。央行将2026年增长预期从3.3%上调至3.9%，2027年从2.9%上调至4.1%。",
+      "whyImportant": "半导体出口拉动增长，但能源成本和物价压力让央行继续收紧。",
+      "publishedAt": "2026-11-26T02:25:24Z",
+      "eventTime": "11月26日利率决议",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/south-korea-bank-interest-rate-exports-inflation-b9cef57c80c2ceb5e273b71b9a32c9d9",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "South Korea’s central bank raises key interest rate to fight inflation",
+        "note": "政策利率升至3.25%；今明两年增长预测分别升至3.9%、4.1%。",
+        "checkedAt": "2026-11-27T09:11:49+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-02",
+      "rank": 2,
+      "region": "中国",
+      "category": "政策",
+      "title": "中国等贸易伙伴回应美国新关税提案",
+      "summary": "新增进展：在美国公布拟议税率后，中国、日本等贸易伙伴于11月26日对方案提出异议。欧盟也拒绝接受欧洲存在结构性产能过剩的说法；提案并未因此生效。",
+      "whyImportant": "贸易伙伴的正式回应为后续磋商和行业豁免划出初步立场。",
+      "publishedAt": "2026-11-26T10:00:03Z",
+      "eventTime": "11月26日多方回应",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/us-tariffs-china-japan-singapore-b94a693004ad8f9b5e78f7aafb196a71",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China and other US trading partners hit back at Trump’s new tariff plans",
+        "note": "中国、日本等反对拟议加税，欧盟否认欧洲存在结构性过剩。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-03",
+      "rank": 3,
+      "region": "中国",
+      "category": "宏观",
+      "title": "香港10月出口额同比增长65.6%，电子产品需求强劲",
+      "summary": "香港公布初步数据，10月商品出口额同比增长65.6%，为70多年来最快。报道将其主要归因于AI相关电子商品需求，新的贸易政策仍给后续出口带来不确定性。",
+      "whyImportant": "电子产品需求支撑贸易增长，但高度集中的增长来源也值得关注。",
+      "publishedAt": "2026-11-26T17:23:24+08:00",
+      "eventTime": "11月26日发布10月数据",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375917/hong-kong-exports-post-fastest-growth-70-years-ai-related-goods",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Hong Kong exports post fastest growth in 70 years on AI-related goods",
+        "note": "香港10月出口额初值同比增65.6%；AI相关电子品需求拉动。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-04",
+      "rank": 4,
+      "region": "国际",
+      "category": "宏观",
+      "title": "欧洲央行纪要：能源冲击推高通胀并压低增长前景",
+      "summary": "欧洲央行11月26日发布10月底会议纪要。文件显示，能源价格高于9月基准预测，抬高通胀上行风险、增加增长下行风险，管理委员会当时维持利率不变。",
+      "whyImportant": "纪要揭示了欧洲央行在能源冲击下维持利率的依据；它不是新的利率决定。",
+      "publishedAt": "2026-11-26T13:30:00+01:00",
+      "eventTime": "11月26日公布10月28日至29日会议纪要",
+      "source": "European Central Bank",
+      "sourceUrl": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.nl.html",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Meeting of 28-29 October 2026",
+        "note": "纪要记载能源价格超基准路径、通胀风险向上，10月议息维持利率。",
+        "checkedAt": "2026-11-27T09:11:49+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-05",
+      "rank": 5,
+      "region": "中国",
+      "category": "政策",
+      "title": "中日韩与东盟启动跨境数字支付合作讨论",
+      "summary": "中国、日本、韩国与东南亚国家同意讨论如何更好地连接跨境支付系统，以及协调数字资产监管。各方尚未推出统一支付平台或采用统一规则。",
+      "whyImportant": "互联若能落实，区域内的零售支付和汇款或更便捷。",
+      "publishedAt": "2026-11-26T05:01:37Z",
+      "eventTime": "11月26日达成讨论安排",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/economy-news/china-japan-south-korea-and-asean-launch-talks-on-digital-payments-across-borders-5052024",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "China, Japan, South Korea and ASEAN launch talks on digital payments across borders",
+        "note": "各方同意探索支付系统互联和数字资产监管协调。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-06",
+      "rank": 6,
+      "region": "国际",
+      "category": "芯片",
+      "title": "英伟达据报暂停向东南亚部分市场发运服务器",
+      "summary": "据报道，英伟达已要求戴尔、超微电脑等合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚发运有关服务器，期限未披露。惠誉同日预计，管制收紧将让亚太数据中心投资更有选择性。",
+      "whyImportant": "政策由许可要求传导至实际发货，可能影响区域数据中心扩建节奏。",
+      "publishedAt": "2026-11-26T12:03:00-08:00",
+      "eventTime": "11月26日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "secondaryUrl": "https://www.investing.com/news/stock-market-news/us-chip-curbs-will-slow-asia-datacenter-investment-fitch-says-5052417",
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "note": "报道指合作伙伴暂停向四个市场发运；未披露期限。",
+        "checkedAt": "2026-11-27T09:11:49+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-07",
+      "rank": 7,
+      "region": "国际",
+      "category": "市场",
+      "title": "感恩节期间美股休市，欧洲与亚洲股市反弹",
+      "summary": "11月26日美国股市因感恩节休市，欧洲和亚洲主要股指反弹。韩国综合股价指数在前一交易日下跌6.2%后回升约0.3%。",
+      "whyImportant": "节日期间交易活动偏淡，科技股回升还不足以判断波动已经结束。",
+      "publishedAt": "2026-11-26T05:21:54Z",
+      "eventTime": "11月26日市场交易",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Global stocks rise and tech shares rebound as US closes for Thanksgiving",
+        "note": "亚洲和欧洲市场上涨；韩国综合指数前日跌6.2%后小幅回升。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-08",
+      "rank": 8,
+      "region": "中国",
+      "category": "芯片",
+      "title": "华为与本土伙伴推进芯片设计工具互联",
+      "summary": "杭州企业 Phlexing Technology 表示，已与华为合作开发用于芯片设计的提取和签核工具，并将其与其他本土软件衔接。报道所述是工具链进展，未表明相关方案已大规模量产。",
+      "whyImportant": "设计工具能否相互兼容，关系到芯片设计企业使用本土软件的成本。",
+      "publishedAt": "2026-11-26T17:00:15+08:00",
+      "eventTime": "11月26日报道",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Huawei advances home-grown chip design ecosystem while eyeing global push to rival Nvidia",
+        "note": "华为和 Phlexing 开发提取、签核工具并连接其他本土EDA软件。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-09",
+      "rank": 9,
+      "region": "国际",
+      "category": "政策",
+      "title": "荷兰贸易部长反对美国拟议芯片设备法案",
+      "summary": "荷兰贸易部长表示，正在美国国会讨论的芯片管制方案可能令欧洲企业处于竞争劣势，荷方将向华盛顿表达反对。报道指出，该提案可能影响光刻设备供应商阿斯麦；它尚不是已经生效的限制。",
+      "whyImportant": "盟友之间对设备出口管制范围的分歧，影响企业的销售与合规计划。",
+      "publishedAt": "2026-11-26T11:35:06Z",
+      "eventTime": "11月26日部长表态",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Netherlands will ask Washington not to enforce MATCH Act, minister says",
+        "note": "荷兰贸易部长认为拟议法案影响欧洲竞争力；阿斯麦可能受影响。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-10",
+      "rank": 10,
+      "region": "国际",
+      "category": "政策",
+      "title": "CPTPP、东盟和欧盟在越南举行经贸对话",
+      "summary": "环太平洋贸易协定成员、东盟和欧盟的贸易官员在越南举行经贸对话，涉及近20个国家。会议在多方关注美国新关税方案之际举行，但不等于达成新贸易协定。",
+      "whyImportant": "该对话为区域经贸协调提供渠道，也有助于观察贸易伙伴如何分散政策风险。",
+      "publishedAt": "2026-11-26T04:05:25+01:00",
+      "eventTime": "11月26日河内对话",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://uk.marketscreener.com/news/pacific-trade-bloc-asean-meet-in-vietnam-as-trump-fires-new-tariff-salvo-ce7851d8dc8af02d",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Pacific trade bloc, ASEAN meet in Vietnam as Trump fires new tariff salvo",
+        "note": "CPTPP、东盟和欧盟贸易官员在河内举行对话。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-11",
+      "rank": 11,
+      "region": "中国",
+      "category": "公司",
+      "title": "汇丰称港元稳定币首月使用人数超10万",
+      "summary": "汇丰表示，其港元支持的稳定币 RedCoin 上线首月有超过10万人使用。该数字由银行公布，反映触达人数，不等于活跃用户数、交易额或市场份额。",
+      "whyImportant": "这是香港持牌稳定币零售应用的一项早期采用指标。",
+      "publishedAt": "2026-11-26T11:00:11+08:00",
+      "eventTime": "11月26日披露上线首月情况",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/article/3375825/hsbc-sees-more-100000-users-its-stablecoin-first-month-launch",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "HSBC sees more than 100,000 users of its stablecoin in first month since launch",
+        "note": "汇丰称 RedCoin 首月有逾10万人使用。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-12",
+      "rank": 12,
+      "region": "国际",
+      "category": "宏观",
+      "title": "英国长期净移民降至7.7万人",
+      "summary": "英国国家统计局初步估算，截至2026年6月的12个月，长期净移民为7.7万人。前一年度相应数字修订为20.4万人，最新数字仍可能修订。",
+      "whyImportant": "净移民变化会影响劳动力供给和公共服务规划。",
+      "publishedAt": "2026-11-26T09:30:00Z",
+      "eventTime": "11月26日发布截至6月数据",
+      "source": "Office for National Statistics",
+      "sourceUrl": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Long-term international migration, provisional: year ending June 2026",
+        "note": "年度净移民初估77,000人，上一年修订至204,000人。",
+        "checkedAt": "2026-11-27T09:11:49+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-13",
+      "rank": 13,
+      "region": "国际",
+      "category": "市场",
+      "title": "油价反弹使印度卢比收盘下跌0.2%",
+      "summary": "印度卢比11月26日兑美元收跌0.2%，为该周前三个交易时段中第二次下跌。路透将表现归因于油价上涨及地区货币走弱；远期汇率溢价也上升。",
+      "whyImportant": "对能源进口国而言，油价上升与本币走弱叠加，会放大进口成本压力。",
+      "publishedAt": "2026-11-26T20:04:16+05:00",
+      "eventTime": "11月26日印度收盘",
+      "source": "Reuters / Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/amp/40450879",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Spike in oil prices partly reverses rupee rally, forward premiums surge",
+        "note": "印度卢比收跌0.2%，受油价和地区汇率拖累。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-14",
+      "rank": 14,
+      "region": "国际",
+      "category": "宏观",
+      "title": "印度利率市场开始计入更大幅加息的可能性",
+      "summary": "路透调查中，超过九成经济学家预计印度央行下次上调25个基点至5.75%。但短期互换和国库券的走势显示，部分交易员也在为更大幅度加息做准备。",
+      "whyImportant": "市场定价与主流调查预期有差异，但央行尚未作决定。",
+      "publishedAt": "2026-11-26T19:56:34+05:00",
+      "eventTime": "11月26日市场定价",
+      "source": "Reuters / Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/amp/40450877",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "India swaps, treasury bills signal possibility of outsized RBI rate hike next week",
+        "note": "调查主流预期加息25个基点；部分市场交易反映更大幅加息风险。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-15",
+      "rank": 15,
+      "region": "国际",
+      "category": "科技",
+      "title": "X推出青少年账号家长控制功能",
+      "summary": "X为13至17岁用户推出家长监管工具，称这类账号将默认启用保护模式，限制敏感内容并不投放定向广告。部分监管设置需要青少年参与确认。",
+      "whyImportant": "默认设置和征得同意的方式，将影响家长工具的实际覆盖率。",
+      "publishedAt": "2026-11-26T11:31:00-08:00",
+      "eventTime": "11月26日报道",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "X finally gets parental controls after 20 years",
+        "note": "13至17岁账号默认受保护，限制敏感内容和定向广告。",
+        "checkedAt": "2026-11-27T09:11:49+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-16",
+      "rank": 16,
+      "region": "国际",
+      "category": "公司",
+      "title": "维也纳保险集团前三季税前利润同比增约15%",
+      "summary": "维也纳保险集团披露，2026年前三季度税前利润首次在九个月内超过10亿欧元，同比增长约15%。公司将全年利润指引上调至约14亿欧元。",
+      "whyImportant": "财报反映中东欧保险业务的增长，以及并购开始带来的贡献。",
+      "publishedAt": "2026-11-26T15:02:12Z",
+      "eventTime": "11月26日发布前三季度业绩",
+      "source": "Investing.com",
+      "sourceUrl": "https://ca.investing.com/news/stock-market-news/vig-9m-2026-slides-profit-jumps-15-guidance-raised-to-14bn-93CH-4982563",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "VIG 9M 2026 slides: profit jumps 15%, guidance raised to €1.4bn",
+        "note": "九个月税前利润超10亿欧元、增约15%，全年指引升至约14亿欧元。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-17",
+      "rank": 17,
+      "region": "国际",
+      "category": "公司",
+      "title": "南非食品集团 Tiger Brands 年度经营利润增长12.6%",
+      "summary": "南非食品集团 Tiger Brands 公布截至2026年9月底的年度业绩。扣除减值及非经营项目之前的经营利润增至43亿兰特，经营利润率为12.6%。",
+      "whyImportant": "销量与利润改善，为观察南非食品行业消费与成本走势提供一项企业样本。",
+      "publishedAt": "2026-11-26T09:48:50Z",
+      "eventTime": "11月26日发布截至9月底财年业绩",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/company-news/tiger-brands-fy26-slides-volume-growth-beats-guidance-roic-hits-28-93CH-5052317",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Tiger Brands FY26 slides: volume growth beats guidance, ROIC hits 28%",
+        "note": "经营利润43亿兰特，同比增长12.6%，经营利润率12.6%。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-18",
+      "rank": 18,
+      "region": "国际",
+      "category": "宏观",
+      "title": "英国16至24岁未就业也未就学或受训者约95.9万人",
+      "summary": "英国国家统计局估计，2026年7至9月，约95.9万名16至24岁人士未就业、未就学且未受训，占该年龄段12.7%。这一占比比上季度下降0.3个百分点，同比大致持平。",
+      "whyImportant": "这一指标比失业率更广，也覆盖未积极找工作的青年。",
+      "publishedAt": "2026-11-26T09:30:00Z",
+      "eventTime": "11月26日发布7至9月估计",
+      "source": "Office for National Statistics",
+      "sourceUrl": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/bulletins/youngpeoplenotineducationemploymentortrainingneet/november2026",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Young people not in education, employment or training (NEET), UK: November 2026",
+        "note": "估计有959,000人，占比12.7%，较上一季度低0.3个百分点。",
+        "checkedAt": "2026-11-27T09:11:49+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-19",
+      "rank": 19,
+      "region": "国际",
+      "category": "能源",
+      "title": "Premier Energy 下调全年利润预期",
+      "summary": "Premier Energy 在第三季度业绩电话会上表示，能源供应业务利润率承压。管理层预计2026年经调整的息税折旧摊销前利润将在1.5亿欧元附近，也可能略低。",
+      "whyImportant": "能源零售商的利润不仅取决于销量，也取决于采购和销售之间的价差。",
+      "publishedAt": "2026-11-26T09:02:02Z",
+      "eventTime": "11月26日刊发第三季度业绩电话会实录",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/transcripts/earnings-call-transcript-premier-energy-cuts-2026-outlook-as-supply-margins-tighten-in-q3-2026-93CH-5052282",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Earnings call transcript: Premier Energy cuts 2026 outlook as supply margins tighten in Q3 2026",
+        "note": "第三季度供应利润率收紧，管理层预计全年经调整 EBITDA 约1.5亿欧元或略低。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    },
+    {
+      "id": "2026-11-27-20",
+      "rank": 20,
+      "region": "国际",
+      "category": "能源",
+      "title": "俄罗斯南部一家炼油厂报告设备受损",
+      "summary": "俄罗斯南部一家炼油企业称，其工厂11月26日发生火灾，部分设备受损。路透报道，该厂事发时已处于维护停工期，尚不能确定对供应的新增影响。",
+      "whyImportant": "应区分炼油设备受损和即时产量损失，避免把已停工产能重复计入。",
+      "publishedAt": "2026-11-26T15:11:22+01:00",
+      "eventTime": "11月26日企业通报",
+      "source": "Reuters / MarketScreener",
+      "sourceUrl": "https://in.marketscreener.com/news/russia-s-oil-refinery-in-krasnodar-region-on-fire-after-drone-attack-ce7851d8d08ef126",
+      "secondaryUrl": null,
+      "imageUrl": null,
+      "imageCredit": null,
+      "evidence": {
+        "title": "Russian oil refinery in Krasnodar region on fire after drone attack",
+        "note": "企业称有设备受损，工厂事发前已停工维护。",
+        "checkedAt": "2026-11-27T09:13:44+08:00"
+      }
+    }
+  ],
+  "linksCheckedBy": "browser",
+  "linksCheckedAt": "2026-11-27T09:13:44+08:00",
+  "generatedAt": "2026-11-27 09:13 北京时间"
+}
